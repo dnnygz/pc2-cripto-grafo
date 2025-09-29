@@ -1,0 +1,710 @@
+node_id,node_type,name,symbol,category,market_cap,volume_24h,rank,is_multichain,chain_platforms,main_contract,links_explorers,wallets_inferred
+class:Artificial Intelligence,B,Artificial Intelligence,,,,,,,,,,
+class:Gaming,B,Gaming,,,,,,,,,,
+class:Real World Assets,B,Real World Assets,,,,,,,,,,
+class:Memes,B,Memes,,,,,,,,,,
+cg:near,A,NEAR Protocol,near,Artificial Intelligence,3418626888.0,180757666.0,49.0,False,"['', 'ethereum']",0x85f17cf997934a597031b2e18a9ab6ebd4b9f6a4,"['nearblocks.io', 'platform.arkhamintelligence.com', 'explorer.near.org', 'etherscan.io', 'ethplorer.io']","['MetaMask', 'Trust Wallet']"
+exp:nearblocks.io,D,nearblocks.io,,,,,,,,,,
+exp:platform.arkhamintelligence.com,D,platform.arkhamintelligence.com,,,,,,,,,,
+exp:explorer.near.org,D,explorer.near.org,,,,,,,,,,
+exp:etherscan.io,D,etherscan.io,,,,,,,,,,
+exp:ethplorer.io,D,ethplorer.io,,,,,,,,,,
+cg:bittensor,A,Bittensor,tao,Artificial Intelligence,2893752292.0,73717151.0,54.0,False,[''],,['taostats.io'],[]
+exp:taostats.io,D,taostats.io,,,,,,,,,,
+cg:story-2,A,Story,ip,Artificial Intelligence,2778527667.0,234132277.0,57.0,False,[''],,['www.storyscan.xyz'],[]
+exp:www.storyscan.xyz,D,www.storyscan.xyz,,,,,,,,,,
+cg:internet-computer,A,Internet Computer,icp,Artificial Intelligence,2264049277.0,45022680.0,64.0,True,"['internet-computer', 'ethereum', 'base']",ryjl3-tyaaa-aaaaa-aaaba-cai,"['dashboard.internetcomputer.org', 'etherscan.io', 'ethplorer.io', 'basescan.org']","['MetaMask', 'Trust Wallet']"
+exp:dashboard.internetcomputer.org,D,dashboard.internetcomputer.org,,,,,,,,,,
+exp:basescan.org,D,basescan.org,,,,,,,,,,
+cg:render-token,A,Render,render,Artificial Intelligence,1752390737.0,56755531.0,85.0,True,"['ethereum', 'solana']",0x6de037ef9ad2725eb40118bb1702ebb27e4aeb24,"['solscan.io', 'platform.arkhamintelligence.com', 'polygonscan.com', 'etherscan.io', 'polygon.dex.guru', 'ethplorer.io']","['MetaMask', 'Phantom', 'Solflare', 'Trust Wallet']"
+exp:solscan.io,D,solscan.io,,,,,,,,,,
+exp:polygonscan.com,D,polygonscan.com,,,,,,,,,,
+exp:polygon.dex.guru,D,polygon.dex.guru,,,,,,,,,,
+cg:fetch-ai,A,Artificial Superintelligence Alliance,fet,Artificial Intelligence,1474007510.0,62705841.0,97.0,True,"['ethereum', 'cardano', 'osmosis', 'binance-smart-chain']",0xaea46a60368a7bd060eec7df8cba43b7ef41ad85,"['explore.fetch.ai', 'platform.arkhamintelligence.com', 'www.mintscan.io', 'etherscan.io', 'bscscan.com', 'ethplorer.io', 'atomscan.com', 'binplorer.com', 'cardanoscan.io']","['MetaMask', 'Trust Wallet']"
+exp:explore.fetch.ai,D,explore.fetch.ai,,,,,,,,,,
+exp:www.mintscan.io,D,www.mintscan.io,,,,,,,,,,
+exp:bscscan.com,D,bscscan.com,,,,,,,,,,
+exp:atomscan.com,D,atomscan.com,,,,,,,,,,
+exp:binplorer.com,D,binplorer.com,,,,,,,,,,
+exp:cardanoscan.io,D,cardanoscan.io,,,,,,,,,,
+cg:the-graph,A,The Graph,grt,Artificial Intelligence,845786582.0,22296195.0,130.0,True,"['ethereum', 'near-protocol', 'harmony-shard-0', 'energi', 'sora', 'avalanche', 'polygon-pos', 'arbitrum-one']",0xc944e90c64b2c07662a292be6244bdf05cda44a7,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io', 'polygonscan.com', 'arbiscan.io', 'snowtrace.io', 'avascan.info', 'explorer.energi.network', 'nearblocks.io', 'explorer.harmony.one']","['Core', 'MetaMask', 'Trust Wallet']"
+exp:arbiscan.io,D,arbiscan.io,,,,,,,,,,
+exp:snowtrace.io,D,snowtrace.io,,,,,,,,,,
+exp:avascan.info,D,avascan.info,,,,,,,,,,
+exp:explorer.energi.network,D,explorer.energi.network,,,,,,,,,,
+exp:explorer.harmony.one,D,explorer.harmony.one,,,,,,,,,,
+cg:zero-gravity,A,0G,0g,Artificial Intelligence,720539939.0,695084037.0,142.0,True,"['binance-smart-chain', 'ethereum']",0x4b948d64de1f71fcd12fb586f4c776421a35b3ee,"['chainscan.0g.ai', 'bscscan.com', 'binplorer.com', 'etherscan.io', 'ethplorer.io']","['MetaMask', 'Trust Wallet']"
+exp:chainscan.0g.ai,D,chainscan.0g.ai,,,,,,,,,,
+cg:theta-token,A,Theta Network,theta,Artificial Intelligence,680633387.0,17002303.0,147.0,False,[''],,"['explorer.thetatoken.org', 'explorer.energi.network']",[]
+exp:explorer.thetatoken.org,D,explorer.thetatoken.org,,,,,,,,,,
+cg:virtual-protocol,A,Virtuals Protocol,virtual,Artificial Intelligence,672316781.0,47108590.0,149.0,True,"['ethereum', 'solana', 'base']",0x44ff8620b8ca30902395a7bd3f2407e1a091bf73,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io', 'basescan.org', 'solscan.io']","['MetaMask', 'Phantom', 'Solflare', 'Trust Wallet']"
+cg:beldex,A,Beldex,bdx,Artificial Intelligence,649840379.0,7017572.0,156.0,False,[''],,['explorer.beldex.io'],[]
+exp:explorer.beldex.io,D,explorer.beldex.io,,,,,,,,,,
+cg:dexe,A,DeXe,dexe,Artificial Intelligence,527640314.0,8712642.0,178.0,True,"['ethereum', 'binance-smart-chain']",0xde4ee8057785a7e8e800db58f9784845a5c2cbd6,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io', 'bscscan.com', 'binplorer.com']","['MetaMask', 'Trust Wallet']"
+cg:solmev,A,SolMev,sn116,Artificial Intelligence,390073544.0,0.0,220.0,False,['bittensor'],116,['taostats.io'],[]
+cg:arweave,A,Arweave,ar,Artificial Intelligence,363526779.0,27168956.0,230.0,False,[''],,['viewblock.io'],[]
+exp:viewblock.io,D,viewblock.io,,,,,,,,,,
+cg:aioz-network,A,AIOZ Network,aioz,Artificial Intelligence,329364470.0,9211228.0,247.0,True,"['ethereum', 'osmosis', 'binance-smart-chain']",0x626e8036deb333b408be468f951bdb42433cbf18,"['explorer.aioz.network', 'platform.arkhamintelligence.com', 'etherscan.io', 'bscscan.com', 'binplorer.com', 'ethplorer.io', 'www.mintscan.io']","['MetaMask', 'Trust Wallet']"
+exp:explorer.aioz.network,D,explorer.aioz.network,,,,,,,,,,
+cg:kaito,A,KAITO,kaito,Artificial Intelligence,306845128.0,204780764.0,260.0,False,['base'],0x98d0baa52b2d063e780de12f615f963fe8537553,['basescan.org'],[]
+cg:akash-network,A,Akash Network,akt,Artificial Intelligence,278403931.0,8936753.0,276.0,True,"['akash', 'archway', 'osmosis']",uakt,"['www.mintscan.io', 'akash.aneka.io', 'akash.ping.pub', 'atomscan.com']",[]
+exp:akash.aneka.io,D,akash.aneka.io,,,,,,,,,,
+exp:akash.ping.pub,D,akash.ping.pub,,,,,,,,,,
+cg:grass,A,Grass,grass,Artificial Intelligence,278004934.0,81510189.0,277.0,False,['solana'],Grass7B4RdKfBCjTKgSqnXkqjwiGvQyFbuSCUJr3XXjs,"['solscan.io', 'platform.arkhamintelligence.com']","['Phantom', 'Solflare']"
+cg:livepeer,A,Livepeer,lpt,Artificial Intelligence,272704019.0,15086592.0,280.0,True,"['ethereum', 'harmony-shard-0', 'arbitrum-one']",0x58b6a8a3302369daec383334672404ee733ab239,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io', 'hubble.figment.network', 'explorer.livepeer.org', 'arbiscan.io', 'arbitrum.dex.guru', 'explorer.harmony.one']","['MetaMask', 'Trust Wallet']"
+exp:hubble.figment.network,D,hubble.figment.network,,,,,,,,,,
+exp:explorer.livepeer.org,D,explorer.livepeer.org,,,,,,,,,,
+exp:arbitrum.dex.guru,D,arbitrum.dex.guru,,,,,,,,,,
+cg:arkham,A,Arkham,arkm,Artificial Intelligence,256004861.0,37121952.0,292.0,False,['ethereum'],0x6e2a43be0b1d33b726f0ca3b8de60b3482b8b050,"['platform.arkhamintelligence.com', 'etherscan.io', 'ethplorer.io']","['MetaMask', 'Trust Wallet']"
+cg:stp-network,A,AWE Network,awe,Artificial Intelligence,229183569.0,32345633.0,307.0,False,['base'],0x1b4617734c43f6159f3a70b7e06d883647512778,['basescan.org'],[]
+cg:iotex,A,IoTeX,iotx,Artificial Intelligence,221550427.0,5468192.0,316.0,True,"['ethereum', 'base']",0x6fb3e0a217407efff7ca062d46c26e5d60a14d69,"['iotexscan.io', 'platform.arkhamintelligence.com', 'explorer.energi.network', 'etherscan.io', 'ethplorer.io', 'basescan.org']","['MetaMask', 'Trust Wallet']"
+exp:iotexscan.io,D,iotexscan.io,,,,,,,,,,
+cg:golem,A,Golem,glm,Artificial Intelligence,218022461.0,8488402.0,320.0,True,"['ethereum', 'energi']",0x7dd9c5cba05e151c895fde1cf355c9a1d5da6429,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io', 'explorer.energi.network']","['MetaMask', 'Trust Wallet']"
+cg:theta-fuel,A,Theta Fuel,tfuel,Artificial Intelligence,216395255.0,1770762.0,321.0,False,[''],,['explorer.thetatoken.org'],[]
+cg:qubic-network,A,Qubic,qubic,Artificial Intelligence,197800068.0,4589889.0,337.0,False,[''],,['explorer.qubic.org'],[]
+exp:explorer.qubic.org,D,explorer.qubic.org,,,,,,,,,,
+cg:mira-3,A,Mira,mira,Artificial Intelligence,175346911.0,307845570.0,374.0,True,"['base', 'binance-smart-chain']",0x7aafd31a321d3627b30a8e2171264b56852187fe,"['basescan.org', 'bscscan.com', 'binplorer.com']",['Trust Wallet']
+cg:sahara-ai,A,Sahara AI,sahara,Artificial Intelligence,170919897.0,11749839.0,379.0,True,"['ethereum', 'binance-smart-chain']",0xfdffb411c4a70aa7c95d5c981a6fb4da867e1111,"['etherscan.io', 'ethplorer.io', 'bscscan.com', 'binplorer.com']","['MetaMask', 'Trust Wallet']"
+cg:origintrail,A,OriginTrail,trac,Artificial Intelligence,162106639.0,3363436.0,389.0,False,['ethereum'],0xaa7a9ca87d3694b5755f213b5d04094b8d0f0a6f,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io']","['MetaMask', 'Trust Wallet']"
+cg:numeraire,A,Numeraire,nmr,Artificial Intelligence,134825318.0,39476920.0,426.0,True,"['ethereum', 'energi']",0x1776e1f26f98b1a5df9cd347953a26dd3cb46671,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io', 'explorer.energi.network']","['MetaMask', 'Trust Wallet']"
+cg:zignaly,A,ZIGChain,zig,Artificial Intelligence,128288469.0,1384435.0,438.0,True,"['ethereum', 'injective', 'solana', 'binance-smart-chain', 'polygon-pos']",0xb2617246d0c6c0087f18703d576831899ca94f01,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io', 'bscscan.com', 'solscan.io', 'polygonscan.com', 'explorer.injective.network', 'binplorer.com', 'www.mintscan.io']","['MetaMask', 'Phantom', 'Solflare', 'Trust Wallet']"
+exp:explorer.injective.network,D,explorer.injective.network,,,,,,,,,,
+cg:vana,A,Vana,vana,Artificial Intelligence,122786606.0,13407325.0,455.0,True,"['ethereum', 'base', 'arbitrum-one', 'binance-smart-chain', 'optimistic-ethereum', 'polygon-pos']",0x7ff7fa94b8b66ef313f7970d4eebd2cb3103a2c0,"['vanascan.io', 'etherscan.io', 'ethplorer.io', 'basescan.org', 'arbiscan.io', 'bscscan.com', 'binplorer.com', 'optimistic.etherscan.io', 'polygonscan.com']","['MetaMask', 'Trust Wallet']"
+exp:vanascan.io,D,vanascan.io,,,,,,,,,,
+exp:optimistic.etherscan.io,D,optimistic.etherscan.io,,,,,,,,,,
+cg:io,A,io.net,io,Artificial Intelligence,111052139.0,30814527.0,487.0,False,['solana'],BZLbGTNCSFfoth2GYDtwr7e4imWzpR5jqcUuGEwr646K,"['solscan.io', 'platform.arkhamintelligence.com']","['Phantom', 'Solflare']"
+cg:openledger-2,A,OpenLedger,open,Artificial Intelligence,107293095.0,54229237.0,502.0,True,"['', 'binance-smart-chain', 'ethereum']",0xa227cc36938f0c9e09ce0e64dfab226cad739447,"['etherscan.io', 'ethplorer.io', 'bscscan.com', 'binplorer.com']","['MetaMask', 'Trust Wallet']"
+cg:okzoo,A,OKZOO,aiot,Artificial Intelligence,101397519.0,8829874.0,522.0,False,['binance-smart-chain'],0x55ad16bd573b3365f43a9daeb0cc66a73821b4a5,"['bscscan.com', 'binplorer.com']",['Trust Wallet']
+cg:subsquid,A,SQD,sqd,Artificial Intelligence,97924860.0,31639736.0,536.0,True,"['arbitrum-one', 'binance-smart-chain', 'base']",0x1337420ded5adb9980cfc35f8f2b054ea86f8ab1,"['arbiscan.io', 'basescan.org', 'bscscan.com', 'binplorer.com']","['MetaMask', 'Trust Wallet']"
+cg:ai16z,A,ai16z,ai16z,Artificial Intelligence,94116933.0,103646803.0,552.0,False,['solana'],HeLp6NuQkmYB4pYWo2zYs22mESHXPQYzXbB8n4V98jwC,"['solscan.io', 'platform.arkhamintelligence.com']","['Phantom', 'Solflare']"
+cg:aixbt,A,aixbt,aixbt,Artificial Intelligence,89350751.0,17632411.0,568.0,True,"['base', 'ethereum', 'solana']",0x4f9fd6be4a90f2620860d680c0d4d5fb53d1a825,"['basescan.org', 'solscan.io', 'etherscan.io', 'ethplorer.io']","['MetaMask', 'Phantom', 'Solflare', 'Trust Wallet']"
+cg:delysium,A,Delysium,agi,Artificial Intelligence,85882839.0,1777639.0,581.0,True,"['ethereum', 'solana', 'binance-smart-chain']",0x7da2641000cbb407c329310c461b2cb9c70c3046,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io', 'bscscan.com', 'binplorer.com', 'solscan.io']","['MetaMask', 'Phantom', 'Solflare', 'Trust Wallet']"
+cg:holoworld,A,Holoworld,holo,Artificial Intelligence,84062637.0,395483886.0,585.0,True,"['binance-smart-chain', 'solana']",0x1a5d7e4c3a7f940b240b7357a4bfed30d17f9497,"['bscscan.com', 'binplorer.com', 'solscan.io']","['Phantom', 'Solflare', 'Trust Wallet']"
+cg:freysa-ai,A,Freysa AI,fai,Artificial Intelligence,82727625.0,796481.0,591.0,False,['base'],0xb33ff54b9f7242ef1593d2c9bcd8f9df46c77935,['basescan.org'],[]
+cg:carv,A,CARV,carv,Artificial Intelligence,78711790.0,13372454.0,607.0,True,"['base', 'ethereum', 'binance-smart-chain', 'solana', 'arbitrum-one']",0xc08cd26474722ce93f4d0c34d16201461c10aa8c,"['platform.arkhamintelligence.com', 'basescan.org', 'arbiscan.io', 'etherscan.io', 'ethplorer.io', 'solscan.io', 'bscscan.com', 'binplorer.com']","['MetaMask', 'Phantom', 'Solflare', 'Trust Wallet']"
+cg:pha,A,PHALA,pha,Artificial Intelligence,75917778.0,6970561.0,627.0,True,"['ethereum', 'sora']",0x6c5ba91642f10282b576d91922ae6448c9d52f4e,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io', 'phala.subscan.io']","['MetaMask', 'Trust Wallet']"
+exp:phala.subscan.io,D,phala.subscan.io,,,,,,,,,,
+cg:chutes,A,Chutes,sn64,Artificial Intelligence,75414533.0,962943.0,631.0,False,['bittensor'],64,['taostats.io'],[]
+cg:cyberconnect,A,CYBER,cyber,Artificial Intelligence,74653286.0,13247674.0,635.0,True,"['ethereum', 'optimistic-ethereum', 'cyber', 'binance-smart-chain']",0x14778860e937f509e651192a90589de711fb88a9,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io', 'bscscan.com', 'binplorer.com', 'optimistic.etherscan.io', 'cyberscan.co']","['MetaMask', 'Trust Wallet']"
+exp:cyberscan.co,D,cyberscan.co,,,,,,,,,,
+cg:iexec-rlc,A,iExec RLC,rlc,Artificial Intelligence,74453371.0,17389327.0,637.0,True,"['ethereum', 'energi', 'sora', 'arbitrum-one']",0x607f4c5bb672230e8672085532f7e901544a7375,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io', 'explorer.energi.network', 'arbiscan.io']","['MetaMask', 'Trust Wallet']"
+cg:nillion,A,Nillion,nil,Artificial Intelligence,73942949.0,7833722.0,640.0,False,[''],,['www.mintscan.io'],[]
+cg:venice-token,A,Venice Token,vvv,Artificial Intelligence,72743456.0,2132776.0,646.0,False,['base'],0xacfe6019ed1a7dc6f7b508c02d1b04ec88cc21bf,['basescan.org'],[]
+cg:zelcash,A,Flux,flux,Artificial Intelligence,72737150.0,2890539.0,647.0,False,[''],,['explorer.runonflux.io'],[]
+exp:explorer.runonflux.io,D,explorer.runonflux.io,,,,,,,,,,
+cg:everipedia,A,IQ,iq,Artificial Intelligence,72552816.0,3073037.0,650.0,True,"['ethereum', 'binance-smart-chain', 'polygon-pos']",0x579cea1889991f68acc35ff5c3dd0621ff29b0c9,"['etherscan.io', 'platform.arkhamintelligence.com', 'bscscan.com', 'polygonscan.com', 'bloks.io', 'ethplorer.io', 'binplorer.com']","['MetaMask', 'Trust Wallet']"
+exp:bloks.io,D,bloks.io,,,,,,,,,,
+cg:revox,A,REVOX,rex,Artificial Intelligence,72483719.0,10960430.0,651.0,False,['binance-smart-chain'],0x90869b3a42e399951bd5f5ff278b8cc5ee1dc0fe,"['bscscan.com', 'binplorer.com']",['Trust Wallet']
+cg:singularitynet,A,SingularityNET,agix,Artificial Intelligence,72229664.0,62859.0,653.0,True,"['ethereum', 'sora', 'cardano']",0x5b7533812759b45c2b44c19e320ba2cd2681b542,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io', 'cardanoscan.io']","['MetaMask', 'Trust Wallet']"
+cg:auki-labs,A,Auki,auki,Artificial Intelligence,70089332.0,593874.0,664.0,True,"['base', 'peaq']",0xf9569cfb8fd265e91aa478d86ae8c78b8af55df4,"['basescan.org', 'platform.arkhamintelligence.com', 'peaq.subscan.io']",[]
+exp:peaq.subscan.io,D,peaq.subscan.io,,,,,,,,,,
+cg:chromaway,A,Chromia,chr,Artificial Intelligence,69402469.0,7545167.0,668.0,True,"['ethereum', 'binance-smart-chain']",0x8a2279d4a90b6fe1c4b30fa660cc9f926797baa2,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io', 'bscscan.com', 'binplorer.com']","['MetaMask', 'Trust Wallet']"
+cg:chaingpt,A,ChainGPT,cgpt,Artificial Intelligence,67777890.0,9246557.0,679.0,True,"['binance-smart-chain', 'ethereum', 'solana']",0x9840652dc04fb9db2c43853633f0f62be6f00f98,"['bscscan.com', 'platform.arkhamintelligence.com', 'etherscan.io', 'ethplorer.io', 'binplorer.com', 'solscan.io']","['MetaMask', 'Phantom', 'Solflare', 'Trust Wallet']"
+cg:nosana,A,Nosana,nos,Artificial Intelligence,66626278.0,2695966.0,683.0,False,['solana'],nosXBVoaCTtYdLvKY6Csb4AC8JCdQKKAaWYtx2ZMoo7,"['explorer.solana.com', 'platform.arkhamintelligence.com', 'solscan.io']","['Phantom', 'Solflare']"
+exp:explorer.solana.com,D,explorer.solana.com,,,,,,,,,,
+cg:lagrange,A,Lagrange,la,Artificial Intelligence,66457606.0,23467962.0,685.0,True,"['ethereum', 'binance-smart-chain']",0x0fc2a55d5bd13033f1ee0cdd11f60f7efe66f467,"['etherscan.io', 'ethplorer.io', 'bscscan.com', 'binplorer.com']","['MetaMask', 'Trust Wallet']"
+cg:flock-2,A,FLOCK,flock,Artificial Intelligence,65125122.0,18760502.0,689.0,False,['base'],0x5ab3d4c385b400f3abb49e80de2faf6a88a7b691,['basescan.org'],[]
+cg:cookie,A,Cookie DAO,cookie,Artificial Intelligence,63775143.0,8069101.0,702.0,True,"['binance-smart-chain', 'ethereum', 'base']",0xc0041ef357b183448b235a8ea73ce4e4ec8c265f,"['bscscan.com', 'platform.arkhamintelligence.com', 'etherscan.io', 'ethplorer.io', 'basescan.org', 'binplorer.com']","['MetaMask', 'Trust Wallet']"
+cg:marlin,A,Marlin,pond,Artificial Intelligence,63771555.0,2615692.0,703.0,True,"['ethereum', 'arbitrum-one']",0x57b946008913b82e4df85f501cbaed910e58d26c,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io', 'arbiscan.io']","['MetaMask', 'Trust Wallet']"
+cg:unibase,A,Unibase,ub,Artificial Intelligence,61712245.0,49253845.0,719.0,True,"['binance-smart-chain', 'ethereum']",0x40b8129b786d766267a7a118cf8c07e31cdb6fde,"['bscscan.com', 'binplorer.com', 'etherscan.io', 'ethplorer.io']","['MetaMask', 'Trust Wallet']"
+cg:saga-2,A,Saga,saga,Artificial Intelligence,60290025.0,11842796.0,729.0,False,['saga'],usaga,['sagaevm.sagaexplorer.io'],[]
+exp:sagaevm.sagaexplorer.io,D,sagaevm.sagaexplorer.io,,,,,,,,,,
+cg:arcblock,A,Arcblock,abt,Artificial Intelligence,57729112.0,285323.0,744.0,False,['ethereum'],0xb98d4c97425d9908e66e53a6fdf673acca0be986,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io']","['MetaMask', 'Trust Wallet']"
+cg:ridges-ai,A,Ridges AI,sn62,Artificial Intelligence,55736444.0,4223124.0,754.0,False,['bittensor'],62,['taostats.io'],[]
+cg:magic,A,Treasure,magic,Artificial Intelligence,54387810.0,13452361.0,764.0,True,"['arbitrum-one', 'ethereum']",0x539bde0d7dbd336b79148aa742883198bbf60342,"['arbiscan.io', 'etherscan.io', 'ethplorer.io']","['MetaMask', 'Trust Wallet']"
+cg:victoria-vr,A,Victoria VR,vr,Artificial Intelligence,52861699.0,1873940.0,775.0,False,['ethereum'],0x7d5121505149065b562c789a0145ed750e6e8cdd,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io']","['MetaMask', 'Trust Wallet']"
+cg:solidus-aitech,A,Solidus Ai Tech,aitech,Artificial Intelligence,52415418.0,53316152.0,780.0,True,"['binance-smart-chain', 'solana', 'base']",0x2d060ef4d6bf7f9e5edde373ab735513c0e4f944,"['bscscan.com', 'platform.arkhamintelligence.com', 'binplorer.com', 'basescan.org', 'solscan.io']","['Phantom', 'Solflare', 'Trust Wallet']"
+cg:unit-00-rei,A,Rei,rei,Artificial Intelligence,51501041.0,2823541.0,787.0,False,['base'],0x6b2504a03ca4d43d0d73776f6ad46dab2f2a4cfd,['basescan.org'],[]
+cg:ocean-protocol,A,Ocean Protocol,ocean,Artificial Intelligence,50297290.0,83029.0,798.0,True,"['ethereum', 'optimistic-ethereum', 'energi', 'sora', 'polygon-pos']",0x967da4048cd07ab37855c090aaf366e4ce1b9f48,"['etherscan.io', 'platform.arkhamintelligence.com', 'blockchair.com', 'ethplorer.io', 'explorer.energi.network', 'polygonscan.com', 'optimistic.etherscan.io']","['MetaMask', 'Trust Wallet']"
+exp:blockchair.com,D,blockchair.com,,,,,,,,,,
+cg:secret,A,Secret,scrt,Artificial Intelligence,49058134.0,892324.0,810.0,True,"['secret', 'osmosis']",secret1k0jntykt7e4g3y88ltc60czgjuqdy4c9e8fzek,"['www.mintscan.io', 'atomscan.com', 'ping.pub']",[]
+exp:ping.pub,D,ping.pub,,,,,,,,,,
+cg:vanar-chain,A,Vanar Chain,vanry,Artificial Intelligence,47907066.0,5481150.0,820.0,True,"['ethereum', 'vanar-chain', 'polygon-pos']",0x8de5b80a0c1b02fe4976851d030b36122dbb8624,"['etherscan.io', 'platform.arkhamintelligence.com', 'polygonscan.com', 'ethplorer.io', 'explorer.vanarchain.com']","['MetaMask', 'Trust Wallet']"
+exp:explorer.vanarchain.com,D,explorer.vanarchain.com,,,,,,,,,,
+cg:bankercoin-2,A,BankrCoin,bnkr,Artificial Intelligence,47880375.0,2543354.0,821.0,False,['base'],0x22af33fe49fd1fa80c7149773dde5890d3c76f3b,['basescan.org'],[]
+cg:alethea-artificial-liquid-intelligence-token,A,Artificial Liquid Intelligence,ali,Artificial Intelligence,47652028.0,2577162.0,827.0,True,"['ethereum', 'cronos', 'solana', 'base', 'polygon-pos']",0x6b0b3a982b4634ac68dd83a4dbf02311ce324181,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io', 'polygonscan.com', 'basescan.org', 'solscan.io', 'explorer.cronos.org']","['MetaMask', 'Phantom', 'Solflare', 'Trust Wallet']"
+exp:explorer.cronos.org,D,explorer.cronos.org,,,,,,,,,,
+cg:quack-ai,A,Quack AI,q,Artificial Intelligence,47062827.0,23904973.0,837.0,True,"['ethereum', 'binance-smart-chain']",0xc07e1300dc138601fa6b0b59f8d0fa477e690589,"['etherscan.io', 'ethplorer.io', 'bscscan.com', 'binplorer.com']","['MetaMask', 'Trust Wallet']"
+cg:alchemist-ai,A,Alchemist AI,alch,Artificial Intelligence,44829766.0,31059322.0,865.0,False,['solana'],HNg5PYJmtqcmzXrv6S9zP1CDKk5BgDuyFBxbvNApump,['solscan.io'],"['Phantom', 'Solflare']"
+cg:tagger,A,TAGGER,tag,Artificial Intelligence,44192277.0,3098882.0,869.0,False,['binance-smart-chain'],0x208bf3e7da9639f1eaefa2de78c23396b0682025,"['bscscan.com', 'binplorer.com']",['Trust Wallet']
+cg:newton-protocol,A,Newton Protocol,newt,Artificial Intelligence,44013343.0,11395541.0,872.0,True,"['ethereum', 'binance-smart-chain']",0xd0ec028a3d21533fdd200838f39c85b03679285d,"['etherscan.io', 'ethplorer.io', 'bscscan.com', 'binplorer.com']","['MetaMask', 'Trust Wallet']"
+cg:paal-ai,A,PAAL AI,paal,Artificial Intelligence,43811119.0,10659871.0,874.0,True,"['ethereum', 'binance-smart-chain', 'base']",0x14fee680690900ba0cccfc76ad70fd1b95d10e16,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io', 'basescan.org', 'bscscan.com', 'binplorer.com']","['MetaMask', 'Trust Wallet']"
+cg:celium,A,Celium,sn51,Artificial Intelligence,43403802.0,736968.0,880.0,False,['bittensor'],51,['taostats.io'],[]
+cg:autonolas,A,Autonolas,olas,Artificial Intelligence,38969277.0,295135.0,932.0,True,"['ethereum', 'celo', 'mode', 'xdai', 'optimistic-ethereum', 'solana', 'base', 'polygon-pos', 'arbitrum-one']",0x0001a500a6b18995b03f44bb040a5ffc28e45cb0,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io', 'ethereum.dex.guru', 'gnosisscan.io', 'polygonscan.com', 'solscan.io', 'arbiscan.io', 'optimistic.etherscan.io', 'basescan.org']","['MetaMask', 'Phantom', 'Solflare', 'Trust Wallet']"
+exp:ethereum.dex.guru,D,ethereum.dex.guru,,,,,,,,,,
+exp:gnosisscan.io,D,gnosisscan.io,,,,,,,,,,
+cg:akedo,A,Akedo,ake,Artificial Intelligence,38935286.0,25786754.0,931.0,False,['binance-smart-chain'],0x2c3a8ee94ddd97244a93bc48298f97d2c412f7db,"['bscscan.com', 'binplorer.com']",['Trust Wallet']
+cg:oraichain-token,A,Oraichain,orai,Artificial Intelligence,38878029.0,685641.0,933.0,True,"['ethereum', 'osmosis', 'solana', 'binance-smart-chain']",0x4c11249814f11b9346808179cf06e71ac328c1b5,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io', 'bscscan.com', 'scan.orai.io', 'binplorer.com', 'solscan.io', 'www.mintscan.io']","['MetaMask', 'Phantom', 'Solflare', 'Trust Wallet']"
+exp:scan.orai.io,D,scan.orai.io,,,,,,,,,,
+cg:chainopera-ai,A,ChainOpera AI,coai,Artificial Intelligence,38855974.0,17902189.0,934.0,False,['binance-smart-chain'],0x0a8d6c86e1bce73fe4d0bd531e1a567306836ea5,"['bscscan.com', 'binplorer.com']",['Trust Wallet']
+cg:targon,A,Targon,sn4,Artificial Intelligence,37844491.0,209606.0,944.0,False,['bittensor'],4,['taostats.io'],[]
+cg:oort,A,OORT,oort,Artificial Intelligence,37414483.0,1783740.0,951.0,True,"['', 'ethereum', 'binance-smart-chain']",0x5651fa7a726b9ec0cad00ee140179912b6e73599,"['mainnet-scan.oortech.com', 'platform.arkhamintelligence.com', 'bscscan.com', 'binplorer.com', 'etherscan.io', 'ethplorer.io']","['MetaMask', 'Trust Wallet']"
+exp:mainnet-scan.oortech.com,D,mainnet-scan.oortech.com,,,,,,,,,,
+cg:metya,A,MetYa,met,Artificial Intelligence,36759495.0,4623987.0,960.0,False,['binance-smart-chain'],0xa5b000d453143b357dba63f4ee83f2f6fda832b8,"['bscscan.com', 'binplorer.com']",['Trust Wallet']
+cg:humans-ai,A,Humans.ai,heart,Artificial Intelligence,36444438.0,326912.0,967.0,True,"['ethereum', 'osmosis']",0x8fac8031e079f409135766c7d5de29cf22ef897c,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io', 'www.mintscan.io', 'bigdipper.live', 'humans.explorers.guru']","['MetaMask', 'Trust Wallet']"
+exp:bigdipper.live,D,bigdipper.live,,,,,,,,,,
+exp:humans.explorers.guru,D,humans.explorers.guru,,,,,,,,,,
+cg:aia,A,DeAgentAI,aia,Artificial Intelligence,35452283.0,18166516.0,980.0,True,"['sui', 'binance-smart-chain']",0x8b449b4dc0f8c5f996734eaf23d36a5f6724e02e312a7e4af34bd0bb74de7b17::deagent_token::DEAGENT_TOKEN,"['suiscan.xyz', 'suivision.xyz', 'bscscan.com', 'binplorer.com']",['Trust Wallet']
+exp:suiscan.xyz,D,suiscan.xyz,,,,,,,,,,
+exp:suivision.xyz,D,suivision.xyz,,,,,,,,,,
+cg:tokenfi,A,TokenFi,token,Artificial Intelligence,35046237.0,2735599.0,985.0,True,"['ethereum', 'binance-smart-chain']",0x4507cef57c46789ef8d1a19ea45f4216bae2b528,"['etherscan.io', 'platform.arkhamintelligence.com', 'bscscan.com', 'ethplorer.io', 'binplorer.com']","['MetaMask', 'Trust Wallet']"
+cg:olaxbt,A,OlaXBT,aio,Artificial Intelligence,35023882.0,1829132.0,986.0,False,['binance-smart-chain'],0x81a7da4074b8e0ed51bea40f9dcbdf4d9d4832b4,"['bscscan.com', 'binplorer.com']",['Trust Wallet']
+cg:kled-ai,A,Kled AI,kled,Artificial Intelligence,34150575.0,1696273.0,1000.0,False,['solana'],1zJX5gRnjLgmTpq5sVwkq69mNDQkCemqoasyjaPW6jm,['solscan.io'],"['Phantom', 'Solflare']"
+cg:pinlink,A,PinLink,pin,Artificial Intelligence,33838780.0,726162.0,1005.0,False,['ethereum'],0x2e44f3f609ff5aa4819b323fd74690f07c3607c4,"['etherscan.io', 'ethplorer.io']","['MetaMask', 'Trust Wallet']"
+cg:forta,A,Forta,fort,Artificial Intelligence,32975994.0,388747.0,1018.0,True,"['ethereum', 'base', 'polygon-pos', 'arbitrum-one']",0x41545f8b9472d758bb669ed8eaeeecd7a9c4ec29,"['explorer.forta.network', 'platform.arkhamintelligence.com', 'etherscan.io', 'ethplorer.io', 'polygonscan.com', 'arbiscan.io', 'basescan.org']","['MetaMask', 'Trust Wallet']"
+exp:explorer.forta.network,D,explorer.forta.network,,,,,,,,,,
+cg:gradients,A,Gradients,sn56,Artificial Intelligence,31558122.0,3053712.0,1044.0,False,['bittensor'],56,['taostats.io'],[]
+cg:ao-computer,A,ao Computer,ao,Artificial Intelligence,30819833.0,393227.0,1060.0,False,[''],,[],[]
+cg:myshell,A,MyShell,shell,Artificial Intelligence,30665133.0,9351821.0,1062.0,True,"['ethereum', 'binance-smart-chain']",0xf2c88757f8d03634671208935974b60a2a28bdb3,"['etherscan.io', 'ethplorer.io', 'bscscan.com', 'binplorer.com']","['MetaMask', 'Trust Wallet']"
+cg:rss3,A,RSS3,rss3,Artificial Intelligence,30653970.0,2707821.0,1063.0,True,"['rss3-vsl', 'ethereum']",0x4200000000000000000000000000000000000042,"['platform.arkhamintelligence.com', 'etherscan.io', 'ethplorer.io', 'scan.rss3.io']","['MetaMask', 'Trust Wallet']"
+exp:scan.rss3.io,D,scan.rss3.io,,,,,,,,,,
+cg:tokenbot-2,A,tokenbot,clanker,Artificial Intelligence,30645903.0,14946248.0,1064.0,False,['base'],0x1bc0c42215582d5a085795f4badbac3ff36d1bcb,"['basescan.org', 'platform.arkhamintelligence.com']",[]
+cg:tars-protocol,A,TARS AI,tai,Artificial Intelligence,30381965.0,2199430.0,1073.0,False,['solana'],Hax9LTgsQkze1YFychnBLtFH8gYbQKtKfWKKg2SP6gdD,"['solscan.io', 'platform.arkhamintelligence.com']","['Phantom', 'Solflare']"
+cg:mia-2,A,MIA,mia,Artificial Intelligence,29936879.0,2016853.0,1083.0,True,"['base', 'binance-smart-chain']",0x7cea5b9548a4b48cf9551813ef9e73de916e41e0,"['basescan.org', 'bscscan.com', 'binplorer.com']",['Trust Wallet']
+cg:griffain,A,GRIFFAIN,griffain,Artificial Intelligence,29877950.0,3963083.0,1085.0,False,['solana'],KENJSUYLASHUMfHyy5o4Hp2FdNqZg1AsUPhfH2kYvEP,['solscan.io'],"['Phantom', 'Solflare']"
+cg:phoenix-global,A,Phoenix,phb,Artificial Intelligence,29846859.0,4186531.0,1086.0,False,['binance-smart-chain'],0x0409633a72d846fc5bbe2f98d88564d35987904d,"['bscscan.com', 'platform.arkhamintelligence.com', 'binplorer.com']",['Trust Wallet']
+cg:wayfinder,A,Wayfinder,prompt,Artificial Intelligence,28982710.0,31586399.0,1103.0,True,"['ethereum', 'base']",0x28d38df637db75533bd3f71426f3410a82041544,"['etherscan.io', 'ethplorer.io', 'basescan.org']","['MetaMask', 'Trust Wallet']"
+cg:chainbase,A,Chainbase,c,Artificial Intelligence,28803176.0,7209968.0,1106.0,True,"['base', 'binance-smart-chain']",0xba12bc7b210e61e5d3110b997a63ea216e0e18f7,"['basescan.org', 'bscscan.com', 'binplorer.com']",['Trust Wallet']
+cg:proprietary-trading-network,A,Proprietary Trading Network,sn8,Artificial Intelligence,28200337.0,265791.0,1117.0,False,['bittensor'],8,['taostats.io'],[]
+cg:infinity-ground,A,Infinity Ground,ain,Artificial Intelligence,27910456.0,31965397.0,1123.0,False,['binance-smart-chain'],0x9558a9254890b2a8b057a789f413631b9084f4a3,"['bscscan.com', 'binplorer.com']",['Trust Wallet']
+cg:limewire-token,A,LimeWire,lmwr,Artificial Intelligence,27864572.0,2496089.0,1125.0,True,"['ethereum', 'binance-smart-chain', 'base']",0x628a3b2e302c7e896acc432d2d0dd22b6cb9bc88,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io', 'bscscan.com', 'binplorer.com', 'basescan.org']","['MetaMask', 'Trust Wallet']"
+cg:natix-network,A,NATIX Network,natix,Artificial Intelligence,27246457.0,355458.0,1142.0,False,['solana'],FRySi8LPkuByB7VPSCCggxpewFUeeJiwEGRKKuhwpKcX,"['solscan.io', 'platform.arkhamintelligence.com']","['Phantom', 'Solflare']"
+cg:openserv,A,OpenServ,serv,Artificial Intelligence,27229254.0,378333.0,1143.0,True,"['ethereum', 'base']",0x40e3d1a4b2c47d9aa61261f5606136ef73e28042,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io', 'basescan.org']","['MetaMask', 'Trust Wallet']"
+cg:mamo,A,Mamo,mamo,Artificial Intelligence,26457027.0,5392337.0,1156.0,False,['base'],0x7300b37dfdfab110d83290a29dfb31b1740219fe,['basescan.org'],[]
+cg:tao-bot,A,tao.bot,taobot,Artificial Intelligence,25058821.0,94931.0,1185.0,False,['ethereum'],0x49fb8ad7578148e17c3ef0c344ce23a66ed372c4,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io']","['MetaMask', 'Trust Wallet']"
+cg:agentcoin-tv,A,AITV,aitv,Artificial Intelligence,24967596.0,2375.46,1188.0,True,"['ethereum', 'base']",0x04e69ff14a86e1ca9a155a8563e95887973ee175,"['etherscan.io', 'ethplorer.io', 'basescan.org']","['MetaMask', 'Trust Wallet']"
+cg:templar,A,τemplar,sn3,Artificial Intelligence,24912663.0,366182.0,1189.0,False,['bittensor'],3,['taostats.io'],[]
+cg:assemble-protocol,A,Assemble AI,asm,Artificial Intelligence,24706230.0,508834.0,1194.0,True,"['base', 'ethereum']",0x3b53604113b5677291bfc0bc255379e7a796559b,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io', 'basescan.org']","['MetaMask', 'Trust Wallet']"
+cg:neuron,A,Neuron,nrn,Artificial Intelligence,24370000.0,398797.0,1211.0,False,['arbitrum-one'],0xdadeca1167fe47499e53eb50f261103630974905,"['arbiscan.io', 'platform.arkhamintelligence.com']",['MetaMask']
+cg:heyanon,A,Hey Anon,anon,Artificial Intelligence,23697127.0,819272.0,1235.0,True,"['sonic', 'hyperevm', 'hyperliquid', 'ethereum', 'iota-evm', 'metis-andromeda', 'kava', 'binance-smart-chain', 'solana', 'base', 'avalanche', 'arbitrum-one']",0x79bbf4508b1391af3a0f4b30bb5fc4aa9ab0e07c,"['sonicscan.org', 'solscan.io', 'arbiscan.io', 'explorer.evm.iota.org', 'andromeda-explorer.metis.io', 'explorer.metis.io']","['Core', 'MetaMask', 'Phantom', 'Solflare', 'Trust Wallet']"
+exp:sonicscan.org,D,sonicscan.org,,,,,,,,,,
+exp:explorer.evm.iota.org,D,explorer.evm.iota.org,,,,,,,,,,
+exp:andromeda-explorer.metis.io,D,andromeda-explorer.metis.io,,,,,,,,,,
+exp:explorer.metis.io,D,explorer.metis.io,,,,,,,,,,
+cg:morphware,A,Morphware,xmw,Artificial Intelligence,23163744.0,207022.0,1242.0,False,['ethereum'],0x391cf4b21f557c935c7f670218ef42c21bd8d686,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io']","['MetaMask', 'Trust Wallet']"
+cg:o-intelligence-coin,A,O Intelligence Coin,oi,Artificial Intelligence,22766931.0,4907.3,1251.0,False,['solana'],AKzAhPPLMH5NG35kGbgkwtrTLeGyVrfCtApjnvqAATcm,['solscan.io'],"['Phantom', 'Solflare']"
+cg:cudos,A,Cudos,cudos,Artificial Intelligence,22648503.0,19.78,1254.0,True,"['ethereum', 'archway', 'osmosis']",0x817bbdbc3e8a1204f3691d14bb44992841e3db35,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io', 'explorer.cudos.org', 'explorer-v1.cudos.org', 'www.mintscan.io']","['MetaMask', 'Trust Wallet']"
+exp:explorer.cudos.org,D,explorer.cudos.org,,,,,,,,,,
+exp:explorer-v1.cudos.org,D,explorer-v1.cudos.org,,,,,,,,,,
+cg:aubrai-by-bio,A,Aubrai by Bio,aubrai,Artificial Intelligence,22484656.0,898377.0,1263.0,False,['base'],0x9d56c29e820dd13b0580b185d0e0dc301d27581d,['basescan.org'],[]
+cg:covalent-x-token,A,Covalent X Token,cxt,Artificial Intelligence,21527512.0,1284586.0,1289.0,False,['ethereum'],0x7abc8a5768e6be61a6c693a6e4eacb5b60602c4d,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io']","['MetaMask', 'Trust Wallet']"
+cg:neuralai,A,NEURALAI,neural,Artificial Intelligence,21356089.0,96955.0,1294.0,True,"['ethereum', 'solana']",0x32b053f2cba79f80ada5078cb6b305da92bde6e1,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io', 'solscan.io']","['MetaMask', 'Phantom', 'Solflare', 'Trust Wallet']"
+cg:creatorbid,A,CreatorBid,bid,Artificial Intelligence,21296420.0,2264052.0,1295.0,True,"['binance-smart-chain', 'base']",0xa1832f7f4e534ae557f9b5ab76de54b1873e498b,"['bscscan.com', 'binplorer.com', 'basescan.org']",['Trust Wallet']
+cg:araistotle,A,ArAIstotle,facy,Artificial Intelligence,21117169.0,918344.0,1301.0,False,['base'],0xfac77f01957ed1b3dd1cbea992199b8f85b6e886,['basescan.org'],[]
+cg:giza,A,GIZA,giza,Artificial Intelligence,20533765.0,2582600.0,1316.0,True,"['ethereum', 'base']",0x590830dfdf9a3f68afcdde2694773debdf267774,"['etherscan.io', 'ethplorer.io', 'basescan.org']","['MetaMask', 'Trust Wallet']"
+cg:pippin,A,pippin,pippin,Artificial Intelligence,19594585.0,7805569.0,1348.0,False,['solana'],Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump,['solscan.io'],"['Phantom', 'Solflare']"
+cg:ai-rig-complex,A,AI Rig Complex,arc,Artificial Intelligence,19221988.0,2688435.0,1358.0,False,['solana'],61V8vBaqAGMpgDQi4JcAwo1dmBGHsyhzodcPqnEVpump,['solscan.io'],"['Phantom', 'Solflare']"
+cg:infinit,A,INFINIT,in,Artificial Intelligence,19127790.0,25722631.0,1364.0,True,"['ethereum', 'binance-smart-chain']",0x61fac5f038515572d6f42d4bcb6b581642753d50,"['etherscan.io', 'ethplorer.io', 'bscscan.com', 'binplorer.com']","['MetaMask', 'Trust Wallet']"
+cg:netx,A,NetX,netx,Artificial Intelligence,19073362.0,583594.0,1365.0,False,['binance-smart-chain'],0x4c32964715e9a42f8d119bfa8917d57822d3adf1,"['bscscan.com', 'binplorer.com']",['Trust Wallet']
+cg:octaspace,A,OctaSpace,octa,Artificial Intelligence,18760269.0,637161.0,1374.0,True,"['', 'binance-smart-chain', 'ethereum']",0xfa704148d516b209d52c2d75f239274c8f8eaf1a,"['explorer.octa.space', 'platform.arkhamintelligence.com', 'etherscan.io', 'bscscan.com', 'ethplorer.io', 'binplorer.com']","['MetaMask', 'Trust Wallet']"
+exp:explorer.octa.space,D,explorer.octa.space,,,,,,,,,,
+cg:galeon,A,Galeon,galeon,Artificial Intelligence,18608160.0,244848.0,1379.0,False,['binance-smart-chain'],0x1d0ac23f03870f768ca005c84cbb6fb82aa884fd,"['bscscan.com', 'platform.arkhamintelligence.com', 'binplorer.com']",['Trust Wallet']
+cg:openkaito,A,OpenKaito,sn5,Artificial Intelligence,18601207.0,18120.19,1380.0,False,['bittensor'],5,['taostats.io'],[]
+cg:arai,A,Arai,aa,Artificial Intelligence,18286574.0,26600873.0,1397.0,False,['binance-smart-chain'],0x01bf3d77cd08b19bf3f2309972123a2cca0f6936,"['bscscan.com', 'binplorer.com']",['Trust Wallet']
+cg:swarms,A,Swarms,swarms,Artificial Intelligence,18063032.0,2850160.0,1405.0,False,['solana'],74SBV4zDXxTRgv1pEMoECskKBkZHc2yGPnc7GYVepump,['solscan.io'],"['Phantom', 'Solflare']"
+cg:ava-ai,A,Ava AI,ava,Artificial Intelligence,17952217.0,9583923.0,1407.0,False,['solana'],DKu9kykSfbN5LBfFXtNNDPaX35o4Fv6vJ9FKk7pZpump,['solscan.io'],"['Phantom', 'Solflare']"
+cg:coral-protocol,A,Coral Protocol,coral,Artificial Intelligence,17936040.0,237648.0,1409.0,False,['solana'],CoRAitPvr9seu5F9Hk39vbjqA1o1XuoryHjSk1Z1q2mo,['solscan.io'],"['Phantom', 'Solflare']"
+cg:avo,A,Avo,avo,Artificial Intelligence,17833665.0,297989.0,1413.0,False,['solana'],GdZ9rwHyKcriLdbSzhtEFLe5MLs7Vk6AY1aE5ei7nsmP,['solscan.io'],"['Phantom', 'Solflare']"
+cg:altura,A,Altura,alu,Artificial Intelligence,17810868.0,3496057.0,1414.0,True,"['binance-smart-chain', 'base']",0x8263cd1601fe73c066bf49cc09841f35348e3be0,"['bscscan.com', 'platform.arkhamintelligence.com', 'bnb.dex.guru', 'binplorer.com', 'basescan.org']",['Trust Wallet']
+exp:bnb.dex.guru,D,bnb.dex.guru,,,,,,,,,,
+cg:codatta,A,Codatta,xny,Artificial Intelligence,17662173.0,12472949.0,1421.0,False,['binance-smart-chain'],0xe3225e11cab122f1a126a28997788e5230838ab9,"['bscscan.com', 'binplorer.com']",['Trust Wallet']
+cg:thought,A,Thought,tht,Artificial Intelligence,16364270.0,19170.57,1461.0,False,[''],,['exp.thought.live'],[]
+exp:exp.thought.live,D,exp.thought.live,,,,,,,,,,
+cg:sportstensor,A,Sportstensor,sn41,Artificial Intelligence,16266696.0,4524324.0,1467.0,False,['bittensor'],41,['taostats.io'],[]
+cg:vertical-ai,A,Vertical AI,vertai,Artificial Intelligence,15991616.0,708778.0,1477.0,True,"['ethereum', 'avalanche']",0xcdbddbdefb0ee3ef03a89afcd714aa4ef310d567,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io', 'avascan.info', 'snowtrace.io']","['Core', 'MetaMask', 'Trust Wallet']"
+cg:adex,A,AdEx,adx,Artificial Intelligence,15904228.0,5920957.0,1484.0,True,"['ethereum', 'binance-smart-chain']",0xade00c28244d5ce17d72e40330b1c318cd12b7c3,"['etherscan.io', 'polygonscan.com', 'ethplorer.io', 'bscscan.com', 'binplorer.com']","['MetaMask', 'Trust Wallet']"
+cg:nodeai,A,NodeAI,gpu,Artificial Intelligence,15726498.0,100480.0,1494.0,True,"['ethereum', 'base']",0x1258d60b224c0c5cd888d37bbf31aa5fcfb7e870,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io', 'basescan.org']","['MetaMask', 'Trust Wallet']"
+cg:genius-ai,A,GENIUS AI,gnus,Artificial Intelligence,15539027.0,8335.2,1498.0,True,"['polygon-pos', 'ethereum', 'base', 'binance-smart-chain']",0x127e47aba094a9a87d084a3a93732909ff031419,"['polygonscan.com', 'platform.arkhamintelligence.com', 'etherscan.io', 'ethplorer.io', 'bscscan.com', 'binplorer.com', 'basescan.org']","['MetaMask', 'Trust Wallet']"
+cg:velvet,A,Velvet,velvet,Artificial Intelligence,15488731.0,6856373.0,1500.0,True,"['binance-smart-chain', 'base']",0x8b194370825e37b33373e74a41009161808c1488,"['bscscan.com', 'binplorer.com', 'basescan.org']",['Trust Wallet']
+cg:sleepless-ai,A,Sleepless AI,ai,Artificial Intelligence,15473261.0,9957136.0,1502.0,False,['binance-smart-chain'],0xbda011d7f8ec00f66c1923b049b94c67d148d8b2,"['bscscan.com', 'platform.arkhamintelligence.com', 'binplorer.com']",['Trust Wallet']
+cg:draiftking,A,SIRE,sire,Artificial Intelligence,15289736.0,103669.0,1513.0,False,['base'],0x7ce02e86354ea0cc3b302aeadc0ab56bc7eb44b8,"['basescan.org', 'base.blockscout.com']",[]
+exp:base.blockscout.com,D,base.blockscout.com,,,,,,,,,,
+cg:cortex,A,Cortex,ctxc,Artificial Intelligence,15276194.0,5595937.0,1514.0,False,[''],,['cerebro.cortexlabs.ai'],[]
+exp:cerebro.cortexlabs.ai,D,cerebro.cortexlabs.ai,,,,,,,,,,
+cg:codec-flow,A,Codec Flow,codec,Artificial Intelligence,15216323.0,6900295.0,1518.0,True,"['solana', 'peaq']",69LjZUUzxj3Cb3Fxeo1X4QpYEQTboApkhXTysPpbpump,"['solscan.io', 'peaq.subscan.io']","['Phantom', 'Solflare']"
+cg:spectre-ai,A,Spectre AI,spectre,Artificial Intelligence,15189470.0,103785.0,1519.0,False,['ethereum'],0x9cf0ed013e67db12ca3af8e7506fe401aa14dad6,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io']","['MetaMask', 'Trust Wallet']"
+cg:imagen-ai,A,Imagen Network,image,Artificial Intelligence,15067368.0,1103.25,1523.0,True,"['', 'ethereum', 'solana']",0x1c3547dfa9ce7acd9c54ae49244575fa65bc75e2,"['bscscan.com', 'binplorer.com', 'etherscan.io', 'ethplorer.io', 'solscan.io']","['MetaMask', 'Phantom', 'Solflare', 'Trust Wallet']"
+cg:palm-ai,A,PaLM AI,palm,Artificial Intelligence,15025358.0,53720.0,1527.0,False,['ethereum'],0xf1df7305e4bab3885cab5b1e4dfc338452a67891,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io']","['MetaMask', 'Trust Wallet']"
+cg:netmind-token,A,NetMind Token,nmt,Artificial Intelligence,14904920.0,2534417.0,1532.0,True,"['ethereum', 'binance-smart-chain']",0x03aa6298f1370642642415edc0db8b957783e8d6,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io', 'bscscan.com', 'binplorer.com']","['MetaMask', 'Trust Wallet']"
+cg:hippius,A,Hippius,sn75,Artificial Intelligence,14851744.0,4542196.0,1536.0,False,['bittensor'],75,['taostats.io'],[]
+cg:rhetor,A,Rhetor,rt,Artificial Intelligence,14800976.0,62308.0,1538.0,False,['solana'],3uxMtF7dT2VSvRFkrLf9Gqm4nDDy2J5RBEXCQpjubonk,['solscan.io'],"['Phantom', 'Solflare']"
+cg:bitmind,A,BitMind,sn34,Artificial Intelligence,14744279.0,88588.0,1541.0,False,['bittensor'],34,['taostats.io'],[]
+cg:waveform-by-virtuals,A,Waveform by Virtuals,wave,Artificial Intelligence,14667260.0,585831.0,1544.0,False,['base'],0x64712fbdf19ae8b5b3b6d0478750e3d5e1a17718,['basescan.org'],[]
+cg:icecream-ai,A,IceCream AI,icecream,Artificial Intelligence,14578707.0,60934.0,1547.0,False,['binance-smart-chain'],0xd438b82543fb109f34575c825edaeefc98f1f2b4,"['bscscan.com', 'binplorer.com']",['Trust Wallet']
+cg:iota-2,A,iota,sn9,Artificial Intelligence,14452310.0,173317.0,1550.0,False,['bittensor'],9,['taostats.io'],[]
+cg:gamercoin,A,GamerCoin,ghx,Artificial Intelligence,14297420.0,220591.0,1555.0,True,"['ethereum', 'solana', 'binance-smart-chain']",0x728f30fa2f100742c7949d1961804fa8e0b1387d,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io', 'bscscan.com', 'binplorer.com', 'solscan.io']","['MetaMask', 'Phantom', 'Solflare', 'Trust Wallet']"
+cg:holdstation,A,Holdstation,hold,Artificial Intelligence,14211492.0,367195.0,1561.0,True,"['zksync', 'berachain']",0xed4040fd47629e7c8fbb7da76bb50b3e7695f0f2,"['era.zksync.network', 'berascan.com', 'explorer.zksync.io']",[]
+exp:era.zksync.network,D,era.zksync.network,,,,,,,,,,
+exp:berascan.com,D,berascan.com,,,,,,,,,,
+exp:explorer.zksync.io,D,explorer.zksync.io,,,,,,,,,,
+cg:score,A,Score,sn44,Artificial Intelligence,14092860.0,127795.0,1566.0,False,['bittensor'],44,['taostats.io'],[]
+cg:xterio,A,Xterio,xter,Artificial Intelligence,13993873.0,32202688.0,1569.0,False,['binance-smart-chain'],0x103071da56e7cd95b415320760d6a0ddc4da1ca5,"['bscscan.com', 'binplorer.com']",['Trust Wallet']
+cg:edge,A,Edge,edge,Artificial Intelligence,13522491.0,7811.32,1584.0,False,['ethereum'],0x4ec1b60b96193a64acae44778e51f7bff2007831,"['explorer.edge.network', 'platform.arkhamintelligence.com', 'etherscan.io', 'ethplorer.io']","['MetaMask', 'Trust Wallet']"
+exp:explorer.edge.network,D,explorer.edge.network,,,,,,,,,,
+cg:synth-2,A,Synth,sn50,Artificial Intelligence,13512494.0,1103055.0,1586.0,False,['bittensor'],50,['taostats.io'],[]
+cg:the-innovation-game,A,The Innovation Game,tig,Artificial Intelligence,13464542.0,1099462.0,1590.0,False,['base'],0x0c03ce270b4826ec62e7dd007f0b716068639f7b,"['basescan.org', 'platform.arkhamintelligence.com']",[]
+cg:empyreal,A,Empyreal,emp,Artificial Intelligence,13344854.0,53360.0,1594.0,True,"['arbitrum-one', 'ethereum', 'base']",0x772598e9e62155d7fdfe65fdf01eb5a53a8465be,"['arbiscan.io', 'platform.arkhamintelligence.com', 'etherscan.io', 'ethplorer.io', 'basescan.org']","['MetaMask', 'Trust Wallet']"
+cg:morpheusai,A,MorpheusAI,mor,Artificial Intelligence,13316905.0,33250.0,1593.0,True,"['arbitrum-one', 'ethereum', 'base']",0x092baadb7def4c3981454dd9c0a0d7ff07bcfc86,"['arbiscan.io', 'platform.arkhamintelligence.com', 'etherscan.io', 'basescan.org', 'ethplorer.io']","['MetaMask', 'Trust Wallet']"
+cg:pop-2,A,Zypher Network,pop,Artificial Intelligence,13074479.0,47258495.0,1606.0,False,['binance-smart-chain'],0xa3cfb853339b77f385b994799b015cb04b208fe6,"['bscscan.com', 'binplorer.com']",['Trust Wallet']
+cg:synternet-synt,A,Synternet,synt,Artificial Intelligence,12824204.0,670506.0,1620.0,False,['ethereum'],0xda987c655ebc38c801db64a8608bc1aa56cd9a31,"['etherscan.io', 'platform.arkhamintelligence.com', 'explorer.synternet.com', 'ethplorer.io']","['MetaMask', 'Trust Wallet']"
+exp:explorer.synternet.com,D,explorer.synternet.com,,,,,,,,,,
+cg:aleph,A,Aleph Cloud,aleph,Artificial Intelligence,12687728.0,169661.0,1627.0,True,"['ethereum', 'base', 'binance-smart-chain', 'avalanche']",0x27702a26126e0b3702af63ee09ac4d1a084ef628,"['etherscan.io', 'platform.arkhamintelligence.com', 'nuls.world', 'ethplorer.io', 'avascan.info', 'explorer.aleph.im', 'bscscan.com', 'binplorer.com', 'solscan.io', 'basescan.org']","['Core', 'MetaMask', 'Trust Wallet']"
+exp:nuls.world,D,nuls.world,,,,,,,,,,
+exp:explorer.aleph.im,D,explorer.aleph.im,,,,,,,,,,
+cg:trias-token,A,TriasLab,trias,Artificial Intelligence,12257249.0,9178.51,1652.0,True,"['binance-smart-chain', 'ethereum']",0x184cff0e719826b966025f93e05d8c8b0a79b3f9,"['bscscan.com', 'platform.arkhamintelligence.com', 'binplorer.com', 'etherscan.io', 'ethplorer.io']","['MetaMask', 'Trust Wallet']"
+cg:mind-network,A,Mind Network,fhe,Artificial Intelligence,12184552.0,8206819.0,1655.0,True,"['ethereum', 'binance-smart-chain']",0xd55c9fb62e176a8eb6968f32958fefdd0962727e,"['etherscan.io', 'ethplorer.io', 'bscscan.com', 'binplorer.com', 'explorer.mindnetwork.xyz']","['MetaMask', 'Trust Wallet']"
+exp:explorer.mindnetwork.xyz,D,explorer.mindnetwork.xyz,,,,,,,,,,
+cg:basedai,A,BasedAI,basedai,Artificial Intelligence,12183453.0,321943.0,1656.0,False,['ethereum'],0x44971abf0251958492fee97da3e5c5ada88b9185,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io']","['MetaMask', 'Trust Wallet']"
+cg:kryll,A,KRYLL,krl,Artificial Intelligence,12124580.0,260444.0,1660.0,True,"['ethereum', 'optimistic-ethereum', 'base', 'arbitrum-one']",0x464ebe77c293e473b48cfe96ddcf88fcf7bfdac0,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io', 'basescan.org', 'arbiscan.io', 'optimistic.etherscan.io']","['MetaMask', 'Trust Wallet']"
+cg:gaia-3,A,Gaia,gaia,Artificial Intelligence,12115176.0,5928985.0,1662.0,True,"['ethereum', 'binance-smart-chain']",0x2ee7097bfdd98fce2ac08a1896038a7cd9aaed81,"['etherscan.io', 'ethplorer.io', 'bscscan.com', 'binplorer.com']","['MetaMask', 'Trust Wallet']"
+cg:fireverse,A,Fireverse,fir,Artificial Intelligence,12063227.0,11327735.0,1665.0,False,['binance-smart-chain'],0x238d72e179a581c98dc1996417a49818c7e509dc,"['bscscan.com', 'binplorer.com']",['Trust Wallet']
+cg:singularry,A,Singularry,singularry,Artificial Intelligence,12041290.0,60562.0,1666.0,False,['binance-smart-chain'],0x18ea4df6a9cde2472f2321a4ec77da106498a66e,"['bscscan.com', 'binplorer.com']",['Trust Wallet']
+cg:trusta-ai,A,Trusta AI,ta,Artificial Intelligence,11920833.0,10184734.0,1677.0,True,"['linea', 'binance-smart-chain']",0x539ae81a166e5e80aed211731563e549c411b140,"['lineascan.build', 'lineaplorer.build', 'bscscan.com', 'binplorer.com']",['Trust Wallet']
+exp:lineascan.build,D,lineascan.build,,,,,,,,,,
+exp:lineaplorer.build,D,lineaplorer.build,,,,,,,,,,
+cg:readyai,A,ReadyAI,sn33,Artificial Intelligence,11828298.0,2246561.0,1682.0,False,['bittensor'],33,['taostats.io'],[]
+cg:opulous,A,Opulous,opul,Artificial Intelligence,11817685.0,568761.0,1683.0,True,"['ethereum', 'optimistic-ethereum', 'algorand', 'base', 'binance-smart-chain', 'avalanche', 'polygon-pos', 'arbitrum-one']",0x80d55c03180349fff4a229102f62328220a96444,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io', 'bscscan.com', 'binplorer.com', 'arbiscan.io', 'avascan.info', 'basescan.org', 'optimistic.etherscan.io', 'polygonscan.com']","['Core', 'MetaMask', 'Trust Wallet']"
+cg:game-by-virtuals,A,GAME by Virtuals,game,Artificial Intelligence,11687433.0,5490157.0,1692.0,False,['base'],0x1c4cca7c5db003824208adda61bd749e55f463a3,"['basescan.org', 'platform.arkhamintelligence.com']",[]
+cg:agoras-currency-of-tau,A,Agoras: Tau Net,agrs,Artificial Intelligence,11326620.0,19653.51,1716.0,False,['ethereum'],0x738865301a9b7dd80dc3666dd48cf034ec42bdda,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io', 'www.omniexplorer.info']","['MetaMask', 'Trust Wallet']"
+exp:www.omniexplorer.info,D,www.omniexplorer.info,,,,,,,,,,
+cg:agent-hustle,A,Agent Hustle,hustle,Artificial Intelligence,11310127.0,147905.0,1719.0,False,['solana'],HUSTLFV3U5Km8u66rMQExh4nLy7unfKHedEXVK1WgSAG,['solscan.io'],"['Phantom', 'Solflare']"
+cg:astraai,A,AstraAI,astra,Artificial Intelligence,11239951.0,197523.0,1721.0,False,['ethereum'],0x0aa8a7d1fb4c64b3b1dcea9a7ade81c59c25b95b,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io']","['MetaMask', 'Trust Wallet']"
+cg:vivi-coin,A,VIVI COIN,vivi,Artificial Intelligence,11166863.0,70595.0,1725.0,False,['solana'],9RUup1LmD5PBsnd23JmTy39wSwALB7JF7xMfUJP8K7je,['solscan.io'],"['Phantom', 'Solflare']"
+cg:dippy,A,Dippy,sn11,Artificial Intelligence,10891795.0,314752.0,1740.0,False,['bittensor'],11,['taostats.io'],[]
+cg:torus,A,Torus,torus,Artificial Intelligence,10890265.0,55840.0,1741.0,False,['base'],0x78ec15c5fd8efc5e924e9eebb9e549e29c785867,['basescan.org'],[]
+cg:publicai,A,PublicAI,public,Artificial Intelligence,10872491.0,1445461.0,1742.0,True,"['near-protocol', 'binance-smart-chain']",token.publicailab.near,"['nearblocks.io', 'bscscan.com', 'binplorer.com']",['Trust Wallet']
+cg:numbers-protocol,A,Numbers Protocol,num,Artificial Intelligence,10613453.0,1215268.0,1754.0,True,"['ethereum', 'binance-smart-chain']",0x3496b523e5c00a4b4150d6721320cddb234c3079,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io', 'bscscan.com', 'mainnet.num.network', 'binplorer.com']","['MetaMask', 'Trust Wallet']"
+exp:mainnet.num.network,D,mainnet.num.network,,,,,,,,,,
+cg:logicnet,A,LogicNet,sn35,Artificial Intelligence,10609185.0,421715.0,1755.0,False,['bittensor'],35,['taostats.io'],[]
+cg:404-gen,A,404—GEN,sn17,Artificial Intelligence,10412304.0,91762.0,1769.0,False,['bittensor'],17,['taostats.io'],[]
+cg:kondux-v2,A,KONDUX,kndx,Artificial Intelligence,10405562.0,10644.33,1770.0,False,['ethereum'],0x7ca5af5ba3472af6049f63c1abc324475d44efc1,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io']","['MetaMask', 'Trust Wallet']"
+cg:botto,A,Botto,botto,Artificial Intelligence,10160930.0,66410.0,1793.0,True,"['ethereum', 'base']",0x9dfad1b7102d46b1b197b90095b5c4e9f5845bba,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io', 'basescan.org']","['MetaMask', 'Trust Wallet']"
+cg:nineteen-ai,A,Nineteen.ai,sn19,Artificial Intelligence,10119889.0,14196.2,1797.0,False,['bittensor'],19,['taostats.io'],[]
+cg:nextplace,A,NextPlace,sn48,Artificial Intelligence,9894064.0,608469.0,1808.0,False,['bittensor'],48,['taostats.io'],[]
+cg:data-universe,A,Data Universe,sn13,Artificial Intelligence,9855693.0,113092.0,1814.0,False,['bittensor'],13,['taostats.io'],[]
+cg:hypergpt,A,HyperGPT,hgpt,Artificial Intelligence,9486149.0,740053.0,1834.0,True,"['binance-smart-chain', 'the-open-network']",0x529c79f6918665ebe250f32eeeaa1d410a0798c6,"['bscscan.com', 'platform.arkhamintelligence.com', 'binplorer.com', 'tonscan.org', 'tonviewer.com']",['Trust Wallet']
+exp:tonscan.org,D,tonscan.org,,,,,,,,,,
+exp:tonviewer.com,D,tonviewer.com,,,,,,,,,,
+cg:apex-5,A,Apex,sn1,Artificial Intelligence,9423068.0,109553.0,1839.0,False,['bittensor'],1,['taostats.io'],[]
+cg:wagmi-game-2,A,WAGMI Games,wagmigames,Artificial Intelligence,9403644.0,335818.0,1842.0,False,['ethereum'],0x3b604747ad1720c01ded0455728b62c0d2f100f0,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io']","['MetaMask', 'Trust Wallet']"
+cg:parallelai,A,ParallelAI,pai,Artificial Intelligence,9275034.0,157509.0,1848.0,False,['ethereum'],0x13e4b8cffe704d3de6f19e52b201d92c21ec18bd,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io']","['MetaMask', 'Trust Wallet']"
+cg:taohash,A,TAOHash,sn14,Artificial Intelligence,9134795.0,46494.0,1855.0,False,['bittensor'],14,['taostats.io'],[]
+cg:vaderai-by-virtuals,A,Vader,vader,Artificial Intelligence,8939721.0,647336.0,1870.0,False,['base'],0x731814e491571a2e9ee3c5b1f7f3b962ee8f4870,['basescan.org'],[]
+cg:0x0-ai-ai-smart-contract,A,0x0.ai: AI Smart Contract,0x0,Artificial Intelligence,8869124.0,27725.0,1875.0,False,['ethereum'],0x5a3e6a77ba2f983ec0d371ea3b475f8bc0811ad5,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io']","['MetaMask', 'Trust Wallet']"
+cg:bitscrunch-token,A,bitsCrunch Token,bcut,Artificial Intelligence,8860527.0,432826.0,1876.0,True,"['ethereum', 'polygon-pos']",0xbef26bd568e421d6708cca55ad6e35f8bfa0c406,"['etherscan.io', 'platform.arkhamintelligence.com', 'polygonscan.com', 'ethplorer.io']","['MetaMask', 'Trust Wallet']"
+cg:nova-3,A,NOVA,sn68,Artificial Intelligence,8728511.0,25630.0,1887.0,False,['bittensor'],68,['taostats.io'],[]
+cg:silencio,A,Silencio,slc,Artificial Intelligence,8709185.0,332936.0,1890.0,True,"['peaq', 'base']",0x5c3126bfb9a68a7021d461230127470b3824886b,"['peaq.subscan.io', 'basescan.org']",[]
+cg:maiga,A,Maiga,maiga,Artificial Intelligence,8690703.0,5765440.0,1892.0,False,['binance-smart-chain'],0xcd1679f117e81defc4f0009311ddc23fc1ae4a5e,"['bscscan.com', 'binplorer.com']",['Trust Wallet']
+cg:zeus-5,A,Zeus,sn18,Artificial Intelligence,8472377.0,641766.0,1909.0,False,['bittensor'],18,['taostats.io'],[]
+cg:w-ai-parked,A,basilica,sn39,Artificial Intelligence,8430648.0,374014.0,1914.0,False,['bittensor'],39,['taostats.io'],[]
+cg:gata,A,Gata,gata,Artificial Intelligence,8378257.0,9618756.0,1916.0,False,['binance-smart-chain'],0x46ee3bfc281d59009ccd06f1dd6abdbfcd82ffc3,"['bscscan.com', 'binplorer.com']",['Trust Wallet']
+cg:human-protocol,A,HUMAN Protocol,hmt,Artificial Intelligence,8287505.0,3156.36,1925.0,True,"['ethereum', 'polygon-pos']",0xd1ba9bac957322d6e8c07a160a3a8da11a0d2867,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io', 'polygonscan.com']","['MetaMask', 'Trust Wallet']"
+cg:graphite,A,Graphite,sn43,Artificial Intelligence,8182805.0,105921.0,1935.0,False,['bittensor'],43,['taostats.io'],[]
+cg:node-2,A,NodeOps,node,Artificial Intelligence,8065365.0,14269126.0,1940.0,True,"['ethereum', 'binance-smart-chain']",0x2f714d7b9a035d4ce24af8d9b6091c07e37f43fb,"['bscscan.com', 'etherscan.io', 'ethplorer.io', 'binplorer.com']","['MetaMask', 'Trust Wallet']"
+cg:vaiot,A,VAIOT,vai,Artificial Intelligence,7958277.0,361929.0,1949.0,False,['ethereum'],0xd13cfd3133239a3c73a9e535a5c4dadee36b395c,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io']","['MetaMask', 'Trust Wallet']"
+cg:bitcast,A,Bitcast,sn93,Artificial Intelligence,7892164.0,1459448.0,1957.0,False,['bittensor'],93,['taostats.io'],[]
+cg:inspect,A,Inspect,insp,Artificial Intelligence,7658755.0,866934.0,1978.0,True,"['ethereum', 'binance-smart-chain']",0x186ef81fd8e77eec8bffc3039e7ec41d5fc0b457,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io', 'bscscan.com', 'binplorer.com']","['MetaMask', 'Trust Wallet']"
+cg:world3,A,World3,wai,Artificial Intelligence,7421583.0,10175311.0,2008.0,False,['binance-smart-chain'],0x1e3dbc0aad9671fdd31e58b2fcc6cf1ca9947994,"['bscscan.com', 'binplorer.com']",['Trust Wallet']
+cg:efficientfrontier,A,EfficientFrontier,sn53,Artificial Intelligence,7403994.0,5789.55,2013.0,False,['bittensor'],53,['taostats.io'],[]
+cg:sensay,A,Sensay,snsy,Artificial Intelligence,7358540.0,345466.0,2022.0,True,"['ethereum', 'base', 'arbitrum-one']",0x82a605d6d9114f4ad6d5ee461027477eeed31e34,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io', 'bscscan.com', 'binplorer.com', 'arbiscan.io', 'basescan.org']","['MetaMask', 'Trust Wallet']"
+cg:liquidity,A,Liquidity,sn77,Artificial Intelligence,7323576.0,6640.76,2024.0,False,['bittensor'],77,['taostats.io'],[]
+cg:artyfact,A,Artyfact,arty,Artificial Intelligence,7214908.0,5172643.0,2034.0,False,['binance-smart-chain'],0x617cab4aaae1f8dfb3ee138698330776a1e1b324,"['bscscan.com', 'platform.arkhamintelligence.com', 'binplorer.com']",['Trust Wallet']
+cg:ovr,A,Ovr,ovr,Artificial Intelligence,7101234.0,522692.0,2048.0,True,"['ethereum', 'base', 'binance-smart-chain', 'polygon-pos']",0x21bfbda47a0b4b5b1248c767ee49f7caa9b23697,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io', 'bscscan.com', 'polygonscan.com', 'binplorer.com', 'basescan.org']","['MetaMask', 'Trust Wallet']"
+cg:spectral,A,Spectral,spec,Artificial Intelligence,7058587.0,682005.0,2055.0,True,"['ethereum', 'base']",0xadf7c35560035944e805d98ff17d58cde2449389,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io', 'basescan.org']","['MetaMask', 'Trust Wallet']"
+cg:nuit,A,nuit,nuit,Artificial Intelligence,6913878.0,748996.0,2069.0,False,['solana'],2eXamy7t3kvKhfV6aJ6Uwe3eh8cuREFcTKs1mFKZpump,['solscan.io'],"['Phantom', 'Solflare']"
+cg:dojo-3,A,Dojo,sn52,Artificial Intelligence,6904065.0,57463.0,2071.0,False,['bittensor'],52,['taostats.io'],[]
+cg:alpha-trader-exchange-atx,A,Alpha Trader Exchange (ATX),sn63,Artificial Intelligence,6846318.0,966365.0,2080.0,False,['bittensor'],63,['taostats.io'],[]
+cg:clore-ai,A,Clore.ai,clore,Artificial Intelligence,6746064.0,2322239.0,2093.0,False,[''],,"['exploreblockchain.clore.ai', 'blockbook.clore.ai']",[]
+exp:exploreblockchain.clore.ai,D,exploreblockchain.clore.ai,,,,,,,,,,
+exp:blockbook.clore.ai,D,blockbook.clore.ai,,,,,,,,,,
+cg:think-protocol,A,THINK Protocol,think,Artificial Intelligence,6721378.0,827579.0,2095.0,False,['ethereum'],0xf9ff95468cb9a0cd57b8542bbc4c148e290ff465,"['etherscan.io', 'ethplorer.io']","['MetaMask', 'Trust Wallet']"
+cg:masa-finance,A,Masa,masa,Artificial Intelligence,6680825.0,2285302.0,2102.0,True,"['ethereum', 'binance-smart-chain']",0x944824290cc12f31ae18ef51216a223ba4063092,"['subnets.avax.network', 'platform.arkhamintelligence.com', 'etherscan.io', 'ethplorer.io', 'bscscan.com', 'binplorer.com']","['MetaMask', 'Trust Wallet']"
+exp:subnets.avax.network,D,subnets.avax.network,,,,,,,,,,
+cg:vidaio,A,Vidaio,sn85,Artificial Intelligence,6662998.0,3393711.0,2104.0,False,['bittensor'],85,['taostats.io'],[]
+cg:pundi-aifx,A,Pundi AI,pundiai,Artificial Intelligence,6530971.0,75356.0,2121.0,True,"['ethereum', 'binance-smart-chain']",0x075f23b9cdfce2cc0ca466f4ee6cb4bd29d83bef,"['bscscan.com', 'etherscan.io', 'ethplorer.io', 'binplorer.com']","['MetaMask', 'Trust Wallet']"
+cg:presearch,A,Presearch,pre,Artificial Intelligence,6488268.0,10416.64,2125.0,True,"['ethereum', 'base']",0xec213f83defb583af3a000b1c0ada660b1902a0f,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io', 'basescan.org']","['MetaMask', 'Trust Wallet']"
+cg:patrol-tao-com,A,grail,sn81,Artificial Intelligence,6477797.0,66819.0,2126.0,False,['bittensor'],81,['taostats.io'],[]
+cg:xeleb-protocol,A,Xeleb Protocol,xcx,Artificial Intelligence,6438286.0,8071191.0,2134.0,False,"['', 'binance-smart-chain']",0xe32f9e8f7f7222fcd83ee0fc68baf12118448eaf,"['bscscan.com', 'binplorer.com']",['Trust Wallet']
+cg:mode,A,Mode,mode,Artificial Intelligence,6359601.0,907903.0,2143.0,True,"['mode', 'base']",0xdfc7c877a950e49d2610114102175a06c2e3167a,"['explorer.mode.network', 'modescan.io', 'basescan.org']",[]
+exp:explorer.mode.network,D,explorer.mode.network,,,,,,,,,,
+exp:modescan.io,D,modescan.io,,,,,,,,,,
+cg:haio,A,HAiO,haio,Artificial Intelligence,6109661.0,770073.0,2174.0,False,['solana'],haioZJAWTMaR4SFhZRwFBBejnGDPiwLTqrDiKpwH31h,['solscan.io'],"['Phantom', 'Solflare']"
+cg:frok-ai,A,FROK,frok,Artificial Intelligence,6059124.0,50.3,2184.0,False,['base'],0x42069babe14fb1802c5cb0f50bb9d2ad6fef55e2,"['basescan.org', 'platform.arkhamintelligence.com']",[]
+cg:atlas-navi,A,Atlas Navi,navi,Artificial Intelligence,6052077.0,296393.0,2185.0,False,['ethereum'],0xfc1c93a2507975e98b9d0e9260ded61a00152bf1,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io']","['MetaMask', 'Trust Wallet']"
+cg:sturdy-subnet,A,Sturdy,sn10,Artificial Intelligence,5783782.0,89929.0,2221.0,False,['bittensor'],10,['taostats.io'],[]
+cg:swarmnode-ai,A,SwarmNode.ai,snai,Artificial Intelligence,5708901.0,1126365.0,2232.0,False,['solana'],Hjw6bEcHtbHGpQr8onG3izfJY5DJiWdt7uk2BfdSpump,['solscan.io'],"['Phantom', 'Solflare']"
+cg:compute-horde,A,Compute Horde,sn12,Artificial Intelligence,5626565.0,45320.0,2243.0,False,['bittensor'],12,['taostats.io'],[]
+cg:jojoworld,A,JojoWorld,jojo,Artificial Intelligence,5541915.0,1190282.0,2253.0,False,['binance-smart-chain'],0x953783617a71a888f8b04f397f2c9e1a7c37af7e,"['bscscan.com', 'binplorer.com']",['Trust Wallet']
+cg:strawberry-ai,A,Strawberry AI,berry,Artificial Intelligence,5534731.0,130207.0,2254.0,True,"['ethereum', 'solana', 'base']",0xcb76314c2540199f4b844d4ebbc7998c604880ca,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io', 'solscan.io', 'basescan.org']","['MetaMask', 'Phantom', 'Solflare', 'Trust Wallet']"
+cg:cere-network,A,Cere Network,cere,Artificial Intelligence,5277538.0,315973.0,2293.0,True,"['ethereum', 'base']",0x2da719db753dfa10a62e140f436e1d67f2ddb0d6,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io', 'basescan.org']","['MetaMask', 'Trust Wallet']"
+cg:graphlinq-protocol,A,GraphLinq Chain,glq,Artificial Intelligence,5210273.0,220685.0,2308.0,False,['ethereum'],0x9f9c8ec3534c3ce16f928381372bfbfbfb9f4d24,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io', 'explorer.graphlinq.io']","['MetaMask', 'Trust Wallet']"
+exp:explorer.graphlinq.io,D,explorer.graphlinq.io,,,,,,,,,,
+cg:lush-ai,A,LushAI,lush,Artificial Intelligence,5202050.0,3080.65,2310.0,True,"['ethereum', 'base']",0xec9333e7dadeebf82d290d6cb12e66cc30ce46b0,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io', 'basescan.org']","['MetaMask', 'Trust Wallet']"
+cg:robora,A,Robora,rbr,Artificial Intelligence,5016678.0,137436.0,2333.0,False,['ethereum'],0x2c431766e48ec4a17dc052d9d3fef6b6a9ae8d62,"['etherscan.io', 'ethplorer.io']","['MetaMask', 'Trust Wallet']"
+cg:linqai,A,LinqAI,lnq,Artificial Intelligence,4751244.0,470598.0,2368.0,False,['ethereum'],0xd4f4d0a10bcae123bb6655e8fe93a30d01eebd04,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io']","['MetaMask', 'Trust Wallet']"
+cg:privasea-ai,A,Privasea AI,prai,Artificial Intelligence,4737764.0,15343440.0,2370.0,False,['binance-smart-chain'],0x899357e54c2c4b014ea50a9a7bf140ba6df2ec73,"['bscscan.com', 'binplorer.com']",['Trust Wallet']
+cg:immutable-x,A,Immutable,imx,Gaming,1481786946.0,52694754.0,95.0,False,['ethereum'],0xf57e7e7c23978c3caec3c3548e3d615c346e79ff,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io']","['MetaMask', 'Trust Wallet']"
+cg:floki,A,FLOKI,floki,Gaming,781032715.0,48809842.0,136.0,True,"['ethereum', 'binance-smart-chain']",0xcf0c122c6b73ff809c693db761e7baebe62b6a2e,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io', 'bscscan.com', 'binplorer.com', 'bnb.dex.guru']","['MetaMask', 'Trust Wallet']"
+cg:gala,A,GALA,gala,Gaming,664740646.0,60992374.0,152.0,False,['ethereum'],0xd1d2eb1b1e90b638588728b4130137d262c87cae,"['etherscan.io', 'platform.arkhamintelligence.com', 'galachain.hottoshotto.com', 'ethplorer.io', 'galascan.gala.com', 'analytics.gala.com']","['MetaMask', 'Trust Wallet']"
+exp:galachain.hottoshotto.com,D,galachain.hottoshotto.com,,,,,,,,,,
+exp:galascan.gala.com,D,galascan.gala.com,,,,,,,,,,
+exp:analytics.gala.com,D,analytics.gala.com,,,,,,,,,,
+cg:the-sandbox,A,The Sandbox,sand,Gaming,646206463.0,40845182.0,157.0,True,"['ethereum', 'harmony-shard-0', 'energi', 'polygon-pos']",0x3845badade8e6dff049820680d1f14bd3903a5d0,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io', 'polygon.dex.guru', 'polygonscan.com', 'explorer.energi.network', 'ethereum.dex.guru', 'explorer.harmony.one']","['MetaMask', 'Trust Wallet']"
+cg:decentraland,A,Decentraland,mana,Gaming,551449433.0,23179099.0,174.0,True,"['ethereum', 'polygon-pos']",0x0f5d2fb29fb7d3cfee444a200298f468908cc942,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io', 'polygonscan.com', 'explorer.energi.network']","['MetaMask', 'Trust Wallet']"
+cg:superfarm,A,SuperVerse,super,Gaming,513054794.0,245510402.0,182.0,True,"['ethereum', 'soneium', 'base', 'avalanche', 'polygon-pos']",0xe53ec727dbdeb9e2d5456c3be40cff031ab40a55,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io', 'polygonscan.com', 'bscscan.com', 'binplorer.com', 'explorer.energi.network', 'avascan.info', 'snowtrace.io', 'basescan.org']","['Core', 'MetaMask', 'Trust Wallet']"
+cg:four,A,Four,form,Gaming,428713040.0,235104068.0,206.0,False,['binance-smart-chain'],0x5b73a93b4e5e4f1fd27d8b3f8c97d69908b5e284,"['bscscan.com', 'binplorer.com']",['Trust Wallet']
+cg:apecoin,A,ApeCoin,ape,Gaming,415074429.0,27848434.0,211.0,False,[''],,[],[]
+cg:beam-2,A,Beam,beam,Gaming,383781287.0,15598824.0,223.0,True,"['ethereum', 'binance-smart-chain', 'avalanche']",0x62d0a8458ed7719fdaf978fe5929c6d342b0bfce,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io', 'bscscan.com', 'binplorer.com', 'avascan.info', 'snowtrace.io']","['Core', 'MetaMask', 'Trust Wallet']"
+cg:axie-infinity,A,Axie Infinity,axs,Gaming,347338296.0,27254586.0,243.0,True,"['ethereum', 'ronin', 'energi', 'harmony-shard-0', 'binance-smart-chain']",0xbb0e17ef65f82ab018d8edd776e8dd940327b28b,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io', 'bscscan.com', 'explorer.roninchain.com', 'explorer.energi.network', 'binplorer.com', 'app.roninchain.com', 'explorer.harmony.one']","['MetaMask', 'Trust Wallet']"
+exp:explorer.roninchain.com,D,explorer.roninchain.com,,,,,,,,,,
+exp:app.roninchain.com,D,app.roninchain.com,,,,,,,,,,
+cg:ronin,A,Ronin,ron,Gaming,322033415.0,5108231.0,252.0,False,['ronin'],0xe514d9deb7966c8be0ca922de8a064264ea6bcd4,"['explorer.roninchain.com', 'www.oklink.com', 'app.roninchain.com']",[]
+exp:www.oklink.com,D,www.oklink.com,,,,,,,,,,
+cg:wemix-token,A,WEMIX,wemix,Gaming,318916965.0,3288540.0,255.0,False,[''],,['scan.wemix.com'],[]
+exp:scan.wemix.com,D,scan.wemix.com,,,,,,,,,,
+cg:mocaverse,A,Moca Network,moca,Gaming,278836498.0,15913518.0,274.0,True,"['ethereum', 'base']",0xf944e35f95e819e752f3ccb5faf40957d311e8c5,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io', 'basescan.org']","['MetaMask', 'Trust Wallet']"
+cg:baby-doge-coin,A,Baby Doge Coin,babydoge,Gaming,205402130.0,13484517.0,328.0,True,"['binance-smart-chain', 'ethereum', 'solana']",0xc748673057861a797275cd8a068abb95a902e8de,"['bscscan.com', 'platform.arkhamintelligence.com', 'etherscan.io', 'ethplorer.io', 'binplorer.com', 'solscan.io']","['MetaMask', 'Phantom', 'Solflare', 'Trust Wallet']"
+cg:legacy-token,A,Legacy Token,lgct,Gaming,192538738.0,3289759.0,348.0,True,"['binance-smart-chain', 'base', 'ethereum']",0xd38b305cac06990c0887032a02c03d6839f770a8,"['bscscan.com', 'platform.arkhamintelligence.com', 'binplorer.com', 'basescan.org', 'etherscan.io', 'ethplorer.io']","['MetaMask', 'Trust Wallet']"
+cg:gmt-token,A,GoMining Token,gomining,Gaming,187925769.0,13212174.0,355.0,True,"['ethereum', 'solana', 'the-open-network', 'binance-smart-chain']",0x7ddc52c4de30e94be3a6a0a2b259b2850f421989,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io', 'bscscan.com', 'binplorer.com', 'tonscan.org', 'tonviewer.com', 'solscan.io']","['MetaMask', 'Phantom', 'Solflare', 'Trust Wallet']"
+cg:metaplex,A,Metaplex,mplx,Gaming,156077229.0,7998369.0,395.0,True,"['solana', 'binance-smart-chain']",METAewgxyPbgwsseH8T16a39CQ5VyVxZi9zXiDPY18m,"['solscan.io', 'platform.arkhamintelligence.com', 'bscscan.com', 'binplorer.com']","['Phantom', 'Solflare', 'Trust Wallet']"
+cg:notcoin,A,Notcoin,not,Gaming,153810178.0,16278192.0,396.0,False,['the-open-network'],EQAvlWFDxGF2lXm67y4yzC17wYKD9A0guwPkMs1gOsM__NOT,"['tonscan.org', 'platform.arkhamintelligence.com', 'tonviewer.com']",[]
+cg:skale,A,SKALE,skl,Gaming,153721775.0,69353545.0,397.0,True,"['ethereum', 'skale']",0x00c83aecc790e8a4453e5dd3b0b4b3680501a7a7,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io', 'elated-tan-skat.explorer.mainnet.skalenodes.com']","['MetaMask', 'Trust Wallet']"
+exp:elated-tan-skat.explorer.mainnet.skalenodes.com,D,elated-tan-skat.explorer.mainnet.skalenodes.com,,,,,,,,,,
+cg:rollbit-coin,A,Rollbit Coin,rlb,Gaming,133085745.0,364704.0,430.0,False,['ethereum'],0x046eee2cc3188071c02bfc1745a6b17c656e3f3d,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io', 'ethereum.dex.guru']","['MetaMask', 'Trust Wallet']"
+cg:undeads-games,A,Undeads Games,uds,Gaming,126504228.0,672652.0,442.0,False,['ethereum'],0x712bd4beb54c6b958267d9db0259abdbb0bff606,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io']","['MetaMask', 'Trust Wallet']"
+cg:illuvium,A,Illuvium,ilv,Gaming,121307568.0,9004302.0,465.0,True,"['ethereum', 'energi']",0x767fe9edc9e0df98e07454847909b5e959d7ca0e,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io', 'explorer.energi.network', 'ethereum.dex.guru']","['MetaMask', 'Trust Wallet']"
+cg:stepn,A,GMT,gmt,Gaming,116936066.0,17402487.0,469.0,True,"['solana', 'ethereum', 'binance-smart-chain', 'polygon-pos']",7i5KKsX2weiTkry7jA4ZwSuXGhs5eJBEjY8vVxR4pfRx,"['solscan.io', 'platform.arkhamintelligence.com', 'bscscan.com', 'etherscan.io', 'ethplorer.io', 'binplorer.com', 'polygonscan.com']","['MetaMask', 'Phantom', 'Solflare', 'Trust Wallet']"
+cg:enjincoin,A,Enjin Coin,enj,Gaming,114391280.0,6546406.0,479.0,True,"['ethereum', 'harmony-shard-0', 'energi']",0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c,"['enjin.subscan.io', 'platform.arkhamintelligence.com', 'matrix.subscan.io', 'explorer.energi.network', 'etherscan.io', 'ethplorer.io', 'explorer.harmony.one']","['MetaMask', 'Trust Wallet']"
+exp:enjin.subscan.io,D,enjin.subscan.io,,,,,,,,,,
+exp:matrix.subscan.io,D,matrix.subscan.io,,,,,,,,,,
+cg:yield-guild-games,A,Yield Guild Games,ygg,Gaming,96766970.0,31181539.0,540.0,True,"['ethereum', 'abstract', 'ronin', 'harmony-shard-0', 'base', 'binance-smart-chain', 'polygon-pos']",0x25f8087ead173b73d6e8b84329989a8eea16cf73,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io', 'polygonscan.com', 'app.roninchain.com', 'bscscan.com', 'basescan.org', 'binplorer.com', 'explorer.harmony.one', 'abscan.org']","['MetaMask', 'Trust Wallet']"
+exp:abscan.org,D,abscan.org,,,,,,,,,,
+cg:ecomi,A,ECOMI,omi,Gaming,93766955.0,7892540.0,554.0,True,"['ethereum', 'energi', 'base']",0xed35af169af46a02ee13b9d79eb57d6d68c1749e,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io', 'explorer.energi.network', 'basescan.org']","['MetaMask', 'Trust Wallet']"
+cg:bora,A,BORA,bora,Gaming,92638802.0,589212.0,558.0,False,['klay-token'],0x02cbe46fb8a1f579254a9b485788f2d86cad51aa,['kaiascan.io'],[]
+exp:kaiascan.io,D,kaiascan.io,,,,,,,,,,
+cg:wilder-world,A,Wilder World,wild,Gaming,92516204.0,3672903.0,560.0,True,"['ethereum', 'base', 'binance-smart-chain', 'solana', 'avalanche', 'polygon-pos']",0x2a3bff78b79a009976eea096a51a948a3dc00e34,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io', 'solscan.io', 'avascan.info', 'bscscan.com', 'binplorer.com', 'snowtrace.io', 'basescan.org', 'polygonscan.com']","['Core', 'MetaMask', 'Phantom', 'Solflare', 'Trust Wallet']"
+cg:big-time,A,Big Time,bigtime,Gaming,89728218.0,10471547.0,566.0,False,['ethereum'],0x64bc2ca1be492be7185faa2c8835d9b824c8a194,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io']","['MetaMask', 'Trust Wallet']"
+cg:echelon-prime,A,Echelon Prime,prime,Gaming,87553193.0,1626243.0,575.0,True,"['ethereum', 'base']",0xb23d80f5fefcddaa212212f028021b41ded428cf,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io', 'basescan.org']","['MetaMask', 'Trust Wallet']"
+cg:skor-ai,A,SKOR AI,skorai,Gaming,77475615.0,17706.37,614.0,False,['solana'],8CLGcTogo6FoYkEQQBm3Vm2PVckYCiCm3XXhdsr4skoR,['solscan.io'],"['Phantom', 'Solflare']"
+cg:gama-token,A,Gama Token,gama,Gaming,76459502.0,322704.0,623.0,False,['xdc-network'],0x3a170c7c987f55c84f28733bfa27962d8cdd5d3b,['xdcscan.com'],[]
+exp:xdcscan.com,D,xdcscan.com,,,,,,,,,,
+cg:cross-2,A,Cross,cross,Gaming,75951519.0,4169220.0,626.0,False,['binance-smart-chain'],0x6bf62ca91e397b5a7d1d6bce97d9092065d7a510,"['bscscan.com', 'binplorer.com']",['Trust Wallet']
+cg:zentry,A,Zentry,zent,Gaming,69105041.0,10978403.0,671.0,True,"['ethereum', 'ronin', 'binance-smart-chain', 'base']",0xdbb7a34bf10169d6d2d0d02a6cbb436cf4381bfa,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io', 'app.roninchain.com', 'basescan.org', 'bscscan.com', 'binplorer.com']","['MetaMask', 'Trust Wallet']"
+cg:sonic-svm,A,Sonic SVM,sonic,Gaming,62603853.0,20116585.0,712.0,True,"['solana', 'sonic-svm']",SonicxvLud67EceaEzCLRnMTBqzYUUYNr93DBkBdDES,"['solscan.io', 'explorer.sonic.game']","['Phantom', 'Solflare']"
+exp:explorer.sonic.game,D,explorer.sonic.game,,,,,,,,,,
+cg:wax,A,WAX,waxp,Gaming,61483993.0,1490315.0,722.0,True,"['wax', 'ethereum']",WAX-wax-eosio.token,"['wax.bloks.io', 'platform.arkhamintelligence.com', 'eosauthority.com', 'etherscan.io', 'ethplorer.io', 'waxblock.io']","['MetaMask', 'Trust Wallet']"
+exp:wax.bloks.io,D,wax.bloks.io,,,,,,,,,,
+exp:eosauthority.com,D,eosauthority.com,,,,,,,,,,
+exp:waxblock.io,D,waxblock.io,,,,,,,,,,
+cg:seraph,A,Seraph,seraph,Gaming,59413958.0,10444952.0,733.0,True,"['binance-smart-chain', 'ethereum']",0xd6b48ccf41a62eb3891e58d0f006b19b01d50cca,"['bscscan.com', 'binplorer.com', 'etherscan.io', 'ethplorer.io']","['MetaMask', 'Trust Wallet']"
+cg:baby-shark-universe,A,Baby Shark Universe,bsu,Gaming,58349690.0,56274593.0,739.0,False,['binance-smart-chain'],0x1aecab957bad4c6e36dd29c3d3bb470c4c29768a,"['bscscan.com', 'binplorer.com']",['Trust Wallet']
+cg:smooth-love-potion,A,Smooth Love Potion,slp,Gaming,54718268.0,4120894.0,760.0,True,"['ronin', 'ethereum']",0xa8754b9fa15fc18bb59458815510e40a12cd2014,"['explorer.roninchain.com', 'platform.arkhamintelligence.com', 'etherscan.io', 'ethplorer.io', 'explorer.energi.network', 'app.roninchain.com']","['MetaMask', 'Trust Wallet']"
+cg:gamebuild,A,GameBuild,game,Gaming,52823286.0,24249993.0,777.0,True,"['ethereum', 'binance-smart-chain']",0x825459139c897d769339f295e962396c4f9e4a4d,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io', 'bscscan.com', 'binplorer.com']","['MetaMask', 'Trust Wallet']"
+cg:xai-blockchain,A,Xai,xai,Gaming,51788488.0,9031186.0,784.0,False,['arbitrum-one'],0x4cb9a7ae498cedcbb5eae9f25736ae7d428c9d66,"['arbiscan.io', 'platform.arkhamintelligence.com']",['MetaMask']
+cg:geodnet,A,Geodnet,geod,Gaming,50907930.0,264606.0,792.0,True,"['polygon-pos', 'solana']",0xac0f66379a6d7801d7726d5a943356a172549adb,"['polygonscan.com', 'platform.arkhamintelligence.com', 'solscan.io']","['MetaMask', 'Phantom', 'Solflare', 'Trust Wallet']"
+cg:mythos,A,Mythos,myth,Gaming,46844138.0,3295368.0,839.0,True,"['ethereum', 'base', 'avalanche']",0xba41ddf06b7ffd89d1267b5a93bfef2424eb2003,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io', 'avascan.info', 'basescan.org', 'snowtrace.io']","['Core', 'MetaMask', 'Trust Wallet']"
+cg:deapcoin,A,DEAPCOIN,dep,Gaming,44177813.0,2529394.0,870.0,True,"['ethereum', 'solana', 'binance-smart-chain', 'avalanche']",0x1a3496c18d558bd9c6c8f609e1b129f67ab08163,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io', 'bscscan.com', 'snowtrace.io', 'avascan.info', 'binplorer.com', 'solscan.io']","['Core', 'MetaMask', 'Phantom', 'Solflare', 'Trust Wallet']"
+cg:oasys,A,Oasys,oas,Gaming,44100706.0,1668747.0,871.0,False,[''],,['explorer.oasys.games'],[]
+exp:explorer.oasys.games,D,explorer.oasys.games,,,,,,,,,,
+cg:unipoly,A,Unipoly,unp,Gaming,42545960.0,360800.0,887.0,True,"['ethereum', 'skale']",0x23d7ff057c696fee679c60cef61fee6614218f04,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io', 'elated-tan-skat.explorer.mainnet.skalenodes.com']","['MetaMask', 'Trust Wallet']"
+cg:gods-unchained,A,Gods Unchained,gods,Gaming,41123048.0,1474948.0,906.0,True,"['ethereum', 'immutable']",0xccc8cb5229b0ac8069c51fd58367fd1e622afd97,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io', 'explorer.immutable.com']","['MetaMask', 'Trust Wallet']"
+exp:explorer.immutable.com,D,explorer.immutable.com,,,,,,,,,,
+cg:hamster-kombat,A,Hamster Kombat,hmstr,Gaming,39971986.0,6192703.0,916.0,False,['the-open-network'],EQAJ8uWd7EBqsmpSWaRdf_I-8R8-XHwh3gsNKhy-UrdrPcUo,"['tonscan.org', 'platform.arkhamintelligence.com', 'tonviewer.com']",[]
+cg:marblex,A,MARBLEX,mbx,Gaming,37228693.0,2931878.0,953.0,True,"['binance-smart-chain', 'klay-token', 'aptos']",0xf95a5532d67c944dfa7eddd2f8c358fe0dc7fac2,"['scope.klaytn.com', 'platform.arkhamintelligence.com', 'bscscan.com', 'binplorer.com', 'aptscan.ai', 'tracemove.io', 'kaiascan.io']",['Trust Wallet']
+exp:scope.klaytn.com,D,scope.klaytn.com,,,,,,,,,,
+exp:aptscan.ai,D,aptscan.ai,,,,,,,,,,
+exp:tracemove.io,D,tracemove.io,,,,,,,,,,
+cg:endurance,A,Fusionist,ace,Gaming,34274522.0,7465471.0,996.0,False,['binance-smart-chain'],0xc27a719105a987b4c34116223cae8bd8f4b5def4,"['explorer-endurance.fusionist.io', 'platform.arkhamintelligence.com', 'bscscan.com', 'binplorer.com']",['Trust Wallet']
+exp:explorer-endurance.fusionist.io,D,explorer-endurance.fusionist.io,,,,,,,,,,
+cg:pepecoin-2,A,PepeCoin,pepecoin,Gaming,34124598.0,302862.0,1001.0,True,"['ethereum', 'solana']",0xa9e8acf069c58aec8825542845fd754e41a9489a,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io', 'solscan.io']","['MetaMask', 'Phantom', 'Solflare', 'Trust Wallet']"
+cg:arena-z,A,Arena-Z,a2z,Gaming,32892202.0,8658037.0,1020.0,False,['ethereum'],0x08dcb9b5989fb09ef80e85567ec1f49577a70d29,"['etherscan.io', 'ethplorer.io']","['MetaMask', 'Trust Wallet']"
+cg:darkstar,A,DarkStar,darkstar,Gaming,32837923.0,155583.0,1021.0,True,"['binance-smart-chain', 'klay-token']",0xb05f4747eb3d18a3fa4aa3e5c627f02ccc70d005,"['bscscan.com', 'binplorer.com', 'kaiascan.io']",['Trust Wallet']
+cg:aria-ai,A,Aria.AI,aria,Gaming,32829658.0,2793684.0,1017.0,False,['binance-smart-chain'],0x5d3a12c42e5372b2cc3264ab3cdcf660a1555238,"['bscscan.com', 'binplorer.com']",['Trust Wallet']
+cg:ancient8,A,Ancient8,a8,Gaming,32420811.0,7427745.0,1028.0,True,"['ethereum', 'ancient8']",0x3e5a19c91266ad8ce2477b91585d1856b84062df,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io', 'scan.ancient8.gg']","['MetaMask', 'Trust Wallet']"
+exp:scan.ancient8.gg,D,scan.ancient8.gg,,,,,,,,,,
+cg:my-lovely-coin,A,My Lovely Coin,mlc,Gaming,32302627.0,2080857.0,1030.0,False,['polygon-pos'],0x0566c506477cd2d8df4e0123512dbc344bd9d111,"['polygonscan.com', 'platform.arkhamintelligence.com']","['MetaMask', 'Trust Wallet']"
+cg:world-of-dypians,A,World of Dypians,wod,Gaming,29447063.0,11667522.0,1097.0,False,['binance-smart-chain'],0xb994882a1b9bd98a71dd6ea5f61577c42848b0e8,"['bscscan.com', 'platform.arkhamintelligence.com', 'binplorer.com']",['Trust Wallet']
+cg:my-neighbor-alice,A,My Neighbor Alice,alice,Gaming,28463349.0,36538054.0,1112.0,True,"['ethereum', 'binance-smart-chain']",0xac51066d7bec65dc4589368da368b212745d63e8,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io', 'bscscan.com', 'binplorer.com']","['MetaMask', 'Trust Wallet']"
+cg:karrat,A,Karrat,karrat,Gaming,28437680.0,669144.0,1111.0,False,['ethereum'],0xacd2c239012d17beb128b0944d49015104113650,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io']","['MetaMask', 'Trust Wallet']"
+cg:mobox,A,Mobox,mbox,Gaming,27348930.0,4255954.0,1136.0,True,"['binance-smart-chain', 'arbitrum-one']",0x3203c9e46ca618c8c1ce5dc67e7e9d75f5da2377,"['bscscan.com', 'platform.arkhamintelligence.com', 'binplorer.com', 'arbiscan.io']","['MetaMask', 'Trust Wallet']"
+cg:unagi-token,A,Unagi Token,una,Gaming,27286650.0,311178.0,1141.0,True,"['ethereum', 'base', 'binance-smart-chain', 'polygon-pos']",0x0b6f3ea2814f3fff804ba5d5c237aebbc364fba9,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io', 'bscscan.com', 'binplorer.com', 'polygonscan.com', 'basescan.org']","['MetaMask', 'Trust Wallet']"
+cg:overtake,A,OVERTAKE,take,Gaming,27073682.0,49421126.0,1146.0,True,"['sui', 'binance-smart-chain']",0x76a49ebaf991fa2d4cb6a352af14425d453fe2ba6802b5ed2361b227150b6689::take::TAKE,"['bscscan.com', 'binplorer.com', 'suiscan.xyz', 'suivision.xyz']",['Trust Wallet']
+cg:yooldo-games,A,Yooldo Games,esports,Gaming,27064714.0,7253462.0,1147.0,False,['binance-smart-chain'],0xf39e4b21c84e737df08e2c3b32541d856f508e48,"['bscscan.com', 'binplorer.com']",['Trust Wallet']
+cg:hooked-protocol,A,Hooked Protocol,hook,Gaming,26728575.0,9784431.0,1150.0,False,['binance-smart-chain'],0xa260e12d2b924cb899ae80bb58123ac3fee1e2f0,"['bscscan.com', 'platform.arkhamintelligence.com', 'binplorer.com']",['Trust Wallet']
+cg:xpla,A,XPLA,xpla,Gaming,26393142.0,25119.0,1159.0,False,['osmosis'],ibc/95C9B5870F95E21A242E6AF9ADCB1F212EE4A8855087226C36FBE43FC41A77B8,"['explorer.xpla.io', 'www.mintscan.io']",[]
+exp:explorer.xpla.io,D,explorer.xpla.io,,,,,,,,,,
+cg:sharp-token,A,Sharp Token,sharp,Gaming,26285449.0,59097.0,1160.0,False,['polygon-pos'],0xb36b62929762acf8a9cc27ecebf6d353ebb48244,['polygonscan.com'],"['MetaMask', 'Trust Wallet']"
+cg:gunz,A,Gunz,gun,Gaming,25282405.0,6505574.0,1178.0,True,"['avalanche', 'solana']",0x26debd39d5ed069770406fca10a0e4f8d2c743eb,"['gunzscan.io', 'avascan.info', 'solscan.io', 'snowtrace.io']","['Core', 'MetaMask', 'Phantom', 'Solflare']"
+exp:gunzscan.io,D,gunzscan.io,,,,,,,,,,
+cg:alien-worlds,A,Alien Worlds,tlm,Gaming,24628371.0,5770863.0,1202.0,True,"['ethereum', 'wax', 'binance-smart-chain']",0x888888848b652b3e3a0f34c96e00eec0f3a23f72,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io', 'bscscan.com', 'binplorer.com', 'wax.bloks.io', 'waxblock.io']","['MetaMask', 'Trust Wallet']"
+cg:scout-protocol-token,A,Scout Protocol Token,dev,Gaming,24509730.0,4475.73,1204.0,False,['base'],0x047157cffb8841a64db93fd4e29fa3796b78466c,['basescan.org'],[]
+cg:freestyle-classic,A,FreeStyle Classic,fst,Gaming,22457506.0,6965142.0,1259.0,False,['binance-smart-chain'],0xfa35e2250e376c23955247383dc32c79082e7fcc,"['bscscan.com', 'binplorer.com']",['Trust Wallet']
+cg:vulcan-forged,A,Vulcan Forged,pyr,Gaming,22399782.0,6657058.0,1264.0,True,"['ethereum', 'polygon-pos']",0x430ef9263e76dae63c84292c3409d61c598e9682,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io', 'polygonscan.com', 'polygon.dex.guru']","['MetaMask', 'Trust Wallet']"
+cg:radio-caca,A,Radio Caca,raca,Gaming,22142322.0,5764833.0,1272.0,True,"['binance-smart-chain', 'ethereum', 'okex-chain']",0x12bb890508c125661e03b09ec06e404bc9289040,"['bscscan.com', 'platform.arkhamintelligence.com', 'etherscan.io', 'ethplorer.io', 'www.oklink.com', 'binplorer.com']","['MetaMask', 'Trust Wallet']"
+cg:eggle-energy,A,Eggle Energy,eng,Gaming,21976222.0,5768.41,1277.0,False,['base'],0x8a0e751e5d7a2861ca7cf16d9720337e40604982,['basescan.org'],[]
+cg:incrypt,A,Incrypt,inc,Gaming,21794150.0,88585.0,1282.0,False,['solana'],Fe5c469ADZyvnZrB8gdDsYt5eLKodaVYhYJCdunVr1nA,"['explorer.solana.com', 'solscan.io']","['Phantom', 'Solflare']"
+cg:open-loot,A,OPENLOOT,ol,Gaming,21585465.0,1059298.0,1286.0,True,"['ethereum', 'binance-smart-chain']",0x1f57da732a77636d913c9a75d685b26cc85dcc3a,"['etherscan.io', 'ethplorer.io', 'bscscan.com', 'binplorer.com']","['MetaMask', 'Trust Wallet']"
+cg:portal-2,A,Portal,portal,Gaming,21368317.0,7328030.0,1293.0,True,"['ethereum', 'solana']",0x1bbe973bef3a977fc51cbed703e8ffdefe001fed,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io', 'solscan.io']","['MetaMask', 'Phantom', 'Solflare', 'Trust Wallet']"
+cg:edu3games,A,Edu3Games,egn,Gaming,21150571.0,91.82,1299.0,False,['solana'],EGNjqB7LfRxpkbVMSroA6UaKtGPuy6wWPx7bmijmPuCD,['solscan.io'],"['Phantom', 'Solflare']"
+cg:ix-token,A,Planet IX,ixt,Gaming,20980661.0,124894.0,1306.0,False,['polygon-pos'],0xe06bd4f5aac8d0aa337d13ec88db6defc6eaeefe,"['polygonscan.com', 'platform.arkhamintelligence.com', 'polygon.dex.guru']","['MetaMask', 'Trust Wallet']"
+cg:vice-2,A,VICE,vice,Gaming,20773007.0,95798.0,1309.0,False,['ethereum'],0xfd409bc96d126bc8a56479d4c7672015d539f96c,"['etherscan.io', 'ethplorer.io']","['MetaMask', 'Trust Wallet']"
+cg:pixels,A,Pixels,pixel,Gaming,20600426.0,9688049.0,1313.0,True,"['ethereum', 'ronin']",0x3429d03c6f7521aec737a0bbf2e5ddcef2c3ae31,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io', 'app.roninchain.com']","['MetaMask', 'Trust Wallet']"
+cg:aavegotchi,A,Aavegotchi,ghst,Gaming,20431480.0,1873894.0,1318.0,True,"['ethereum', 'energi', 'base', 'polygon-pos']",0x3f382dbd960e3a9bbceae22651e88158d2791550,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io', 'polygonscan.com', 'explorer.energi.network', 'polygon.dex.guru', 'basescan.org']","['MetaMask', 'Trust Wallet']"
+cg:cross-the-ages,A,Cross The Ages,cta,Gaming,19359224.0,995050.0,1356.0,True,"['ethereum', 'solana']",0x90685e300a4c4532efcefe91202dfe1dfd572f47,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io', 'solscan.io']","['MetaMask', 'Phantom', 'Solflare', 'Trust Wallet']"
+cg:dar-open-network,A,Dar Open Network,d,Gaming,19197030.0,1479148.0,1361.0,True,"['ethereum', 'binance-smart-chain']",0x33b481cbbf3c24f2b3184ee7cb02daad1c4f49a8,"['etherscan.io', 'ethplorer.io', 'bscscan.com', 'binplorer.com']","['MetaMask', 'Trust Wallet']"
+cg:star-atlas-dao,A,Star Atlas DAO,polis,Gaming,19042256.0,202680.0,1366.0,False,['solana'],poLisWXnNRwC6oBu1vHiuKQzFjGL4XDSu4g9qjz9qVk,"['solscan.io', 'platform.arkhamintelligence.com', 'explorer.solana.com']","['Phantom', 'Solflare']"
+cg:games-for-a-living,A,Games for a Living,gfal,Gaming,18975302.0,169584.0,1370.0,False,['binance-smart-chain'],0x47c454ca6be2f6def6f32b638c80f91c9c3c5949,"['bscscan.com', 'platform.arkhamintelligence.com', 'binplorer.com', 'bnb.dex.guru']",['Trust Wallet']
+cg:myria,A,Myria,myria,Gaming,18812078.0,933369.0,1373.0,False,['ethereum'],0xa0ef786bf476fe0810408caba05e536ac800ff86,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io']","['MetaMask', 'Trust Wallet']"
+cg:crown-by-third-time-games,A,Crown by Third Time Games,crown,Gaming,18507062.0,32069.0,1382.0,False,['solana'],GDfnEsia2WLAW5t8yx2X5j2mkfA74i5kwGdDuZHt7XmG,"['solscan.io', 'platform.arkhamintelligence.com']","['Phantom', 'Solflare']"
+cg:ready,A,READY!,ready,Gaming,18327180.0,195880.0,1393.0,False,['solana'],HKJHsYJHMVK5VRyHHk5GhvzY9tBAAtPvDkZfDH6RLDTd,['solscan.io'],"['Phantom', 'Solflare']"
+cg:metacade,A,Metacade,mcade,Gaming,17736388.0,833609.0,1415.0,False,['base'],0xc48823ec67720a04a9dfd8c7d109b2c3d6622094,"['basescan.org', 'platform.arkhamintelligence.com']",[]
+cg:catizen,A,Catizen,cati,Gaming,17156262.0,5272575.0,1432.0,False,['the-open-network'],EQD-cvR0Nz6XAyRBvbhz-abTrRC6sI5tvHvvpeQraV9UAAD7,"['tonscan.org', 'platform.arkhamintelligence.com', 'tonviewer.com']",[]
+cg:ark-of-panda,A,Ark of Panda,aop,Gaming,17036757.0,39741406.0,1434.0,False,['binance-smart-chain'],0xd5df4d260d7a0145f655bcbf3b398076f21016c7,"['bscscan.com', 'binplorer.com']",['Trust Wallet']
+cg:star-atlas,A,Star Atlas,atlas,Gaming,16689522.0,823858.0,1447.0,False,['solana'],ATLASXmbPQxBUYbxPsV97usA3fPQYEqzQBUHgiFCUsXx,"['solscan.io', 'platform.arkhamintelligence.com', 'explorer.solana.com']","['Phantom', 'Solflare']"
+cg:sweatcoin,A,SWEAT,sweat,Gaming,16589204.0,6231086.0,1456.0,True,"['ethereum', 'optimistic-ethereum', 'celo', 'aptos', 'sui', 'near-protocol', 'binance-smart-chain', 'solana', 'base', 'avalanche', 'polygon-pos', 'arbitrum-one']",0xb4b9dc1c77bdbb135ea907fd5a08094d98883a35,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io', 'nearblocks.io', 'solscan.io', 'explorer.celo.org', 'bscscan.com', 'binplorer.com', 'basescan.org', 'aptscan.ai']","['Core', 'MetaMask', 'Phantom', 'Solflare', 'Trust Wallet']"
+exp:explorer.celo.org,D,explorer.celo.org,,,,,,,,,,
+cg:wemix-dollar,A,WEMIX Dollar,wemix$,Gaming,16222892.0,78678.0,1469.0,False,['wemix-network'],0x8e81fcc2d4a3baa0ee9044e0d7e36f59c9bba9c1,['explorer.wemix.com'],[]
+exp:explorer.wemix.com,D,explorer.wemix.com,,,,,,,,,,
+cg:verse-world,A,Verse World,verse,Gaming,15916101.0,3334380.0,1483.0,False,['solana'],vRseBFqTy9QLmmo5qGiwo74AVpdqqMTnxPqWoWMpump,['solscan.io'],"['Phantom', 'Solflare']"
+cg:seedify-fund,A,Seedify.fund,sfund,Gaming,15736244.0,1056444.0,1492.0,True,"['binance-smart-chain', 'ethereum', 'arbitrum-one']",0x477bc8d23c634c154061869478bce96be6045d12,"['bscscan.com', 'platform.arkhamintelligence.com', 'binplorer.com', 'arbiscan.io', 'etherscan.io', 'ethplorer.io']","['MetaMask', 'Trust Wallet']"
+cg:portals,A,Portals,portals,Gaming,15484963.0,178137300.0,1501.0,False,['solana'],PRTLSwfLzpVGSAQiUfXEenJkq1cwTsEcsn1hPL9zwwg,['solscan.io'],"['Phantom', 'Solflare']"
+cg:powersnookercoin,A,PowerSnookerCoin,psc,Gaming,15387946.0,15.4,1507.0,False,['base'],0x788470b87b87b1815dd2119615a946825342ae01,['basescan.org'],[]
+cg:xborg,A,XBorg,xbg,Gaming,15310186.0,259360.0,1512.0,True,"['ethereum', 'solana', 'arbitrum-one']",0xeae00d6f9b16deb1bd584c7965e4c7d762f178a1,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io', 'solscan.io', 'arbiscan.io']","['MetaMask', 'Phantom', 'Solflare', 'Trust Wallet']"
+cg:cornucopias,A,Cornucopias,copi,Gaming,15145785.0,223340.0,1520.0,True,"['binance-smart-chain', 'ethereum', 'cardano', 'base']",0xfea292e5ea4510881bdb840e3cec63abd43f936f,"['bscscan.com', 'platform.arkhamintelligence.com', 'etherscan.io', 'ethplorer.io', 'cardanoscan.io', 'binplorer.com', 'basescan.org']","['MetaMask', 'Trust Wallet']"
+cg:playsout,A,PlaysOut,play,Gaming,14988490.0,1473009.0,1529.0,True,"['base', 'binance-smart-chain']",0x853a7c99227499dba9db8c3a02aa691afdebf841,"['basescan.org', 'bscscan.com', 'binplorer.com']",['Trust Wallet']
+cg:ultra,A,Ultra,uos,Gaming,14789861.0,2053271.0,1540.0,False,['ethereum'],0xd13c7342e1ef687c5ad21b27c2b65d772cab5c8c,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io']","['MetaMask', 'Trust Wallet']"
+cg:moonveil,A,Moonveil,more,Gaming,13974616.0,6738985.0,1571.0,False,['binance-smart-chain'],0xfe723495f73714426493384eb5e49aa5b827e1d5,"['bscscan.com', 'binplorer.com']",['Trust Wallet']
+cg:memefi-2,A,MemeFi,memefi,Gaming,13187605.0,7141463.0,1602.0,False,['sui'],0x506a6fc25f1c7d52ceb06ea44a3114c9380f8e2029b4356019822f248b49e411::memefi::MEMEFI,"['suiscan.xyz', 'suivision.xyz']",[]
+cg:gamefi,A,GameFi.org,gafi,Gaming,12311833.0,502689.0,1647.0,False,['binance-smart-chain'],0x89af13a10b32f1b2f8d1588f93027f69b6f4e27e,"['bscscan.com', 'platform.arkhamintelligence.com', 'binplorer.com']",['Trust Wallet']
+cg:freya-by-virtuals,A,Freya Protocol,freya,Gaming,12028137.0,106711.0,1668.0,False,['solana'],AzVCECC5zr21ikYQne4Xtoh3SVg848duPHUHb3M7bonk,['solscan.io'],"['Phantom', 'Solflare']"
+cg:voxies,A,Voxies,voxel,Gaming,11889050.0,15387819.0,1678.0,False,['polygon-pos'],0xd0258a3fd00f38aa8090dfee343f10a9d4d30d3f,"['polygonscan.com', 'platform.arkhamintelligence.com', 'polygon.dex.guru']","['MetaMask', 'Trust Wallet']"
+cg:sappy-seals-pixl,A,PIXL,pixl,Gaming,11750527.0,10236.85,1686.0,False,['ethereum'],0x427a03fb96d9a94a6727fbcfbba143444090dd64,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io']","['MetaMask', 'Trust Wallet']"
+cg:numine-token,A,NUMINE Token,numi,Gaming,11739400.0,11519400.0,1687.0,True,"['ethereum', 'binance-smart-chain', 'avalanche']",0xa29c9a740de8194e4016747e9a04a84946ada0a5,"['etherscan.io', 'snowtrace.io', 'subnets.avax.network', 'ethplorer.io', 'avascan.info', 'bscscan.com', 'binplorer.com']","['Core', 'MetaMask', 'Trust Wallet']"
+cg:nakamoto-games,A,Nakamoto Games,naka,Gaming,11646886.0,6120466.0,1698.0,False,['polygon-pos'],0x311434160d7537be358930def317afb606c0d737,"['polygonscan.com', 'platform.arkhamintelligence.com', 'polygon.dex.guru']","['MetaMask', 'Trust Wallet']"
+cg:balance,A,Balance,ept,Gaming,11585838.0,5033820.0,1701.0,False,['binance-smart-chain'],0x3dc8e2d80b6215a1bccae4d38715c3520581e77c,"['bscscan.com', 'binplorer.com']",['Trust Wallet']
+cg:otherworld,A,Otherworld,own,Gaming,10816115.0,17057.61,1744.0,False,['ethereum'],0x2d81f9460bd21e8578350a4f06e62848ed4bb27e,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io']","['MetaMask', 'Trust Wallet']"
+cg:saito,A,Saito,saito,Gaming,10606880.0,40084.0,1757.0,True,"['ethereum', 'binance-smart-chain']",0xfa14fa6958401314851a17d6c5360ca29f74b57b,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io', 'bscscan.com', 'binplorer.com']","['MetaMask', 'Trust Wallet']"
+cg:blood-crystal,A,Blood Crystal,bc,Gaming,10259966.0,20571.0,1783.0,True,"['ethereum', 'polygon-pos']",0x4b6d036d0bc62a633acca6d10956e9dbbb16748f,"['etherscan.io', 'platform.arkhamintelligence.com', 'polygonscan.com', 'ethplorer.io']","['MetaMask', 'Trust Wallet']"
+cg:ultiverse,A,Ultiverse,ulti,Gaming,10037440.0,1829185.0,1799.0,True,"['binance-smart-chain', 'ethereum']",0x0e7779e698052f8fe56c415c3818fcf89de9ac6d,"['bscscan.com', 'platform.arkhamintelligence.com', 'binplorer.com', 'etherscan.io', 'ethplorer.io']","['MetaMask', 'Trust Wallet']"
+cg:tiktrix,A,TikTrix,trix,Gaming,9878016.0,456615.0,1810.0,False,['ethereum'],0xda5d03f441e13ad74876e5fa1851cbfadab1f332,"['etherscan.io', 'ethplorer.io']","['MetaMask', 'Trust Wallet']"
+cg:playa3ull-games-2,A,PLAYA3ULL GAMES,3ull,Gaming,9776225.0,848611.0,1819.0,False,['avalanche'],0xa77e70d0af1ac7ff86726740db1bd065c3566937,"['snowtrace.io', 'platform.arkhamintelligence.com', 'explorer.playa3ull.games', 'avascan.info']","['Core', 'MetaMask']"
+exp:explorer.playa3ull.games,D,explorer.playa3ull.games,,,,,,,,,,
+cg:aurory,A,Aurory,aury,Gaming,8925713.0,4437.83,1872.0,False,['solana'],AURYydfxJib1ZkTir1Jn1J9ECYUtjb6rKQVmtYaixWPP,"['solscan.io', 'platform.arkhamintelligence.com', 'arbiscan.io']","['Phantom', 'Solflare']"
+cg:volt-inu-2,A,Volt Inu,volt,Gaming,8308343.0,263585.0,1922.0,True,"['ethereum', 'binance-smart-chain', 'polygon-pos']",0x7f792db54b0e580cdc755178443f0430cf799aca,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io', 'bscscan.com', 'polygonscan.com', 'binplorer.com']","['MetaMask', 'Trust Wallet']"
+cg:metahero,A,Metahero,hero,Gaming,8299203.0,36863.0,1923.0,False,['binance-smart-chain'],0xd40bedb44c081d2935eeba6ef5a3c8a31a1bbe13,"['bscscan.com', 'platform.arkhamintelligence.com', 'binplorer.com']",['Trust Wallet']
+cg:hatch-2,A,Hatch,hatch,Gaming,7899058.0,32688.0,1956.0,False,['binance-smart-chain'],0x072ef16a59bdc14e25f33ff4509870660548c107,"['bscscan.com', 'binplorer.com']",['Trust Wallet']
+cg:chain-games,A,Chain Games,chain,Gaming,7782637.0,19507.77,1965.0,True,"['ethereum', 'harmony-shard-0', 'binance-smart-chain', 'polygon-pos']",0xc4c2614e694cf534d407ee49f8e44d125e4681c4,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io', 'polygonscan.com', 'bscscan.com', 'binplorer.com', 'explorer.harmony.one']","['MetaMask', 'Trust Wallet']"
+cg:hyperchainx,A,HyperChainX,hpx,Gaming,7594188.0,48760.0,1986.0,False,['binance-smart-chain'],0x5b3829ebdf126fadf69b829bbc000e5c749265af,"['bscscan.com', 'binplorer.com']",['Trust Wallet']
+cg:catecoin,A,CateCoin,cate,Gaming,7227054.0,3267027.0,2030.0,True,"['binance-smart-chain', 'ethereum', 'base']",0xe4fae3faa8300810c835970b9187c268f55d998f,"['bscscan.com', 'platform.arkhamintelligence.com', 'binplorer.com', 'etherscan.io', 'ethplorer.io', 'basescan.org']","['MetaMask', 'Trust Wallet']"
+cg:miracle-play,A,Miracle Play,mpt,Gaming,7224120.0,440931.0,2031.0,True,"['polygon-pos', 'opbnb', 'xpla', 'binance-smart-chain', 'base', 'avalanche', 'arbitrum-one']",0x87d6f8edeccbcca766d2880d19b2c3777d322c22,"['polygonscan.com', 'platform.arkhamintelligence.com', 'avascan.info', 'opbnb.bscscan.com', 'mainnet.opbnbscan.com', 'basescan.org', 'arbiscan.io', 'explorer.xpla.io', 'bscscan.com']","['Core', 'MetaMask', 'Trust Wallet']"
+exp:opbnb.bscscan.com,D,opbnb.bscscan.com,,,,,,,,,,
+exp:mainnet.opbnbscan.com,D,mainnet.opbnbscan.com,,,,,,,,,,
+cg:mon-protocol,A,MON,mon,Gaming,7062867.0,1567332.0,2042.0,False,['ethereum'],0xc555d625828c4527d477e595ff1dd5801b4a600e,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io']","['MetaMask', 'Trust Wallet']"
+cg:upland,A,Upland,sparklet,Gaming,7020672.0,299863.0,2060.0,False,['ethereum'],0x0bc37bea9068a86c221b8bd71ea6228260dad5a2,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io']","['MetaMask', 'Trust Wallet']"
+cg:league-of-kingdoms,A,League of Kingdoms,loka,Gaming,6998982.0,33411.0,2063.0,False,['ethereum'],0x61e90a50137e1f645c9ef4a0d3a4f01477738406,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io']","['MetaMask', 'Trust Wallet']"
+cg:sovrun,A,Sovrun,sovrn,Gaming,6987088.0,69472.0,2065.0,True,"['ethereum', 'hyperliquid', 'base']",0x031b8d752d73d7fe9678acef26e818280d0646b4,"['etherscan.io', 'ethplorer.io', 'basescan.org', 'app.hyperliquid.xyz', 'hypurrscan.io']","['MetaMask', 'Trust Wallet']"
+exp:app.hyperliquid.xyz,D,app.hyperliquid.xyz,,,,,,,,,,
+exp:hypurrscan.io,D,hypurrscan.io,,,,,,,,,,
+cg:space-nation-oikos,A,Space Nation Oikos,oik,Gaming,6915089.0,428577.0,2068.0,True,"['ethereum', 'immutable', 'binance-smart-chain']",0x6e7f11641c1ec71591828e531334192d622703f7,"['etherscan.io', 'ethplorer.io', 'bscscan.com', 'binplorer.com', 'explorer.immutable.com']","['MetaMask', 'Trust Wallet']"
+cg:von,A,VON,von,Gaming,6633416.0,137637.0,2108.0,False,['binance-smart-chain'],0xa4c3497b57c8b6d510f3707a1e9694fd791f45fb,"['bscscan.com', 'binplorer.com']",['Trust Wallet']
+cg:the-big-five,A,The Big Five,bft,Gaming,6567229.0,724366.0,2115.0,False,['binance-smart-chain'],0x4b87f578d6fabf381f43bd2197fbb2a877da6ef8,"['bscscan.com', 'platform.arkhamintelligence.com', 'binplorer.com']",['Trust Wallet']
+cg:infinitar-governance-token,A,Infinitar Governance Token,igt,Gaming,6388045.0,423154.0,2139.0,False,['binance-smart-chain'],0xd5eeec1a534c35c418b44bb28e4d5a602f1a22de,"['bscscan.com', 'platform.arkhamintelligence.com', 'binplorer.com']",['Trust Wallet']
+cg:heroes-of-mavia,A,Heroes of Mavia,mavia,Gaming,6153570.0,3047238.0,2165.0,True,"['ethereum', 'base']",0x24fcfc492c1393274b6bcd568ac9e225bec93584,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io', 'basescan.org']","['MetaMask', 'Trust Wallet']"
+cg:pepper-meme,A,Pepper Meme,pepper,Gaming,6023055.0,68801.0,2188.0,False,['base'],0xbf388570ebd5b88bfc7cd21ec469813c15f453a3,['basescan.org'],[]
+cg:gamium,A,Gamium,gmm,Gaming,5979861.0,31489.0,2197.0,True,"['binance-smart-chain', 'ethereum']",0x5b6bf0c7f989de824677cfbd507d9635965e9cd3,"['bscscan.com', 'platform.arkhamintelligence.com', 'etherscan.io', 'ethplorer.io', 'binplorer.com']","['MetaMask', 'Trust Wallet']"
+cg:paragonsdao,A,ParagonsDAO,pdt,Gaming,5878822.0,22239.0,2210.0,True,"['ethereum', 'base']",0x375abb85c329753b1ba849a601438ae77eec9893,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io', 'basescan.org']","['MetaMask', 'Trust Wallet']"
+cg:karate-combat,A,Karate Combat,karate,Gaming,5822879.0,42808.0,2216.0,True,"['ethereum', 'hedera-hashgraph']",0x80008bcd713c38af90a9930288d446bc3bd2e684,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io', 'hashscan.io']","['MetaMask', 'Trust Wallet']"
+cex:azbit,C,azbit,,,,,,,,,,
+cex:biconomy,C,biconomy,,,,,,,,,,
+cex:binance,C,binance,,,,,,,,,,
+cex:binance_us,C,binance_us,,,,,,,,,,
+cex:bingx,C,bingx,,,,,,,,,,
+cex:bit2me,C,bit2me,,,,,,,,,,
+cex:bitazza,C,bitazza,,,,,,,,,,
+cex:bitcastle,C,bitcastle,,,,,,,,,,
+cex:bitcoin_com,C,bitcoin_com,,,,,,,,,,
+cex:bitcointry_exchange,C,bitcointry_exchange,,,,,,,,,,
+cex:bitdelta,C,bitdelta,,,,,,,,,,
+cex:bitfinex,C,bitfinex,,,,,,,,,,
+cex:bitget,C,bitget,,,,,,,,,,
+cex:bitkan,C,bitkan,,,,,,,,,,
+cex:bitkub,C,bitkub,,,,,,,,,,
+cex:bitmart,C,bitmart,,,,,,,,,,
+cex:bitmax,C,bitmax,,,,,,,,,,
+cex:bitrue,C,bitrue,,,,,,,,,,
+cex:bitstamp,C,bitstamp,,,,,,,,,,
+cex:bittime,C,bittime,,,,,,,,,,
+cex:bitunix,C,bitunix,,,,,,,,,,
+cex:bitvavo,C,bitvavo,,,,,,,,,,
+cex:bitvenus_spot,C,bitvenus_spot,,,,,,,,,,
+cex:blofin_spot,C,blofin_spot,,,,,,,,,,
+cex:btse,C,btse,,,,,,,,,,
+cex:bullish_com,C,bullish_com,,,,,,,,,,
+cex:bybit_spot,C,bybit_spot,,,,,,,,,,
+cex:bydfi,C,bydfi,,,,,,,,,,
+cex:cex,C,cex,,,,,,,,,,
+cex:coin_metro,C,coin_metro,,,,,,,,,,
+cex:coincatch,C,coincatch,,,,,,,,,,
+cex:coinex,C,coinex,,,,,,,,,,
+cex:cointr,C,cointr,,,,,,,,,,
+cex:coinup,C,coinup,,,,,,,,,,
+cex:coinw,C,coinw,,,,,,,,,,
+cex:crypto_com,C,crypto_com,,,,,,,,,,
+cex:cryptology,C,cryptology,,,,,,,,,,
+cex:deepcoin,C,deepcoin,,,,,,,,,,
+cex:dextrade,C,dextrade,,,,,,,,,,
+cex:digifinex,C,digifinex,,,,,,,,,,
+cex:exmo,C,exmo,,,,,,,,,,
+cex:fameex,C,fameex,,,,,,,,,,
+cex:gate,C,gate,,,,,,,,,,
+cex:gdax,C,gdax,,,,,,,,,,
+cex:hibt,C,hibt,,,,,,,,,,
+cex:hotcoin_global,C,hotcoin_global,,,,,,,,,,
+cex:huobi,C,huobi,,,,,,,,,,
+cex:icrypex,C,icrypex,,,,,,,,,,
+cex:kcex,C,kcex,,,,,,,,,,
+cex:kraken,C,kraken,,,,,,,,,,
+cex:kucoin,C,kucoin,,,,,,,,,,
+cex:latoken,C,latoken,,,,,,,,,,
+cex:lbank,C,lbank,,,,,,,,,,
+cex:mxc,C,mxc,,,,,,,,,,
+cex:nami_exchange,C,nami_exchange,,,,,,,,,,
+cex:okex,C,okex,,,,,,,,,,
+cex:ourbit,C,ourbit,,,,,,,,,,
+cex:phemex,C,phemex,,,,,,,,,,
+cex:pionex,C,pionex,,,,,,,,,,
+cex:pointpay,C,pointpay,,,,,,,,,,
+cex:poloniex,C,poloniex,,,,,,,,,,
+cex:qmall,C,qmall,,,,,,,,,,
+cex:tapbit,C,tapbit,,,,,,,,,,
+cex:toko_crypto,C,toko_crypto,,,,,,,,,,
+cex:toobit,C,toobit,,,,,,,,,,
+cex:trubit,C,trubit,,,,,,,,,,
+cex:uniswap_v3,C,uniswap_v3,,,,,,,,,,
+cex:weex,C,weex,,,,,,,,,,
+cex:whitebit,C,whitebit,,,,,,,,,,
+cex:wootrade,C,wootrade,,,,,,,,,,
+cex:xbo_com,C,xbo_com,,,,,,,,,,
+cex:xt,C,xt,,,,,,,,,,
+cex:bithumb,C,bithumb,,,,,,,,,,
+cex:bitlo,C,bitlo,,,,,,,,,,
+cex:btcc,C,btcc,,,,,,,,,,
+cex:cube,C,cube,,,,,,,,,,
+cex:korbit,C,korbit,,,,,,,,,,
+cex:mercado_bitcoin,C,mercado_bitcoin,,,,,,,,,,
+cex:mudrex,C,mudrex,,,,,,,,,,
+cex:novadax,C,novadax,,,,,,,,,,
+cex:young-platform,C,young-platform,,,,,,,,,,
+cex:coindcx,C,coindcx,,,,,,,,,,
+cex:coinone,C,coinone,,,,,,,,,,
+cex:koinpark,C,koinpark,,,,,,,,,,
+cex:upbit,C,upbit,,,,,,,,,,
+cex:aerodrome-slipstream,C,aerodrome-slipstream,,,,,,,,,,
+cex:bigone,C,bigone,,,,,,,,,,
+cex:coinstore,C,coinstore,,,,,,,,,,
+cex:grovex,C,grovex,,,,,,,,,,
+cex:icpswap,C,icpswap,,,,,,,,,,
+cex:arkham,C,arkham,,,,,,,,,,
+cex:bitbank,C,bitbank,,,,,,,,,,
+cex:bitso,C,bitso,,,,,,,,,,
+cex:foxbit,C,foxbit,,,,,,,,,,
+cex:gemini,C,gemini,,,,,,,,,,
+cex:lcx,C,lcx,,,,,,,,,,
+cex:meteora,C,meteora,,,,,,,,,,
+cex:orangex,C,orangex,,,,,,,,,,
+cex:orca,C,orca,,,,,,,,,,
+cex:pancakeswap-v3-solana,C,pancakeswap-v3-solana,,,,,,,,,,
+cex:raydium-clmm,C,raydium-clmm,,,,,,,,,,
+cex:uniswap-v4-ethereum,C,uniswap-v4-ethereum,,,,,,,,,,
+cex:zoomex,C,zoomex,,,,,,,,,,
+cex:coincheck,C,coincheck,,,,,,,,,,
+cex:coinspro,C,coinspro,,,,,,,,,,
+cex:earnbit,C,earnbit,,,,,,,,,,
+cex:hashkey_exchange,C,hashkey_exchange,,,,,,,,,,
+cex:kanga,C,kanga,,,,,,,,,,
+cex:niza-global,C,niza-global,,,,,,,,,,
+cex:nonkyc_io,C,nonkyc_io,,,,,,,,,,
+cex:p2pb2b,C,p2pb2b,,,,,,,,,,
+cex:probit,C,probit,,,,,,,,,,
+cex:secondbtc,C,secondbtc,,,,,,,,,,
+cex:slex,C,slex,,,,,,,,,,
+cex:sushiswap,C,sushiswap,,,,,,,,,,
+cex:uniswap_v2,C,uniswap_v2,,,,,,,,,,
+cex:websea,C,websea,,,,,,,,,,
+cex:pancakeswap-v3-bsc,C,pancakeswap-v3-bsc,,,,,,,,,,
+cex:pancakeswap_new,C,pancakeswap_new,,,,,,,,,,
+cex:uniswap-bsc,C,uniswap-bsc,,,,,,,,,,
+cex:bitci,C,bitci,,,,,,,,,,
+cex:luno,C,luno,,,,,,,,,,
+cex:uniswap-v4-arbitrum,C,uniswap-v4-arbitrum,,,,,,,,,,
+cex:uniswap_v3_arbitrum,C,uniswap_v3_arbitrum,,,,,,,,,,
+cex:uniswap_v3_polygon_pos,C,uniswap_v3_polygon_pos,,,,,,,,,,
+cex:apeswap_bsc,C,apeswap_bsc,,,,,,,,,,
+cex:biswap,C,biswap,,,,,,,,,,
+cex:bit_com,C,bit_com,,,,,,,,,,
+cex:indodax,C,indodax,,,,,,,,,,
+cex:backpack_exchange,C,backpack_exchange,,,,,,,,,,
+cex:hashkey-global,C,hashkey-global,,,,,,,,,,
+cex:uniswap-v4-bsc,C,uniswap-v4-bsc,,,,,,,,,,
+cg:blocklords,A,BLOCKLORDS,lrds,Gaming,5796067.0,311926.0,2218.0,True,"['ethereum', 'base']",0xd0a6053f087e87a25dc60701ba6e663b1a548e85,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io', 'basescan.org']","['MetaMask', 'Trust Wallet']"
+cg:delabs-games,A,Delabs Games,delabs,Gaming,5794141.0,485553.0,2220.0,True,"['binance-smart-chain', 'klay-token']",0x23ccab1de32e06a6235a7997c266f86440c2cbe6,"['bscscan.com', 'binplorer.com', 'kaiascan.io']",['Trust Wallet']
+cg:doubleup,A,DoubleUp,up,Gaming,5740634.0,912474.0,2225.0,False,['sui'],0x87dfe1248a1dc4ce473bd9cb2937d66cdc6c30fee63f3fe0dbb55c7a09d35dec::up::UP,"['suivision.xyz', 'suiscan.xyz']",[]
+cg:guild-of-guardians,A,Guild of Guardians,gog,Gaming,5739458.0,41021.0,2226.0,True,"['ethereum', 'immutable']",0x9ab7bb7fdc60f4357ecfef43986818a2a3569c62,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io', 'explorer.immutable.com']","['MetaMask', 'Trust Wallet']"
+cg:worldshards,A,WorldShards,shards,Gaming,5639008.0,4062563.0,2242.0,True,"['ethereum', 'binance-smart-chain']",0x6efe65c2426b51e9aa0427b96c313e5d8715fd06,"['etherscan.io', 'ethplorer.io', 'bscscan.com', 'binplorer.com']","['MetaMask', 'Trust Wallet']"
+cg:sidus,A,Sidus,sidus,Gaming,5584360.0,343311.0,2247.0,True,"['ethereum', 'linea', 'binance-smart-chain', 'base']",0x549020a9cb845220d66d3e9c6d9f9ef61c981102,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io', 'lineascan.build', 'lineaplorer.build', 'basescan.org', 'bscscan.com', 'binplorer.com']","['MetaMask', 'Trust Wallet']"
+cg:runwago,A,Runwago,runwago,Gaming,5452596.0,8856026.0,2269.0,False,['base'],0x5d3772ce50dedca695197373f858bfb324e32e5a,['basescan.org'],[]
+cg:the-root-network,A,The Root Network,root,Gaming,5429987.0,980403.0,2273.0,False,['ethereum'],0xa3d4bee77b05d4a0c943877558ce21a763c4fa29,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io']","['MetaMask', 'Trust Wallet']"
+cg:everdome,A,Hum(AI)n Web3,dome,Gaming,5321116.0,230596.0,2283.0,False,['binance-smart-chain'],0x475bfaa1848591ae0e6ab69600f48d828f61a80e,"['bscscan.com', 'platform.arkhamintelligence.com', 'binplorer.com']",['Trust Wallet']
+cg:sipher,A,SIPHER,sipher,Gaming,5281943.0,1918.26,2292.0,True,"['ethereum', 'funki']",0x9f52c8ecbee10e00d9faaac5ee9ba0ff6550f511,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io', 'funki-mainnet-explorer.alt.technology']","['MetaMask', 'Trust Wallet']"
+exp:funki-mainnet-explorer.alt.technology,D,funki-mainnet-explorer.alt.technology,,,,,,,,,,
+cg:tico,A,Funtico,tico,Gaming,5269619.0,17755.81,2298.0,False,['avalanche'],0xedf647326007e64d94b0ee69743350f3736e392c,"['avascan.info', 'snowtrace.io']","['Core', 'MetaMask']"
+cg:watcoin-2,A,WATCoin,watc,Gaming,5067717.0,59086.0,2328.0,False,['the-open-network'],EQAnOBmSoqfNfw_bGEYVjuG56qLQXcRGBV47LiAnZq5Pxfvo,"['tonscan.org', 'tonviewer.com']",[]
+cg:step-app-fitfi,A,Step App,fitfi,Gaming,4968265.0,3224154.0,2342.0,True,"['avalanche', 'step-network', 'binance-smart-chain']",0x714f020c54cc9d104b6f4f6998c63ce2a31d1888,"['snowtrace.io', 'platform.arkhamintelligence.com', 'avascan.info', 'stepscan.io', 'bscscan.com', 'binplorer.com']","['Core', 'MetaMask', 'Trust Wallet']"
+exp:stepscan.io,D,stepscan.io,,,,,,,,,,
+cg:shrapnel-2,A,Shrapnel,shrap,Gaming,4889996.0,148753.0,2352.0,True,"['avalanche', 'ethereum', 'binance-smart-chain']",0xd402298a793948698b9a63311404fbbee944eafd,"['snowtrace.io', 'platform.arkhamintelligence.com', 'avascan.info', 'etherscan.io', 'ethplorer.io', 'bscscan.com', 'binplorer.com', 'tonscan.org']","['Core', 'MetaMask', 'Trust Wallet']"
+cg:green-satoshi-token,A,STEPN Green Satoshi Token on Solana,gst-sol,Gaming,4835837.0,244767.0,2357.0,False,['solana'],AFbX8oGjGpmVFywbVouvhQSRmiW2aR1mohfahi4Y2AdB,"['explorer.solana.com', 'platform.arkhamintelligence.com', 'solscan.io', 'bscscan.com']","['Phantom', 'Solflare']"
+cg:pirate-token,A,Pirate Nation Token,pirate,Gaming,4785366.0,769670.0,2361.0,False,['ethereum'],0x7613c48e0cd50e42dd9bf0f6c235063145f6f8dc,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io']","['MetaMask', 'Trust Wallet']"
+cg:tower,A,Tower,tower,Gaming,4781250.0,1010141.0,2362.0,True,"['ethereum', 'solana', 'the-open-network', 'base', 'binance-smart-chain', 'polygon-pos']",0x1c9922314ed1415c95b9fd453c3818fd41867d0b,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io', 'bscscan.com', 'polygonscan.com', 'binplorer.com', 'basescan.org', 'tonscan.org', 'tonviewer.com', 'solscan.io']","['MetaMask', 'Phantom', 'Solflare', 'Trust Wallet']"
+cg:super-champs,A,Super Champs,champ,Gaming,4701989.0,408299.0,2378.0,True,"['base', 'ethereum', 'avalanche']",0xeb6d78148f001f3aa2f588997c5e102e489ad341,"['basescan.org', 'etherscan.io', 'ethplorer.io', 'avascan.info', 'snowtrace.io']","['Core', 'MetaMask', 'Trust Wallet']"
+cg:memesis-world,A,Memesis World,mems,Gaming,4689210.0,8.08,2382.0,False,['solana'],memsZQiMFoXYwuZj6fFEaRFNgyLGiLDEDqHz5PwtvRa,['solscan.io'],"['Phantom', 'Solflare']"
+cg:letstop,A,LETSTOP,stop,Gaming,4607617.0,585631.0,2404.0,False,['solana'],W2bAuFf2Xeb7ZNpJTywFSaCs5jYkaLYtBMR53SzVXUo,"['solscan.io', 'platform.arkhamintelligence.com']","['Phantom', 'Solflare']"
+cg:qopro,A,QORPO WORLD,qorpo,Gaming,4527552.0,733938.0,2420.0,True,"['ethereum', 'binance-smart-chain']",0x22514ffb0d7232a56f0c24090e7b68f179faa940,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io', 'bscscan.com', 'binplorer.com']","['MetaMask', 'Trust Wallet']"
+cg:settled-ethxy-token,A,Settled EthXY Token,sexy,Gaming,4370916.0,99054.0,2457.0,True,"['ethereum', 'base']",0xc52fafdc900cb92ae01e6e4f8979af7f436e2eb2,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io', 'basescan.org']","['MetaMask', 'Trust Wallet']"
+cg:starlink,A,StarLink,starl,Gaming,4358132.0,39533.0,2459.0,False,['ethereum'],0x8e6cd950ad6ba651f6dd608dc70e5886b1aa6b24,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io']","['MetaMask', 'Trust Wallet']"
+cg:dream-machine-token,A,Dream Machine Token,dmt,Gaming,4335524.0,238126.0,2465.0,True,"['arbitrum-one', 'ethereum']",0x8b0e6f19ee57089f7649a455d89d7bc6314d04e8,"['arbiscan.io', 'platform.arkhamintelligence.com', 'arbitrum.dex.guru', 'etherscan.io', 'ethplorer.io']","['MetaMask', 'Trust Wallet']"
+cg:furi,A,FURI,furi,Gaming,4306704.0,56013.0,2471.0,False,['polygon-pos'],0x5742fe477b2afed92c25d092418bac06cd076cea,['polygonscan.com'],"['MetaMask', 'Trust Wallet']"
+cg:solforge-fusion,A,SolForge Fusion,sfg,Gaming,4232875.0,88137.0,2490.0,False,['solana'],BLiUhfaUFbSoMVeRqq3QYTA1eJsTsB3ZDEYtUsGGQ9em,"['solscan.io', 'platform.arkhamintelligence.com']","['Phantom', 'Solflare']"
+cg:hodl-2,A,HODL,hodl,Gaming,4156059.0,118893.0,2507.0,False,['binance-smart-chain'],0x32b407ee915432be6d3f168bc1eff2a6f8b2034c,"['bscscan.com', 'binplorer.com']",['Trust Wallet']
+cg:warped-games,A,Warped Games,warped,Gaming,4024934.0,3404.21,2530.0,False,['ethereum'],0x6af53c6ec427525f7240e211941223288a0e7c66,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io']","['MetaMask', 'Trust Wallet']"
+cg:hello-labs,A,HELLO,hello,Gaming,3984058.0,302835.0,2538.0,True,"['ethereum', 'solana', 'binance-smart-chain']",0x411099c0b413f4feddb10edf6a8be63bd321311c,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io', 'bscscan.com', 'binplorer.com', 'solscan.io']","['MetaMask', 'Phantom', 'Solflare', 'Trust Wallet']"
+cg:katana-inu,A,Katana Inu,kata,Gaming,3935593.0,44732.0,2554.0,True,"['ethereum', 'base', 'binance-smart-chain']",0x2e85ae1c47602f7927bcabc2ff99c40aa222ae15,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io', 'bscscan.com', 'binplorer.com', 'basescan.org']","['MetaMask', 'Trust Wallet']"
+cg:karat-galaxy,A,KARAT Galaxy,karat,Gaming,3917688.0,578.28,2559.0,False,['binance-smart-chain'],0x57f2be3e97e7653a2e6d6bddda40160d202d5305,"['bscscan.com', 'platform.arkhamintelligence.com', 'binplorer.com']",['Trust Wallet']
+cg:blockchainspace,A,BlockchainSpace,guild,Gaming,3896775.0,28159.0,2564.0,True,"['ethereum', 'binance-smart-chain', 'polygon-pos']",0x83e9f223e1edb3486f876ee888d76bfba26c475a,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io', 'bscscan.com', 'binplorer.com', 'polygonscan.com']","['MetaMask', 'Trust Wallet']"
+cg:rainicorn,A,Raini,$raini,Gaming,3883756.0,6.64,2565.0,True,"['ethereum', 'fantom', 'binance-smart-chain']",0xeb953eda0dc65e3246f43dc8fa13f35623bdd5ed,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io', 'bscscan.com', 'ftmscan.com', 'binplorer.com']","['MetaMask', 'Trust Wallet']"
+exp:ftmscan.com,D,ftmscan.com,,,,,,,,,,
+cg:defi-kingdoms,A,DeFi Kingdoms,jewel,Gaming,3826567.0,245.56,2579.0,True,"['avalanche', 'metis-andromeda', 'harmony-shard-0']",0x997ddaa07d716995de90577c123db411584e5e46,"['snowtrace.io', 'platform.arkhamintelligence.com', 'avascan.info', 'klaytnscope.com', 'explorer.harmony.one', 'explorer.metis.io', 'andromeda-explorer.metis.io']","['Core', 'MetaMask']"
+exp:klaytnscope.com,D,klaytnscope.com,,,,,,,,,,
+cg:gamegpt,A,GameGPT,duel,Gaming,3783701.0,316075.0,2593.0,True,"['ethereum', 'binance-smart-chain']",0x943af2ece93118b973c95c2f698ee9d15002e604,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io', 'bscscan.com', 'binplorer.com']","['MetaMask', 'Trust Wallet']"
+cg:altered-state-token,A,Altered State Machine,asto,Gaming,3717893.0,661.58,2608.0,False,['ethereum'],0x823556202e86763853b40e9cde725f412e294689,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io']","['MetaMask', 'Trust Wallet']"
+cg:dolz-io,A,DOLZ.io,dolz,Gaming,3711774.0,1761.43,2611.0,True,"['ethereum', 'base', 'polygon-pos']",0xe939f011a3d8fc0aa874c97e8156053a903d7176,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io', 'polygonscan.com', 'basescan.org']","['MetaMask', 'Trust Wallet']"
+cg:splinterlands,A,Splintershards,sps,Gaming,3690375.0,37379.0,2620.0,False,['binance-smart-chain'],0x1633b7157e7638c4d6593436111bf125ee74703f,"['bscscan.com', 'platform.arkhamintelligence.com', 'binplorer.com']",['Trust Wallet']
+cg:pentagon-chain,A,Pentagon Chain,pc,Gaming,3686350.0,5.85,2621.0,False,['ethereum'],0xa1aa371e450c5aee7fff259cbf5cca9384227272,"['explorer.pentagon.games', 'etherscan.io', 'ethplorer.io']","['MetaMask', 'Trust Wallet']"
+exp:explorer.pentagon.games,D,explorer.pentagon.games,,,,,,,,,,
+cg:official-crypto-nostra,A,Official Crypto Nostra,ocn,Gaming,3595934.0,4547.52,2639.0,False,['solana'],7VRvzb8XExciDb98kPcFC8v3P3ALbW9bhTUQQhBzCBPn,['solscan.io'],"['Phantom', 'Solflare']"
+cg:exosama-network,A,Moonsama,sama,Gaming,3455621.0,77228.0,2679.0,True,"['beam', 'exosama', 'ethereum', 'base']",0x0650c20d8b536da43818578071d43cddd8ffe854,"['subnets.avax.network', 'platform.arkhamintelligence.com', 'explorer.exosama.com', 'etherscan.io', 'ethplorer.io', 'basescan.org']","['MetaMask', 'Trust Wallet']"
+exp:explorer.exosama.com,D,explorer.exosama.com,,,,,,,,,,
+cg:decentrawood,A,Decentrawood,deod,Gaming,3398402.0,265842.0,2703.0,True,"['polygon-pos', 'binance-smart-chain', 'solana']",0xe77abb1e75d2913b2076dd16049992ffeaca5235,"['polygonscan.com', 'platform.arkhamintelligence.com', 'solscan.io', 'bscscan.com', 'binplorer.com']","['MetaMask', 'Phantom', 'Solflare', 'Trust Wallet']"
+cg:spacem-token,A,SPACEM WORLD,spcm,Gaming,3316400.0,91685.0,2722.0,False,['avalanche'],0x7cc9c624efa62c2decf0a2a028f7885ecea95a17,"['snowtrace.io', 'avascan.info']","['Core', 'MetaMask']"
+cg:brn-metaverse,A,BRN Metaverse,brn,Gaming,3292760.0,115289.0,2726.0,False,['binance-smart-chain'],0x926ecc7687fcfb296e97a2b4501f41a6f5f8c214,"['bscscan.com', 'platform.arkhamintelligence.com', 'binplorer.com']",['Trust Wallet']
+cg:arca,A,Legend of Arcadia,arca,Gaming,3291316.0,69814.0,2729.0,False,['ethereum'],0x1c00c3e03c3a10a0c1d9b6d1a42e797d7cb4147a,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io']","['MetaMask', 'Trust Wallet']"
+cg:bombie,A,Bombie,bomb,Gaming,3259604.0,515822.0,2732.0,True,"['binance-smart-chain', 'the-open-network']",0x7e975d85714b11d862c7cffee3c88d565a139eb7,"['bscscan.com', 'binplorer.com', 'tonscan.org', 'tonviewer.com']",['Trust Wallet']
+cg:frenpet,A,Fren Pet,fp,Gaming,3152318.0,7743.45,2774.0,False,['base'],0xff0c532fdb8cd566ae169c1cb157ff2bdc83e105,"['basescan.org', 'platform.arkhamintelligence.com']",[]
+cg:foxsy-ai,A,Foxsy AI,foxsy,Gaming,3097702.0,124900.0,2794.0,True,"['elrond', 'solana']",FOXSY-5d5f3e,"['explorer.multiversx.com', 'solscan.io']","['Phantom', 'Solflare']"
+exp:explorer.multiversx.com,D,explorer.multiversx.com,,,,,,,,,,
+cg:gensokishis-metaverse,A,GensoKishi Metaverse,mv,Gaming,3063709.0,730036.0,2816.0,True,"['polygon-pos', 'ethereum']",0xa3c322ad15218fbfaed26ba7f616249f7705d945,"['polygonscan.com', 'platform.arkhamintelligence.com', 'etherscan.io', 'ethplorer.io']","['MetaMask', 'Trust Wallet']"
+cg:rcade-network,A,RCADE Network,rcade,Gaming,3063522.0,876019.0,2817.0,True,"['arbitrum-one', 'binance-smart-chain']",0x077574441c4f8763a37a2cfee2ecb444aa60a15e,"['arbiscan.io', 'bscscan.com', 'binplorer.com']","['MetaMask', 'Trust Wallet']"
+cg:lords,A,LORDS,lords,Gaming,3035542.0,2276.55,2823.0,True,"['ethereum', 'starknet', 'base']",0x686f2404e77ab0d9070a46cdfb0b7fecdd2318b0,"['etherscan.io', 'platform.arkhamintelligence.com', 'ethplorer.io', 'starkscan.co', 'voyager.online', 'basescan.org']","['MetaMask', 'Trust Wallet']"
+exp:starkscan.co,D,starkscan.co,,,,,,,,,,
+exp:voyager.online,D,voyager.online,,,,,,,,,,
+cg:phantasma,A,Phantasma Phoenix,soul,Gaming,3035437.0,125008.0,2824.0,True,"['ethereum', 'binance-smart-chain']",0x75858677e27c930fb622759feaffee2b754af07f,"['explorer.phantasma.info', 'platform.arkhamintelligence.com', 'etherscan.io', 'ethplorer.io', 'bscscan.com', 'binplorer.com']","['MetaMask', 'Trust Wallet']"
+exp:explorer.phantasma.info,D,explorer.phantasma.info,,,,,,,,,,

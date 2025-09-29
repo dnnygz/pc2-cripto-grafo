@@ -1,0 +1,2578 @@
+src_id,dst_id,edge_type,weight_pr,reasons
+cg:near,class:Artificial Intelligence,A-B,0.043730441417828,pertenece a categoria
+cg:near,exp:nearblocks.io,A-D,0.043730441417828,explorador asociado
+cg:near,exp:platform.arkhamintelligence.com,A-D,0.043730441417828,explorador asociado
+cg:near,exp:explorer.near.org,A-D,0.043730441417828,explorador asociado
+cg:near,exp:etherscan.io,A-D,0.043730441417828,explorador asociado
+cg:near,exp:ethplorer.io,A-D,0.043730441417828,explorador asociado
+cg:bittensor,class:Artificial Intelligence,A-B,0.0256935784235046,pertenece a categoria
+cg:bittensor,exp:taostats.io,A-D,0.0256935784235046,explorador asociado
+cg:story-2,class:Artificial Intelligence,A-B,0.0448691305234247,pertenece a categoria
+cg:story-2,exp:www.storyscan.xyz,A-D,0.0448691305234247,explorador asociado
+cg:internet-computer,class:Artificial Intelligence,A-B,0.0177610344106154,pertenece a categoria
+cg:internet-computer,exp:dashboard.internetcomputer.org,A-D,0.0177610344106154,explorador asociado
+cg:internet-computer,exp:etherscan.io,A-D,0.0177610344106154,explorador asociado
+cg:internet-computer,exp:ethplorer.io,A-D,0.0177610344106154,explorador asociado
+cg:internet-computer,exp:basescan.org,A-D,0.0177610344106154,explorador asociado
+cg:render-token,class:Artificial Intelligence,A-B,0.0175440241584167,pertenece a categoria
+cg:render-token,exp:solscan.io,A-D,0.0175440241584167,explorador asociado
+cg:render-token,exp:platform.arkhamintelligence.com,A-D,0.0175440241584167,explorador asociado
+cg:render-token,exp:polygonscan.com,A-D,0.0175440241584167,explorador asociado
+cg:render-token,exp:etherscan.io,A-D,0.0175440241584167,explorador asociado
+cg:render-token,exp:polygon.dex.guru,A-D,0.0175440241584167,explorador asociado
+cg:render-token,exp:ethplorer.io,A-D,0.0175440241584167,explorador asociado
+cg:fetch-ai,class:Artificial Intelligence,A-B,0.0169127213352006,pertenece a categoria
+cg:fetch-ai,exp:explore.fetch.ai,A-D,0.0169127213352006,explorador asociado
+cg:fetch-ai,exp:platform.arkhamintelligence.com,A-D,0.0169127213352006,explorador asociado
+cg:fetch-ai,exp:www.mintscan.io,A-D,0.0169127213352006,explorador asociado
+cg:fetch-ai,exp:etherscan.io,A-D,0.0169127213352006,explorador asociado
+cg:fetch-ai,exp:bscscan.com,A-D,0.0169127213352006,explorador asociado
+cg:fetch-ai,exp:ethplorer.io,A-D,0.0169127213352006,explorador asociado
+cg:fetch-ai,exp:atomscan.com,A-D,0.0169127213352006,explorador asociado
+cg:fetch-ai,exp:binplorer.com,A-D,0.0169127213352006,explorador asociado
+cg:fetch-ai,exp:cardanoscan.io,A-D,0.0169127213352006,explorador asociado
+cg:the-graph,class:Artificial Intelligence,A-B,0.0076393326081381,pertenece a categoria
+cg:the-graph,exp:etherscan.io,A-D,0.0076393326081381,explorador asociado
+cg:the-graph,exp:platform.arkhamintelligence.com,A-D,0.0076393326081381,explorador asociado
+cg:the-graph,exp:ethplorer.io,A-D,0.0076393326081381,explorador asociado
+cg:the-graph,exp:polygonscan.com,A-D,0.0076393326081381,explorador asociado
+cg:the-graph,exp:arbiscan.io,A-D,0.0076393326081381,explorador asociado
+cg:the-graph,exp:snowtrace.io,A-D,0.0076393326081381,explorador asociado
+cg:the-graph,exp:avascan.info,A-D,0.0076393326081381,explorador asociado
+cg:the-graph,exp:explorer.energi.network,A-D,0.0076393326081381,explorador asociado
+cg:the-graph,exp:nearblocks.io,A-D,0.0076393326081381,explorador asociado
+cg:the-graph,exp:explorer.harmony.one,A-D,0.0076393326081381,explorador asociado
+cg:zero-gravity,class:Artificial Intelligence,A-B,0.0393692673940997,pertenece a categoria
+cg:zero-gravity,exp:chainscan.0g.ai,A-D,0.0393692673940997,explorador asociado
+cg:zero-gravity,exp:bscscan.com,A-D,0.0393692673940997,explorador asociado
+cg:zero-gravity,exp:binplorer.com,A-D,0.0393692673940997,explorador asociado
+cg:zero-gravity,exp:etherscan.io,A-D,0.0393692673940997,explorador asociado
+cg:zero-gravity,exp:ethplorer.io,A-D,0.0393692673940997,explorador asociado
+cg:theta-token,class:Artificial Intelligence,A-B,0.0059843935575858,pertenece a categoria
+cg:theta-token,exp:explorer.thetatoken.org,A-D,0.0059843935575858,explorador asociado
+cg:theta-token,exp:explorer.energi.network,A-D,0.0059843935575858,explorador asociado
+cg:virtual-protocol,class:Artificial Intelligence,A-B,0.0099002617091944,pertenece a categoria
+cg:virtual-protocol,exp:etherscan.io,A-D,0.0099002617091944,explorador asociado
+cg:virtual-protocol,exp:platform.arkhamintelligence.com,A-D,0.0099002617091944,explorador asociado
+cg:virtual-protocol,exp:ethplorer.io,A-D,0.0099002617091944,explorador asociado
+cg:virtual-protocol,exp:basescan.org,A-D,0.0099002617091944,explorador asociado
+cg:virtual-protocol,exp:solscan.io,A-D,0.0099002617091944,explorador asociado
+cg:beldex,class:Artificial Intelligence,A-B,0.0037566992831808,pertenece a categoria
+cg:beldex,exp:explorer.beldex.io,A-D,0.0037566992831808,explorador asociado
+cg:dexe,class:Artificial Intelligence,A-B,0.0037718426448414,pertenece a categoria
+cg:dexe,exp:etherscan.io,A-D,0.0037718426448414,explorador asociado
+cg:dexe,exp:platform.arkhamintelligence.com,A-D,0.0037718426448414,explorador asociado
+cg:dexe,exp:ethplorer.io,A-D,0.0037718426448414,explorador asociado
+cg:dexe,exp:bscscan.com,A-D,0.0037718426448414,explorador asociado
+cg:dexe,exp:binplorer.com,A-D,0.0037718426448414,explorador asociado
+cg:solmev,class:Artificial Intelligence,A-B,0.0,pertenece a categoria
+cg:solmev,exp:taostats.io,A-D,0.0,explorador asociado
+cg:arweave,class:Artificial Intelligence,A-B,0.0055285892643507,pertenece a categoria
+cg:arweave,exp:viewblock.io,A-D,0.0055285892643507,explorador asociado
+cg:aioz-network,class:Artificial Intelligence,A-B,0.0030641271772807,pertenece a categoria
+cg:aioz-network,exp:explorer.aioz.network,A-D,0.0030641271772807,explorador asociado
+cg:aioz-network,exp:platform.arkhamintelligence.com,A-D,0.0030641271772807,explorador asociado
+cg:aioz-network,exp:etherscan.io,A-D,0.0030641271772807,explorador asociado
+cg:aioz-network,exp:bscscan.com,A-D,0.0030641271772807,explorador asociado
+cg:aioz-network,exp:binplorer.com,A-D,0.0030641271772807,explorador asociado
+cg:aioz-network,exp:ethplorer.io,A-D,0.0030641271772807,explorador asociado
+cg:aioz-network,exp:www.mintscan.io,A-D,0.0030641271772807,explorador asociado
+cg:kaito,class:Artificial Intelligence,A-B,0.0139448498419241,pertenece a categoria
+cg:kaito,exp:basescan.org,A-D,0.0139448498419241,explorador asociado
+cg:akash-network,class:Artificial Intelligence,A-B,0.002774835267167,pertenece a categoria
+cg:akash-network,exp:www.mintscan.io,A-D,0.002774835267167,explorador asociado
+cg:akash-network,exp:akash.aneka.io,A-D,0.002774835267167,explorador asociado
+cg:akash-network,exp:akash.ping.pub,A-D,0.002774835267167,explorador asociado
+cg:akash-network,exp:atomscan.com,A-D,0.002774835267167,explorador asociado
+cg:grass,class:Artificial Intelligence,A-B,0.0083741714570833,pertenece a categoria
+cg:grass,exp:solscan.io,A-D,0.0083741714570833,explorador asociado
+cg:grass,exp:platform.arkhamintelligence.com,A-D,0.0083741714570833,explorador asociado
+cg:livepeer,class:Artificial Intelligence,A-B,0.0035682147867279,pertenece a categoria
+cg:livepeer,exp:etherscan.io,A-D,0.0035682147867279,explorador asociado
+cg:livepeer,exp:platform.arkhamintelligence.com,A-D,0.0035682147867279,explorador asociado
+cg:livepeer,exp:ethplorer.io,A-D,0.0035682147867279,explorador asociado
+cg:livepeer,exp:hubble.figment.network,A-D,0.0035682147867279,explorador asociado
+cg:livepeer,exp:explorer.livepeer.org,A-D,0.0035682147867279,explorador asociado
+cg:livepeer,exp:arbiscan.io,A-D,0.0035682147867279,explorador asociado
+cg:livepeer,exp:arbitrum.dex.guru,A-D,0.0035682147867279,explorador asociado
+cg:livepeer,exp:explorer.harmony.one,A-D,0.0035682147867279,explorador asociado
+cg:arkham,class:Artificial Intelligence,A-B,0.0054231192576154,pertenece a categoria
+cg:arkham,exp:platform.arkhamintelligence.com,A-D,0.0054231192576154,explorador asociado
+cg:arkham,exp:etherscan.io,A-D,0.0054231192576154,explorador asociado
+cg:arkham,exp:ethplorer.io,A-D,0.0054231192576154,explorador asociado
+cg:stp-network,class:Artificial Intelligence,A-B,0.0047897099325462,pertenece a categoria
+cg:stp-network,exp:basescan.org,A-D,0.0047897099325462,explorador asociado
+cg:iotex,class:Artificial Intelligence,A-B,0.0019362784855211,pertenece a categoria
+cg:iotex,exp:iotexscan.io,A-D,0.0019362784855211,explorador asociado
+cg:iotex,exp:platform.arkhamintelligence.com,A-D,0.0019362784855211,explorador asociado
+cg:iotex,exp:explorer.energi.network,A-D,0.0019362784855211,explorador asociado
+cg:iotex,exp:etherscan.io,A-D,0.0019362784855211,explorador asociado
+cg:iotex,exp:ethplorer.io,A-D,0.0019362784855211,explorador asociado
+cg:iotex,exp:basescan.org,A-D,0.0019362784855211,explorador asociado
+cg:golem,class:Artificial Intelligence,A-B,0.0023931682637002,pertenece a categoria
+cg:golem,exp:etherscan.io,A-D,0.0023931682637002,explorador asociado
+cg:golem,exp:platform.arkhamintelligence.com,A-D,0.0023931682637002,explorador asociado
+cg:golem,exp:ethplorer.io,A-D,0.0023931682637002,explorador asociado
+cg:golem,exp:explorer.energi.network,A-D,0.0023931682637002,explorador asociado
+cg:theta-fuel,class:Artificial Intelligence,A-B,0.0010889642194937,pertenece a categoria
+cg:theta-fuel,exp:explorer.thetatoken.org,A-D,0.0010889642194937,explorador asociado
+cg:qubic-network,class:Artificial Intelligence,A-B,0.0016761927441192,pertenece a categoria
+cg:qubic-network,exp:explorer.qubic.org,A-D,0.0016761927441192,explorador asociado
+cg:mira-3,class:Artificial Intelligence,A-B,0.0129248395541926,pertenece a categoria
+cg:mira-3,exp:basescan.org,A-D,0.0129248395541926,explorador asociado
+cg:mira-3,exp:bscscan.com,A-D,0.0129248395541926,explorador asociado
+cg:mira-3,exp:binplorer.com,A-D,0.0129248395541926,explorador asociado
+cg:sahara-ai,class:Artificial Intelligence,A-B,0.002492997917732,pertenece a categoria
+cg:sahara-ai,exp:etherscan.io,A-D,0.002492997917732,explorador asociado
+cg:sahara-ai,exp:ethplorer.io,A-D,0.002492997917732,explorador asociado
+cg:sahara-ai,exp:bscscan.com,A-D,0.002492997917732,explorador asociado
+cg:sahara-ai,exp:binplorer.com,A-D,0.002492997917732,explorador asociado
+cg:origintrail,class:Artificial Intelligence,A-B,0.0012989775088522,pertenece a categoria
+cg:origintrail,exp:etherscan.io,A-D,0.0012989775088522,explorador asociado
+cg:origintrail,exp:platform.arkhamintelligence.com,A-D,0.0012989775088522,explorador asociado
+cg:origintrail,exp:ethplorer.io,A-D,0.0012989775088522,explorador asociado
+cg:numeraire,class:Artificial Intelligence,A-B,0.0040585135854459,pertenece a categoria
+cg:numeraire,exp:etherscan.io,A-D,0.0040585135854459,explorador asociado
+cg:numeraire,exp:platform.arkhamintelligence.com,A-D,0.0040585135854459,explorador asociado
+cg:numeraire,exp:ethplorer.io,A-D,0.0040585135854459,explorador asociado
+cg:numeraire,exp:explorer.energi.network,A-D,0.0040585135854459,explorador asociado
+cg:zignaly,class:Artificial Intelligence,A-B,0.0007413780827081,pertenece a categoria
+cg:zignaly,exp:etherscan.io,A-D,0.0007413780827081,explorador asociado
+cg:zignaly,exp:platform.arkhamintelligence.com,A-D,0.0007413780827081,explorador asociado
+cg:zignaly,exp:ethplorer.io,A-D,0.0007413780827081,explorador asociado
+cg:zignaly,exp:bscscan.com,A-D,0.0007413780827081,explorador asociado
+cg:zignaly,exp:solscan.io,A-D,0.0007413780827081,explorador asociado
+cg:zignaly,exp:polygonscan.com,A-D,0.0007413780827081,explorador asociado
+cg:zignaly,exp:explorer.injective.network,A-D,0.0007413780827081,explorador asociado
+cg:zignaly,exp:binplorer.com,A-D,0.0007413780827081,explorador asociado
+cg:zignaly,exp:www.mintscan.io,A-D,0.0007413780827081,explorador asociado
+cg:vana,class:Artificial Intelligence,A-B,0.002257128126635,pertenece a categoria
+cg:vana,exp:vanascan.io,A-D,0.002257128126635,explorador asociado
+cg:vana,exp:etherscan.io,A-D,0.002257128126635,explorador asociado
+cg:vana,exp:ethplorer.io,A-D,0.002257128126635,explorador asociado
+cg:vana,exp:basescan.org,A-D,0.002257128126635,explorador asociado
+cg:vana,exp:arbiscan.io,A-D,0.002257128126635,explorador asociado
+cg:vana,exp:bscscan.com,A-D,0.002257128126635,explorador asociado
+cg:vana,exp:binplorer.com,A-D,0.002257128126635,explorador asociado
+cg:vana,exp:optimistic.etherscan.io,A-D,0.002257128126635,explorador asociado
+cg:vana,exp:polygonscan.com,A-D,0.002257128126635,explorador asociado
+cg:io,class:Artificial Intelligence,A-B,0.0032542496252994,pertenece a categoria
+cg:io,exp:solscan.io,A-D,0.0032542496252994,explorador asociado
+cg:io,exp:platform.arkhamintelligence.com,A-D,0.0032542496252994,explorador asociado
+cg:openledger-2,class:Artificial Intelligence,A-B,0.0042433834698822,pertenece a categoria
+cg:openledger-2,exp:etherscan.io,A-D,0.0042433834698822,explorador asociado
+cg:openledger-2,exp:ethplorer.io,A-D,0.0042433834698822,explorador asociado
+cg:openledger-2,exp:bscscan.com,A-D,0.0042433834698822,explorador asociado
+cg:openledger-2,exp:binplorer.com,A-D,0.0042433834698822,explorador asociado
+cg:okzoo,class:Artificial Intelligence,A-B,0.0016645642545869,pertenece a categoria
+cg:okzoo,exp:bscscan.com,A-D,0.0016645642545869,explorador asociado
+cg:okzoo,exp:binplorer.com,A-D,0.0016645642545869,explorador asociado
+cg:subsquid,class:Artificial Intelligence,A-B,0.0030965104633337,pertenece a categoria
+cg:subsquid,exp:arbiscan.io,A-D,0.0030965104633337,explorador asociado
+cg:subsquid,exp:basescan.org,A-D,0.0030965104633337,explorador asociado
+cg:subsquid,exp:bscscan.com,A-D,0.0030965104633337,explorador asociado
+cg:subsquid,exp:binplorer.com,A-D,0.0030965104633337,explorador asociado
+cg:ai16z,class:Artificial Intelligence,A-B,0.0054944153297049,pertenece a categoria
+cg:ai16z,exp:solscan.io,A-D,0.0054944153297049,explorador asociado
+cg:ai16z,exp:platform.arkhamintelligence.com,A-D,0.0054944153297049,explorador asociado
+cg:aixbt,class:Artificial Intelligence,A-B,0.0022080789645105,pertenece a categoria
+cg:aixbt,exp:basescan.org,A-D,0.0022080789645105,explorador asociado
+cg:aixbt,exp:solscan.io,A-D,0.0022080789645105,explorador asociado
+cg:aixbt,exp:etherscan.io,A-D,0.0022080789645105,explorador asociado
+cg:aixbt,exp:ethplorer.io,A-D,0.0022080789645105,explorador asociado
+cg:delysium,class:Artificial Intelligence,A-B,0.0006873605893174,pertenece a categoria
+cg:delysium,exp:etherscan.io,A-D,0.0006873605893174,explorador asociado
+cg:delysium,exp:platform.arkhamintelligence.com,A-D,0.0006873605893174,explorador asociado
+cg:delysium,exp:ethplorer.io,A-D,0.0006873605893174,explorador asociado
+cg:delysium,exp:bscscan.com,A-D,0.0006873605893174,explorador asociado
+cg:delysium,exp:binplorer.com,A-D,0.0006873605893174,explorador asociado
+cg:delysium,exp:solscan.io,A-D,0.0006873605893174,explorador asociado
+cg:holoworld,class:Artificial Intelligence,A-B,0.010143213055085,pertenece a categoria
+cg:holoworld,exp:bscscan.com,A-D,0.010143213055085,explorador asociado
+cg:holoworld,exp:binplorer.com,A-D,0.010143213055085,explorador asociado
+cg:holoworld,exp:solscan.io,A-D,0.010143213055085,explorador asociado
+cg:freysa-ai,class:Artificial Intelligence,A-B,0.0004515674557485,pertenece a categoria
+cg:freysa-ai,exp:basescan.org,A-D,0.0004515674557485,explorador asociado
+cg:carv,class:Artificial Intelligence,A-B,0.0018048249971511,pertenece a categoria
+cg:carv,exp:platform.arkhamintelligence.com,A-D,0.0018048249971511,explorador asociado
+cg:carv,exp:basescan.org,A-D,0.0018048249971511,explorador asociado
+cg:carv,exp:arbiscan.io,A-D,0.0018048249971511,explorador asociado
+cg:carv,exp:etherscan.io,A-D,0.0018048249971511,explorador asociado
+cg:carv,exp:ethplorer.io,A-D,0.0018048249971511,explorador asociado
+cg:carv,exp:solscan.io,A-D,0.0018048249971511,explorador asociado
+cg:carv,exp:bscscan.com,A-D,0.0018048249971511,explorador asociado
+cg:carv,exp:binplorer.com,A-D,0.0018048249971511,explorador asociado
+cg:pha,class:Artificial Intelligence,A-B,0.0012797208827666,pertenece a categoria
+cg:pha,exp:etherscan.io,A-D,0.0012797208827666,explorador asociado
+cg:pha,exp:platform.arkhamintelligence.com,A-D,0.0012797208827666,explorador asociado
+cg:pha,exp:ethplorer.io,A-D,0.0012797208827666,explorador asociado
+cg:pha,exp:phala.subscan.io,A-D,0.0012797208827666,explorador asociado
+cg:chutes,class:Artificial Intelligence,A-B,0.0004740645275169,pertenece a categoria
+cg:chutes,exp:taostats.io,A-D,0.0004740645275169,explorador asociado
+cg:cyberconnect,class:Artificial Intelligence,A-B,0.001749459637785,pertenece a categoria
+cg:cyberconnect,exp:etherscan.io,A-D,0.001749459637785,explorador asociado
+cg:cyberconnect,exp:platform.arkhamintelligence.com,A-D,0.001749459637785,explorador asociado
+cg:cyberconnect,exp:ethplorer.io,A-D,0.001749459637785,explorador asociado
+cg:cyberconnect,exp:bscscan.com,A-D,0.001749459637785,explorador asociado
+cg:cyberconnect,exp:binplorer.com,A-D,0.001749459637785,explorador asociado
+cg:cyberconnect,exp:optimistic.etherscan.io,A-D,0.001749459637785,explorador asociado
+cg:cyberconnect,exp:cyberscan.co,A-D,0.001749459637785,explorador asociado
+cg:iexec-rlc,class:Artificial Intelligence,A-B,0.0020016733946497,pertenece a categoria
+cg:iexec-rlc,exp:etherscan.io,A-D,0.0020016733946497,explorador asociado
+cg:iexec-rlc,exp:platform.arkhamintelligence.com,A-D,0.0020016733946497,explorador asociado
+cg:iexec-rlc,exp:ethplorer.io,A-D,0.0020016733946497,explorador asociado
+cg:iexec-rlc,exp:explorer.energi.network,A-D,0.0020016733946497,explorador asociado
+cg:iexec-rlc,exp:arbiscan.io,A-D,0.0020016733946497,explorador asociado
+cg:nillion,class:Artificial Intelligence,A-B,0.0013388813988583,pertenece a categoria
+cg:nillion,exp:www.mintscan.io,A-D,0.0013388813988583,explorador asociado
+cg:venice-token,class:Artificial Intelligence,A-B,0.0006929138375057,pertenece a categoria
+cg:venice-token,exp:basescan.org,A-D,0.0006929138375057,explorador asociado
+cg:zelcash,class:Artificial Intelligence,A-B,0.0008066352625906,pertenece a categoria
+cg:zelcash,exp:explorer.runonflux.io,A-D,0.0008066352625906,explorador asociado
+cg:everipedia,class:Artificial Intelligence,A-B,0.0008306549893064,pertenece a categoria
+cg:everipedia,exp:etherscan.io,A-D,0.0008306549893064,explorador asociado
+cg:everipedia,exp:platform.arkhamintelligence.com,A-D,0.0008306549893064,explorador asociado
+cg:everipedia,exp:bscscan.com,A-D,0.0008306549893064,explorador asociado
+cg:everipedia,exp:polygonscan.com,A-D,0.0008306549893064,explorador asociado
+cg:everipedia,exp:bloks.io,A-D,0.0008306549893064,explorador asociado
+cg:everipedia,exp:ethplorer.io,A-D,0.0008306549893064,explorador asociado
+cg:everipedia,exp:binplorer.com,A-D,0.0008306549893064,explorador asociado
+cg:revox,class:Artificial Intelligence,A-B,0.0015679914024149,pertenece a categoria
+cg:revox,exp:bscscan.com,A-D,0.0015679914024149,explorador asociado
+cg:revox,exp:binplorer.com,A-D,0.0015679914024149,explorador asociado
+cg:singularitynet,class:Artificial Intelligence,A-B,0.0001185362483543,pertenece a categoria
+cg:singularitynet,exp:etherscan.io,A-D,0.0001185362483543,explorador asociado
+cg:singularitynet,exp:platform.arkhamintelligence.com,A-D,0.0001185362483543,explorador asociado
+cg:singularitynet,exp:ethplorer.io,A-D,0.0001185362483543,explorador asociado
+cg:singularitynet,exp:cardanoscan.io,A-D,0.0001185362483543,explorador asociado
+cg:auki-labs,class:Artificial Intelligence,A-B,0.0003589076895606,pertenece a categoria
+cg:auki-labs,exp:basescan.org,A-D,0.0003589076895606,explorador asociado
+cg:auki-labs,exp:platform.arkhamintelligence.com,A-D,0.0003589076895606,explorador asociado
+cg:auki-labs,exp:peaq.subscan.io,A-D,0.0003589076895606,explorador asociado
+cg:chromaway,class:Artificial Intelligence,A-B,0.0012730091796385,pertenece a categoria
+cg:chromaway,exp:etherscan.io,A-D,0.0012730091796385,explorador asociado
+cg:chromaway,exp:platform.arkhamintelligence.com,A-D,0.0012730091796385,explorador asociado
+cg:chromaway,exp:ethplorer.io,A-D,0.0012730091796385,explorador asociado
+cg:chromaway,exp:bscscan.com,A-D,0.0012730091796385,explorador asociado
+cg:chromaway,exp:binplorer.com,A-D,0.0012730091796385,explorador asociado
+cg:chaingpt,class:Artificial Intelligence,A-B,0.0013926554868853,pertenece a categoria
+cg:chaingpt,exp:bscscan.com,A-D,0.0013926554868853,explorador asociado
+cg:chaingpt,exp:platform.arkhamintelligence.com,A-D,0.0013926554868853,explorador asociado
+cg:chaingpt,exp:etherscan.io,A-D,0.0013926554868853,explorador asociado
+cg:chaingpt,exp:ethplorer.io,A-D,0.0013926554868853,explorador asociado
+cg:chaingpt,exp:binplorer.com,A-D,0.0013926554868853,explorador asociado
+cg:chaingpt,exp:solscan.io,A-D,0.0013926554868853,explorador asociado
+cg:nosana,class:Artificial Intelligence,A-B,0.0007455720663486,pertenece a categoria
+cg:nosana,exp:explorer.solana.com,A-D,0.0007455720663486,explorador asociado
+cg:nosana,exp:platform.arkhamintelligence.com,A-D,0.0007455720663486,explorador asociado
+cg:nosana,exp:solscan.io,A-D,0.0007455720663486,explorador asociado
+cg:lagrange,class:Artificial Intelligence,A-B,0.0021969475117801,pertenece a categoria
+cg:lagrange,exp:etherscan.io,A-D,0.0021969475117801,explorador asociado
+cg:lagrange,exp:ethplorer.io,A-D,0.0021969475117801,explorador asociado
+cg:lagrange,exp:bscscan.com,A-D,0.0021969475117801,explorador asociado
+cg:lagrange,exp:binplorer.com,A-D,0.0021969475117801,explorador asociado
+cg:flock-2,class:Artificial Intelligence,A-B,0.0019444919483419,pertenece a categoria
+cg:flock-2,exp:basescan.org,A-D,0.0019444919483419,explorador asociado
+cg:cookie,class:Artificial Intelligence,A-B,0.0012619668388244,pertenece a categoria
+cg:cookie,exp:bscscan.com,A-D,0.0012619668388244,explorador asociado
+cg:cookie,exp:platform.arkhamintelligence.com,A-D,0.0012619668388244,explorador asociado
+cg:cookie,exp:etherscan.io,A-D,0.0012619668388244,explorador asociado
+cg:cookie,exp:ethplorer.io,A-D,0.0012619668388244,explorador asociado
+cg:cookie,exp:basescan.org,A-D,0.0012619668388244,explorador asociado
+cg:cookie,exp:binplorer.com,A-D,0.0012619668388244,explorador asociado
+cg:marlin,class:Artificial Intelligence,A-B,0.0007184829261965,pertenece a categoria
+cg:marlin,exp:etherscan.io,A-D,0.0007184829261965,explorador asociado
+cg:marlin,exp:platform.arkhamintelligence.com,A-D,0.0007184829261965,explorador asociado
+cg:marlin,exp:ethplorer.io,A-D,0.0007184829261965,explorador asociado
+cg:marlin,exp:arbiscan.io,A-D,0.0007184829261965,explorador asociado
+cg:unibase,class:Artificial Intelligence,A-B,0.0030670113923192,pertenece a categoria
+cg:unibase,exp:bscscan.com,A-D,0.0030670113923192,explorador asociado
+cg:unibase,exp:binplorer.com,A-D,0.0030670113923192,explorador asociado
+cg:unibase,exp:etherscan.io,A-D,0.0030670113923192,explorador asociado
+cg:unibase,exp:ethplorer.io,A-D,0.0030670113923192,explorador asociado
+cg:saga-2,class:Artificial Intelligence,A-B,0.0014864814802166,pertenece a categoria
+cg:saga-2,exp:sagaevm.sagaexplorer.io,A-D,0.0014864814802166,explorador asociado
+cg:arcblock,class:Artificial Intelligence,A-B,0.0002257748051161,pertenece a categoria
+cg:arcblock,exp:etherscan.io,A-D,0.0002257748051161,explorador asociado
+cg:arcblock,exp:platform.arkhamintelligence.com,A-D,0.0002257748051161,explorador asociado
+cg:arcblock,exp:ethplorer.io,A-D,0.0002257748051161,explorador asociado
+cg:ridges-ai,class:Artificial Intelligence,A-B,0.0008534855878854,pertenece a categoria
+cg:ridges-ai,exp:taostats.io,A-D,0.0008534855878854,explorador asociado
+cg:magic,class:Artificial Intelligence,A-B,0.0015047338441288,pertenece a categoria
+cg:magic,exp:arbiscan.io,A-D,0.0015047338441288,explorador asociado
+cg:magic,exp:etherscan.io,A-D,0.0015047338441288,explorador asociado
+cg:magic,exp:ethplorer.io,A-D,0.0015047338441288,explorador asociado
+cg:victoria-vr,class:Artificial Intelligence,A-B,0.0005536789926791,pertenece a categoria
+cg:victoria-vr,exp:etherscan.io,A-D,0.0005536789926791,explorador asociado
+cg:victoria-vr,exp:platform.arkhamintelligence.com,A-D,0.0005536789926791,explorador asociado
+cg:victoria-vr,exp:ethplorer.io,A-D,0.0005536789926791,explorador asociado
+cg:solidus-aitech,class:Artificial Intelligence,A-B,0.0029408208724933,pertenece a categoria
+cg:solidus-aitech,exp:bscscan.com,A-D,0.0029408208724933,explorador asociado
+cg:solidus-aitech,exp:platform.arkhamintelligence.com,A-D,0.0029408208724933,explorador asociado
+cg:solidus-aitech,exp:binplorer.com,A-D,0.0029408208724933,explorador asociado
+cg:solidus-aitech,exp:basescan.org,A-D,0.0029408208724933,explorador asociado
+cg:solidus-aitech,exp:solscan.io,A-D,0.0029408208724933,explorador asociado
+cg:unit-00-rei,class:Artificial Intelligence,A-B,0.0006708334342433,pertenece a categoria
+cg:unit-00-rei,exp:basescan.org,A-D,0.0006708334342433,explorador asociado
+cg:ocean-protocol,class:Artificial Intelligence,A-B,0.0001136833448983,pertenece a categoria
+cg:ocean-protocol,exp:etherscan.io,A-D,0.0001136833448983,explorador asociado
+cg:ocean-protocol,exp:platform.arkhamintelligence.com,A-D,0.0001136833448983,explorador asociado
+cg:ocean-protocol,exp:blockchair.com,A-D,0.0001136833448983,explorador asociado
+cg:ocean-protocol,exp:ethplorer.io,A-D,0.0001136833448983,explorador asociado
+cg:ocean-protocol,exp:explorer.energi.network,A-D,0.0001136833448983,explorador asociado
+cg:ocean-protocol,exp:polygonscan.com,A-D,0.0001136833448983,explorador asociado
+cg:ocean-protocol,exp:optimistic.etherscan.io,A-D,0.0001136833448983,explorador asociado
+cg:secret,class:Artificial Intelligence,A-B,0.0003680666311595,pertenece a categoria
+cg:secret,exp:www.mintscan.io,A-D,0.0003680666311595,explorador asociado
+cg:secret,exp:atomscan.com,A-D,0.0003680666311595,explorador asociado
+cg:secret,exp:ping.pub,A-D,0.0003680666311595,explorador asociado
+cg:vanar-chain,class:Artificial Intelligence,A-B,0.0009014575434591,pertenece a categoria
+cg:vanar-chain,exp:etherscan.io,A-D,0.0009014575434591,explorador asociado
+cg:vanar-chain,exp:platform.arkhamintelligence.com,A-D,0.0009014575434591,explorador asociado
+cg:vanar-chain,exp:polygonscan.com,A-D,0.0009014575434591,explorador asociado
+cg:vanar-chain,exp:ethplorer.io,A-D,0.0009014575434591,explorador asociado
+cg:vanar-chain,exp:explorer.vanarchain.com,A-D,0.0009014575434591,explorador asociado
+cg:bankercoin-2,class:Artificial Intelligence,A-B,0.0006138917886262,pertenece a categoria
+cg:bankercoin-2,exp:basescan.org,A-D,0.0006138917886262,explorador asociado
+cg:alethea-artificial-liquid-intelligence-token,class:Artificial Intelligence,A-B,0.0006164831352081,pertenece a categoria
+cg:alethea-artificial-liquid-intelligence-token,exp:etherscan.io,A-D,0.0006164831352081,explorador asociado
+cg:alethea-artificial-liquid-intelligence-token,exp:platform.arkhamintelligence.com,A-D,0.0006164831352081,explorador asociado
+cg:alethea-artificial-liquid-intelligence-token,exp:ethplorer.io,A-D,0.0006164831352081,explorador asociado
+cg:alethea-artificial-liquid-intelligence-token,exp:polygonscan.com,A-D,0.0006164831352081,explorador asociado
+cg:alethea-artificial-liquid-intelligence-token,exp:basescan.org,A-D,0.0006164831352081,explorador asociado
+cg:alethea-artificial-liquid-intelligence-token,exp:solscan.io,A-D,0.0006164831352081,explorador asociado
+cg:alethea-artificial-liquid-intelligence-token,exp:explorer.cronos.org,A-D,0.0006164831352081,explorador asociado
+cg:quack-ai,class:Artificial Intelligence,A-B,0.0018659189740368,pertenece a categoria
+cg:quack-ai,exp:etherscan.io,A-D,0.0018659189740368,explorador asociado
+cg:quack-ai,exp:ethplorer.io,A-D,0.0018659189740368,explorador asociado
+cg:quack-ai,exp:bscscan.com,A-D,0.0018659189740368,explorador asociado
+cg:quack-ai,exp:binplorer.com,A-D,0.0018659189740368,explorador asociado
+cg:alchemist-ai,class:Artificial Intelligence,A-B,0.0020758160627764,pertenece a categoria
+cg:alchemist-ai,exp:solscan.io,A-D,0.0020758160627764,explorador asociado
+cg:tagger,class:Artificial Intelligence,A-B,0.000651006546556,pertenece a categoria
+cg:tagger,exp:bscscan.com,A-D,0.000651006546556,explorador asociado
+cg:tagger,exp:binplorer.com,A-D,0.000651006546556,explorador asociado
+cg:newton-protocol,class:Artificial Intelligence,A-B,0.0012458601616783,pertenece a categoria
+cg:newton-protocol,exp:etherscan.io,A-D,0.0012458601616783,explorador asociado
+cg:newton-protocol,exp:ethplorer.io,A-D,0.0012458601616783,explorador asociado
+cg:newton-protocol,exp:bscscan.com,A-D,0.0012458601616783,explorador asociado
+cg:newton-protocol,exp:binplorer.com,A-D,0.0012458601616783,explorador asociado
+cg:paal-ai,class:Artificial Intelligence,A-B,0.0012022029632978,pertenece a categoria
+cg:paal-ai,exp:etherscan.io,A-D,0.0012022029632978,explorador asociado
+cg:paal-ai,exp:platform.arkhamintelligence.com,A-D,0.0012022029632978,explorador asociado
+cg:paal-ai,exp:ethplorer.io,A-D,0.0012022029632978,explorador asociado
+cg:paal-ai,exp:basescan.org,A-D,0.0012022029632978,explorador asociado
+cg:paal-ai,exp:bscscan.com,A-D,0.0012022029632978,explorador asociado
+cg:paal-ai,exp:binplorer.com,A-D,0.0012022029632978,explorador asociado
+cg:celium,class:Artificial Intelligence,A-B,0.0003146283471674,pertenece a categoria
+cg:celium,exp:taostats.io,A-D,0.0003146283471674,explorador asociado
+cg:autonolas,class:Artificial Intelligence,A-B,0.0001886605857742,pertenece a categoria
+cg:autonolas,exp:etherscan.io,A-D,0.0001886605857742,explorador asociado
+cg:autonolas,exp:platform.arkhamintelligence.com,A-D,0.0001886605857742,explorador asociado
+cg:autonolas,exp:ethplorer.io,A-D,0.0001886605857742,explorador asociado
+cg:autonolas,exp:ethereum.dex.guru,A-D,0.0001886605857742,explorador asociado
+cg:autonolas,exp:gnosisscan.io,A-D,0.0001886605857742,explorador asociado
+cg:autonolas,exp:polygonscan.com,A-D,0.0001886605857742,explorador asociado
+cg:autonolas,exp:solscan.io,A-D,0.0001886605857742,explorador asociado
+cg:autonolas,exp:arbiscan.io,A-D,0.0001886605857742,explorador asociado
+cg:autonolas,exp:optimistic.etherscan.io,A-D,0.0001886605857742,explorador asociado
+cg:autonolas,exp:basescan.org,A-D,0.0001886605857742,explorador asociado
+cg:akedo,class:Artificial Intelligence,A-B,0.0017627051356268,pertenece a categoria
+cg:akedo,exp:bscscan.com,A-D,0.0017627051356268,explorador asociado
+cg:akedo,exp:binplorer.com,A-D,0.0017627051356268,explorador asociado
+cg:oraichain-token,class:Artificial Intelligence,A-B,0.0002872170095924,pertenece a categoria
+cg:oraichain-token,exp:etherscan.io,A-D,0.0002872170095924,explorador asociado
+cg:oraichain-token,exp:platform.arkhamintelligence.com,A-D,0.0002872170095924,explorador asociado
+cg:oraichain-token,exp:ethplorer.io,A-D,0.0002872170095924,explorador asociado
+cg:oraichain-token,exp:bscscan.com,A-D,0.0002872170095924,explorador asociado
+cg:oraichain-token,exp:scan.orai.io,A-D,0.0002872170095924,explorador asociado
+cg:oraichain-token,exp:binplorer.com,A-D,0.0002872170095924,explorador asociado
+cg:oraichain-token,exp:solscan.io,A-D,0.0002872170095924,explorador asociado
+cg:oraichain-token,exp:www.mintscan.io,A-D,0.0002872170095924,explorador asociado
+cg:chainopera-ai,class:Artificial Intelligence,A-B,0.0014672077606323,pertenece a categoria
+cg:chainopera-ai,exp:bscscan.com,A-D,0.0014672077606323,explorador asociado
+cg:chainopera-ai,exp:binplorer.com,A-D,0.0014672077606323,explorador asociado
+cg:targon,class:Artificial Intelligence,A-B,0.0001566797377585,pertenece a categoria
+cg:targon,exp:taostats.io,A-D,0.0001566797377585,explorador asociado
+cg:oort,class:Artificial Intelligence,A-B,0.0004544596153497,pertenece a categoria
+cg:oort,exp:mainnet-scan.oortech.com,A-D,0.0004544596153497,explorador asociado
+cg:oort,exp:platform.arkhamintelligence.com,A-D,0.0004544596153497,explorador asociado
+cg:oort,exp:bscscan.com,A-D,0.0004544596153497,explorador asociado
+cg:oort,exp:binplorer.com,A-D,0.0004544596153497,explorador asociado
+cg:oort,exp:etherscan.io,A-D,0.0004544596153497,explorador asociado
+cg:oort,exp:ethplorer.io,A-D,0.0004544596153497,explorador asociado
+cg:metya,class:Artificial Intelligence,A-B,0.0007252750156131,pertenece a categoria
+cg:metya,exp:bscscan.com,A-D,0.0007252750156131,explorador asociado
+cg:metya,exp:binplorer.com,A-D,0.0007252750156131,explorador asociado
+cg:humans-ai,class:Artificial Intelligence,A-B,0.0001920174538565,pertenece a categoria
+cg:humans-ai,exp:etherscan.io,A-D,0.0001920174538565,explorador asociado
+cg:humans-ai,exp:platform.arkhamintelligence.com,A-D,0.0001920174538565,explorador asociado
+cg:humans-ai,exp:ethplorer.io,A-D,0.0001920174538565,explorador asociado
+cg:humans-ai,exp:www.mintscan.io,A-D,0.0001920174538565,explorador asociado
+cg:humans-ai,exp:bigdipper.live,A-D,0.0001920174538565,explorador asociado
+cg:humans-ai,exp:humans.explorers.guru,A-D,0.0001920174538565,explorador asociado
+cg:aia,class:Artificial Intelligence,A-B,0.0014117817815205,pertenece a categoria
+cg:aia,exp:suiscan.xyz,A-D,0.0014117817815205,explorador asociado
+cg:aia,exp:suivision.xyz,A-D,0.0014117817815205,explorador asociado
+cg:aia,exp:bscscan.com,A-D,0.0014117817815205,explorador asociado
+cg:aia,exp:binplorer.com,A-D,0.0014117817815205,explorador asociado
+cg:tokenfi,class:Artificial Intelligence,A-B,0.0005446989794367,pertenece a categoria
+cg:tokenfi,exp:etherscan.io,A-D,0.0005446989794367,explorador asociado
+cg:tokenfi,exp:platform.arkhamintelligence.com,A-D,0.0005446989794367,explorador asociado
+cg:tokenfi,exp:bscscan.com,A-D,0.0005446989794367,explorador asociado
+cg:tokenfi,exp:ethplorer.io,A-D,0.0005446989794367,explorador asociado
+cg:tokenfi,exp:binplorer.com,A-D,0.0005446989794367,explorador asociado
+cg:olaxbt,class:Artificial Intelligence,A-B,0.0004452606448832,pertenece a categoria
+cg:olaxbt,exp:bscscan.com,A-D,0.0004452606448832,explorador asociado
+cg:olaxbt,exp:binplorer.com,A-D,0.0004452606448832,explorador asociado
+cg:kled-ai,class:Artificial Intelligence,A-B,0.0004234055354373,pertenece a categoria
+cg:kled-ai,exp:solscan.io,A-D,0.0004234055354373,explorador asociado
+cg:pinlink,class:Artificial Intelligence,A-B,0.000275761577233,pertenece a categoria
+cg:pinlink,exp:etherscan.io,A-D,0.000275761577233,explorador asociado
+cg:pinlink,exp:ethplorer.io,A-D,0.000275761577233,explorador asociado
+cg:forta,class:Artificial Intelligence,A-B,0.0001991783450861,pertenece a categoria
+cg:forta,exp:explorer.forta.network,A-D,0.0001991783450861,explorador asociado
+cg:forta,exp:platform.arkhamintelligence.com,A-D,0.0001991783450861,explorador asociado
+cg:forta,exp:etherscan.io,A-D,0.0001991783450861,explorador asociado
+cg:forta,exp:ethplorer.io,A-D,0.0001991783450861,explorador asociado
+cg:forta,exp:polygonscan.com,A-D,0.0001991783450861,explorador asociado
+cg:forta,exp:arbiscan.io,A-D,0.0001991783450861,explorador asociado
+cg:forta,exp:basescan.org,A-D,0.0001991783450861,explorador asociado
+cg:gradients,class:Artificial Intelligence,A-B,0.0005461089069676,pertenece a categoria
+cg:gradients,exp:taostats.io,A-D,0.0005461089069676,explorador asociado
+cg:ao-computer,class:Artificial Intelligence,A-B,0.0001936629094981,pertenece a categoria
+cg:myshell,class:Artificial Intelligence,A-B,0.0009420634744918,pertenece a categoria
+cg:myshell,exp:etherscan.io,A-D,0.0009420634744918,explorador asociado
+cg:myshell,exp:ethplorer.io,A-D,0.0009420634744918,explorador asociado
+cg:myshell,exp:bscscan.com,A-D,0.0009420634744918,explorador asociado
+cg:myshell,exp:binplorer.com,A-D,0.0009420634744918,explorador asociado
+cg:rss3,class:Artificial Intelligence,A-B,0.0005068307856067,pertenece a categoria
+cg:rss3,exp:platform.arkhamintelligence.com,A-D,0.0005068307856067,explorador asociado
+cg:rss3,exp:etherscan.io,A-D,0.0005068307856067,explorador asociado
+cg:rss3,exp:ethplorer.io,A-D,0.0005068307856067,explorador asociado
+cg:rss3,exp:scan.rss3.io,A-D,0.0005068307856067,explorador asociado
+cg:tokenbot-2,class:Artificial Intelligence,A-B,0.0011905892310753,pertenece a categoria
+cg:tokenbot-2,exp:basescan.org,A-D,0.0011905892310753,explorador asociado
+cg:tokenbot-2,exp:platform.arkhamintelligence.com,A-D,0.0011905892310753,explorador asociado
+cg:tars-protocol,class:Artificial Intelligence,A-B,0.0004547499379055,pertenece a categoria
+cg:tars-protocol,exp:solscan.io,A-D,0.0004547499379055,explorador asociado
+cg:tars-protocol,exp:platform.arkhamintelligence.com,A-D,0.0004547499379055,explorador asociado
+cg:mia-2,class:Artificial Intelligence,A-B,0.0004322649579342,pertenece a categoria
+cg:mia-2,exp:basescan.org,A-D,0.0004322649579342,explorador asociado
+cg:mia-2,exp:bscscan.com,A-D,0.0004322649579342,explorador asociado
+cg:mia-2,exp:binplorer.com,A-D,0.0004322649579342,explorador asociado
+cg:griffain,class:Artificial Intelligence,A-B,0.000605343144931,pertenece a categoria
+cg:griffain,exp:solscan.io,A-D,0.000605343144931,explorador asociado
+cg:phoenix-global,class:Artificial Intelligence,A-B,0.0006218506881991,pertenece a categoria
+cg:phoenix-global,exp:bscscan.com,A-D,0.0006218506881991,explorador asociado
+cg:phoenix-global,exp:platform.arkhamintelligence.com,A-D,0.0006218506881991,explorador asociado
+cg:phoenix-global,exp:binplorer.com,A-D,0.0006218506881991,explorador asociado
+cg:wayfinder,class:Artificial Intelligence,A-B,0.0016831747242314,pertenece a categoria
+cg:wayfinder,exp:etherscan.io,A-D,0.0016831747242314,explorador asociado
+cg:wayfinder,exp:ethplorer.io,A-D,0.0016831747242314,explorador asociado
+cg:wayfinder,exp:basescan.org,A-D,0.0016831747242314,explorador asociado
+cg:chainbase,class:Artificial Intelligence,A-B,0.000801671610614,pertenece a categoria
+cg:chainbase,exp:basescan.org,A-D,0.000801671610614,explorador asociado
+cg:chainbase,exp:bscscan.com,A-D,0.000801671610614,explorador asociado
+cg:chainbase,exp:binplorer.com,A-D,0.000801671610614,explorador asociado
+cg:proprietary-trading-network,class:Artificial Intelligence,A-B,0.0001523024646249,pertenece a categoria
+cg:proprietary-trading-network,exp:taostats.io,A-D,0.0001523024646249,explorador asociado
+cg:infinity-ground,class:Artificial Intelligence,A-B,0.0016616255593666,pertenece a categoria
+cg:infinity-ground,exp:bscscan.com,A-D,0.0016616255593666,explorador asociado
+cg:infinity-ground,exp:binplorer.com,A-D,0.0016616255593666,explorador asociado
+cg:limewire-token,class:Artificial Intelligence,A-B,0.0004639443265035,pertenece a categoria
+cg:limewire-token,exp:etherscan.io,A-D,0.0004639443265035,explorador asociado
+cg:limewire-token,exp:platform.arkhamintelligence.com,A-D,0.0004639443265035,explorador asociado
+cg:limewire-token,exp:ethplorer.io,A-D,0.0004639443265035,explorador asociado
+cg:limewire-token,exp:bscscan.com,A-D,0.0004639443265035,explorador asociado
+cg:limewire-token,exp:binplorer.com,A-D,0.0004639443265035,explorador asociado
+cg:limewire-token,exp:basescan.org,A-D,0.0004639443265035,explorador asociado
+cg:natix-network,class:Artificial Intelligence,A-B,0.0001731246113588,pertenece a categoria
+cg:natix-network,exp:solscan.io,A-D,0.0001731246113588,explorador asociado
+cg:natix-network,exp:platform.arkhamintelligence.com,A-D,0.0001731246113588,explorador asociado
+cg:openserv,class:Artificial Intelligence,A-B,0.000178551963455,pertenece a categoria
+cg:openserv,exp:etherscan.io,A-D,0.000178551963455,explorador asociado
+cg:openserv,exp:platform.arkhamintelligence.com,A-D,0.000178551963455,explorador asociado
+cg:openserv,exp:ethplorer.io,A-D,0.000178551963455,explorador asociado
+cg:openserv,exp:basescan.org,A-D,0.000178551963455,explorador asociado
+cg:mamo,class:Artificial Intelligence,A-B,0.0006644597522809,pertenece a categoria
+cg:mamo,exp:basescan.org,A-D,0.0006644597522809,explorador asociado
+cg:tao-bot,class:Artificial Intelligence,A-B,8.580132438691722e-05,pertenece a categoria
+cg:tao-bot,exp:etherscan.io,A-D,8.580132438691722e-05,explorador asociado
+cg:tao-bot,exp:platform.arkhamintelligence.com,A-D,8.580132438691722e-05,explorador asociado
+cg:tao-bot,exp:ethplorer.io,A-D,8.580132438691722e-05,explorador asociado
+cg:agentcoin-tv,class:Artificial Intelligence,A-B,1.35478965492713e-05,pertenece a categoria
+cg:agentcoin-tv,exp:etherscan.io,A-D,1.35478965492713e-05,explorador asociado
+cg:agentcoin-tv,exp:ethplorer.io,A-D,1.35478965492713e-05,explorador asociado
+cg:agentcoin-tv,exp:basescan.org,A-D,1.35478965492713e-05,explorador asociado
+cg:templar,class:Artificial Intelligence,A-B,0.0001680228006779,pertenece a categoria
+cg:templar,exp:taostats.io,A-D,0.0001680228006779,explorador asociado
+cg:assemble-protocol,class:Artificial Intelligence,A-B,0.0001972427042362,pertenece a categoria
+cg:assemble-protocol,exp:etherscan.io,A-D,0.0001972427042362,explorador asociado
+cg:assemble-protocol,exp:platform.arkhamintelligence.com,A-D,0.0001972427042362,explorador asociado
+cg:assemble-protocol,exp:ethplorer.io,A-D,0.0001972427042362,explorador asociado
+cg:assemble-protocol,exp:basescan.org,A-D,0.0001972427042362,explorador asociado
+cg:neuron,class:Artificial Intelligence,A-B,0.0001734256586377,pertenece a categoria
+cg:neuron,exp:arbiscan.io,A-D,0.0001734256586377,explorador asociado
+cg:neuron,exp:platform.arkhamintelligence.com,A-D,0.0001734256586377,explorador asociado
+cg:heyanon,class:Artificial Intelligence,A-B,0.0002451159379242,pertenece a categoria
+cg:heyanon,exp:sonicscan.org,A-D,0.0002451159379242,explorador asociado
+cg:heyanon,exp:solscan.io,A-D,0.0002451159379242,explorador asociado
+cg:heyanon,exp:arbiscan.io,A-D,0.0002451159379242,explorador asociado
+cg:heyanon,exp:explorer.evm.iota.org,A-D,0.0002451159379242,explorador asociado
+cg:heyanon,exp:andromeda-explorer.metis.io,A-D,0.0002451159379242,explorador asociado
+cg:heyanon,exp:explorer.metis.io,A-D,0.0002451159379242,explorador asociado
+cg:morphware,class:Artificial Intelligence,A-B,0.0001218210321678,pertenece a categoria
+cg:morphware,exp:etherscan.io,A-D,0.0001218210321678,explorador asociado
+cg:morphware,exp:platform.arkhamintelligence.com,A-D,0.0001218210321678,explorador asociado
+cg:morphware,exp:ethplorer.io,A-D,0.0001218210321678,explorador asociado
+cg:o-intelligence-coin,class:Artificial Intelligence,A-B,1.8594443990554444e-05,pertenece a categoria
+cg:o-intelligence-coin,exp:solscan.io,A-D,1.8594443990554444e-05,explorador asociado
+cg:cudos,class:Artificial Intelligence,A-B,1.1774501818969952e-06,pertenece a categoria
+cg:cudos,exp:etherscan.io,A-D,1.1774501818969952e-06,explorador asociado
+cg:cudos,exp:platform.arkhamintelligence.com,A-D,1.1774501818969952e-06,explorador asociado
+cg:cudos,exp:ethplorer.io,A-D,1.1774501818969952e-06,explorador asociado
+cg:cudos,exp:explorer.cudos.org,A-D,1.1774501818969952e-06,explorador asociado
+cg:cudos,exp:explorer-v1.cudos.org,A-D,1.1774501818969952e-06,explorador asociado
+cg:cudos,exp:www.mintscan.io,A-D,1.1774501818969952e-06,explorador asociado
+cg:aubrai-by-bio,class:Artificial Intelligence,A-B,0.0002500242209695,pertenece a categoria
+cg:aubrai-by-bio,exp:basescan.org,A-D,0.0002500242209695,explorador asociado
+cg:covalent-x-token,class:Artificial Intelligence,A-B,0.0002925419546968,pertenece a categoria
+cg:covalent-x-token,exp:etherscan.io,A-D,0.0002925419546968,explorador asociado
+cg:covalent-x-token,exp:platform.arkhamintelligence.com,A-D,0.0002925419546968,explorador asociado
+cg:covalent-x-token,exp:ethplorer.io,A-D,0.0002925419546968,explorador asociado
+cg:neuralai,class:Artificial Intelligence,A-B,8.004894509103289e-05,pertenece a categoria
+cg:neuralai,exp:etherscan.io,A-D,8.004894509103289e-05,explorador asociado
+cg:neuralai,exp:platform.arkhamintelligence.com,A-D,8.004894509103289e-05,explorador asociado
+cg:neuralai,exp:ethplorer.io,A-D,8.004894509103289e-05,explorador asociado
+cg:neuralai,exp:solscan.io,A-D,8.004894509103289e-05,explorador asociado
+cg:creatorbid,class:Artificial Intelligence,A-B,0.0003862834903609,pertenece a categoria
+cg:creatorbid,exp:bscscan.com,A-D,0.0003862834903609,explorador asociado
+cg:creatorbid,exp:binplorer.com,A-D,0.0003862834903609,explorador asociado
+cg:creatorbid,exp:basescan.org,A-D,0.0003862834903609,explorador asociado
+cg:araistotle,class:Artificial Intelligence,A-B,0.0002449797521195,pertenece a categoria
+cg:araistotle,exp:basescan.org,A-D,0.0002449797521195,explorador asociado
+cg:giza,class:Artificial Intelligence,A-B,0.0004051095802061,pertenece a categoria
+cg:giza,exp:etherscan.io,A-D,0.0004051095802061,explorador asociado
+cg:giza,exp:ethplorer.io,A-D,0.0004051095802061,explorador asociado
+cg:giza,exp:basescan.org,A-D,0.0004051095802061,explorador asociado
+cg:pippin,class:Artificial Intelligence,A-B,0.0006879865772564,pertenece a categoria
+cg:pippin,exp:solscan.io,A-D,0.0006879865772564,explorador asociado
+cg:ai-rig-complex,class:Artificial Intelligence,A-B,0.0003999065964783,pertenece a categoria
+cg:ai-rig-complex,exp:solscan.io,A-D,0.0003999065964783,explorador asociado
+cg:infinit,class:Artificial Intelligence,A-B,0.0012339561818075,pertenece a categoria
+cg:infinit,exp:etherscan.io,A-D,0.0012339561818075,explorador asociado
+cg:infinit,exp:ethplorer.io,A-D,0.0012339561818075,explorador asociado
+cg:infinit,exp:bscscan.com,A-D,0.0012339561818075,explorador asociado
+cg:infinit,exp:binplorer.com,A-D,0.0012339561818075,explorador asociado
+cg:netx,class:Artificial Intelligence,A-B,0.0001856003032567,pertenece a categoria
+cg:netx,exp:bscscan.com,A-D,0.0001856003032567,explorador asociado
+cg:netx,exp:binplorer.com,A-D,0.0001856003032567,explorador asociado
+cg:octaspace,class:Artificial Intelligence,A-B,0.0001923329841287,pertenece a categoria
+cg:octaspace,exp:explorer.octa.space,A-D,0.0001923329841287,explorador asociado
+cg:octaspace,exp:platform.arkhamintelligence.com,A-D,0.0001923329841287,explorador asociado
+cg:octaspace,exp:etherscan.io,A-D,0.0001923329841287,explorador asociado
+cg:octaspace,exp:bscscan.com,A-D,0.0001923329841287,explorador asociado
+cg:octaspace,exp:ethplorer.io,A-D,0.0001923329841287,explorador asociado
+cg:octaspace,exp:binplorer.com,A-D,0.0001923329841287,explorador asociado
+cg:galeon,class:Artificial Intelligence,A-B,0.0001187434445432,pertenece a categoria
+cg:galeon,exp:bscscan.com,A-D,0.0001187434445432,explorador asociado
+cg:galeon,exp:platform.arkhamintelligence.com,A-D,0.0001187434445432,explorador asociado
+cg:galeon,exp:binplorer.com,A-D,0.0001187434445432,explorador asociado
+cg:openkaito,class:Artificial Intelligence,A-B,3.229695534992994e-05,pertenece a categoria
+cg:openkaito,exp:taostats.io,A-D,3.229695534992994e-05,explorador asociado
+cg:arai,class:Artificial Intelligence,A-B,0.0012269412433165,pertenece a categoria
+cg:arai,exp:bscscan.com,A-D,0.0012269412433165,explorador asociado
+cg:arai,exp:binplorer.com,A-D,0.0012269412433165,explorador asociado
+cg:swarms,class:Artificial Intelligence,A-B,0.0003991531791684,pertenece a categoria
+cg:swarms,exp:solscan.io,A-D,0.0003991531791684,explorador asociado
+cg:ava-ai,class:Artificial Intelligence,A-B,0.0007296932841137,pertenece a categoria
+cg:ava-ai,exp:solscan.io,A-D,0.0007296932841137,explorador asociado
+cg:coral-protocol,class:Artificial Intelligence,A-B,0.0001148523829638,pertenece a categoria
+cg:coral-protocol,exp:solscan.io,A-D,0.0001148523829638,explorador asociado
+cg:avo,class:Artificial Intelligence,A-B,0.0001282419358429,pertenece a categoria
+cg:avo,exp:solscan.io,A-D,0.0001282419358429,explorador asociado
+cg:altura,class:Artificial Intelligence,A-B,0.0004389766718674,pertenece a categoria
+cg:altura,exp:bscscan.com,A-D,0.0004389766718674,explorador asociado
+cg:altura,exp:platform.arkhamintelligence.com,A-D,0.0004389766718674,explorador asociado
+cg:altura,exp:bnb.dex.guru,A-D,0.0004389766718674,explorador asociado
+cg:altura,exp:binplorer.com,A-D,0.0004389766718674,explorador asociado
+cg:altura,exp:basescan.org,A-D,0.0004389766718674,explorador asociado
+cg:codatta,class:Artificial Intelligence,A-B,0.0008256885973792,pertenece a categoria
+cg:codatta,exp:bscscan.com,A-D,0.0008256885973792,explorador asociado
+cg:codatta,exp:binplorer.com,A-D,0.0008256885973792,explorador asociado
+cg:thought,class:Artificial Intelligence,A-B,3.115842364275258e-05,pertenece a categoria
+cg:thought,exp:exp.thought.live,A-D,3.115842364275258e-05,explorador asociado
+cg:sportstensor,class:Artificial Intelligence,A-B,0.0004772392682033,pertenece a categoria
+cg:sportstensor,exp:taostats.io,A-D,0.0004772392682033,explorador asociado
+cg:vertical-ai,class:Artificial Intelligence,A-B,0.0001872884249823,pertenece a categoria
+cg:vertical-ai,exp:etherscan.io,A-D,0.0001872884249823,explorador asociado
+cg:vertical-ai,exp:platform.arkhamintelligence.com,A-D,0.0001872884249823,explorador asociado
+cg:vertical-ai,exp:ethplorer.io,A-D,0.0001872884249823,explorador asociado
+cg:vertical-ai,exp:avascan.info,A-D,0.0001872884249823,explorador asociado
+cg:vertical-ai,exp:snowtrace.io,A-D,0.0001872884249823,explorador asociado
+cg:adex,class:Artificial Intelligence,A-B,0.0005398360668427,pertenece a categoria
+cg:adex,exp:etherscan.io,A-D,0.0005398360668427,explorador asociado
+cg:adex,exp:polygonscan.com,A-D,0.0005398360668427,explorador asociado
+cg:adex,exp:ethplorer.io,A-D,0.0005398360668427,explorador asociado
+cg:adex,exp:bscscan.com,A-D,0.0005398360668427,explorador asociado
+cg:adex,exp:binplorer.com,A-D,0.0005398360668427,explorador asociado
+cg:nodeai,class:Artificial Intelligence,A-B,6.993031296221104e-05,pertenece a categoria
+cg:nodeai,exp:etherscan.io,A-D,6.993031296221104e-05,explorador asociado
+cg:nodeai,exp:platform.arkhamintelligence.com,A-D,6.993031296221104e-05,explorador asociado
+cg:nodeai,exp:ethplorer.io,A-D,6.993031296221104e-05,explorador asociado
+cg:nodeai,exp:basescan.org,A-D,6.993031296221104e-05,explorador asociado
+cg:genius-ai,class:Artificial Intelligence,A-B,2.002071437396941e-05,pertenece a categoria
+cg:genius-ai,exp:polygonscan.com,A-D,2.002071437396941e-05,explorador asociado
+cg:genius-ai,exp:platform.arkhamintelligence.com,A-D,2.002071437396941e-05,explorador asociado
+cg:genius-ai,exp:etherscan.io,A-D,2.002071437396941e-05,explorador asociado
+cg:genius-ai,exp:ethplorer.io,A-D,2.002071437396941e-05,explorador asociado
+cg:genius-ai,exp:bscscan.com,A-D,2.002071437396941e-05,explorador asociado
+cg:genius-ai,exp:binplorer.com,A-D,2.002071437396941e-05,explorador asociado
+cg:genius-ai,exp:basescan.org,A-D,2.002071437396941e-05,explorador asociado
+cg:velvet,class:Artificial Intelligence,A-B,0.0005732773499865,pertenece a categoria
+cg:velvet,exp:bscscan.com,A-D,0.0005732773499865,explorador asociado
+cg:velvet,exp:binplorer.com,A-D,0.0005732773499865,explorador asociado
+cg:velvet,exp:basescan.org,A-D,0.0005732773499865,explorador asociado
+cg:sleepless-ai,class:Artificial Intelligence,A-B,0.0006905065327948,pertenece a categoria
+cg:sleepless-ai,exp:bscscan.com,A-D,0.0006905065327948,explorador asociado
+cg:sleepless-ai,exp:platform.arkhamintelligence.com,A-D,0.0006905065327948,explorador asociado
+cg:sleepless-ai,exp:binplorer.com,A-D,0.0006905065327948,explorador asociado
+cg:draiftking,class:Artificial Intelligence,A-B,7.003805785678525e-05,pertenece a categoria
+cg:draiftking,exp:basescan.org,A-D,7.003805785678525e-05,explorador asociado
+cg:draiftking,exp:base.blockscout.com,A-D,7.003805785678525e-05,explorador asociado
+cg:cortex,class:Artificial Intelligence,A-B,0.0005143439519271,pertenece a categoria
+cg:cortex,exp:cerebro.cortexlabs.ai,A-D,0.0005143439519271,explorador asociado
+cg:codec-flow,class:Artificial Intelligence,A-B,0.0005700308167201,pertenece a categoria
+cg:codec-flow,exp:solscan.io,A-D,0.0005700308167201,explorador asociado
+cg:codec-flow,exp:peaq.subscan.io,A-D,0.0005700308167201,explorador asociado
+cg:spectre-ai,class:Artificial Intelligence,A-B,6.984707948885214e-05,pertenece a categoria
+cg:spectre-ai,exp:etherscan.io,A-D,6.984707948885214e-05,explorador asociado
+cg:spectre-ai,exp:platform.arkhamintelligence.com,A-D,6.984707948885214e-05,explorador asociado
+cg:spectre-ai,exp:ethplorer.io,A-D,6.984707948885214e-05,explorador asociado
+cg:imagen-ai,class:Artificial Intelligence,A-B,7.172413386235577e-06,pertenece a categoria
+cg:imagen-ai,exp:bscscan.com,A-D,7.172413386235577e-06,explorador asociado
+cg:imagen-ai,exp:binplorer.com,A-D,7.172413386235577e-06,explorador asociado
+cg:imagen-ai,exp:etherscan.io,A-D,7.172413386235577e-06,explorador asociado
+cg:imagen-ai,exp:ethplorer.io,A-D,7.172413386235577e-06,explorador asociado
+cg:imagen-ai,exp:solscan.io,A-D,7.172413386235577e-06,explorador asociado
+cg:palm-ai,class:Artificial Intelligence,A-B,4.99792877646663e-05,pertenece a categoria
+cg:palm-ai,exp:etherscan.io,A-D,4.99792877646663e-05,explorador asociado
+cg:palm-ai,exp:platform.arkhamintelligence.com,A-D,4.99792877646663e-05,explorador asociado
+cg:palm-ai,exp:ethplorer.io,A-D,4.99792877646663e-05,explorador asociado
+cg:netmind-token,class:Artificial Intelligence,A-B,0.0003419113421817,pertenece a categoria
+cg:netmind-token,exp:etherscan.io,A-D,0.0003419113421817,explorador asociado
+cg:netmind-token,exp:platform.arkhamintelligence.com,A-D,0.0003419113421817,explorador asociado
+cg:netmind-token,exp:ethplorer.io,A-D,0.0003419113421817,explorador asociado
+cg:netmind-token,exp:bscscan.com,A-D,0.0003419113421817,explorador asociado
+cg:netmind-token,exp:binplorer.com,A-D,0.0003419113421817,explorador asociado
+cg:hippius,class:Artificial Intelligence,A-B,0.0004569106796761,pertenece a categoria
+cg:hippius,exp:taostats.io,A-D,0.0004569106796761,explorador asociado
+cg:rhetor,class:Artificial Intelligence,A-B,5.342281019807016e-05,pertenece a categoria
+cg:rhetor,exp:solscan.io,A-D,5.342281019807016e-05,explorador asociado
+cg:bitmind,class:Artificial Intelligence,A-B,6.357829326491511e-05,pertenece a categoria
+cg:bitmind,exp:taostats.io,A-D,6.357829326491511e-05,explorador asociado
+cg:waveform-by-virtuals,class:Artificial Intelligence,A-B,0.0001630685901973,pertenece a categoria
+cg:waveform-by-virtuals,exp:basescan.org,A-D,0.0001630685901973,explorador asociado
+cg:icecream-ai,class:Artificial Intelligence,A-B,5.243231034246344e-05,pertenece a categoria
+cg:icecream-ai,exp:bscscan.com,A-D,5.243231034246344e-05,explorador asociado
+cg:icecream-ai,exp:binplorer.com,A-D,5.243231034246344e-05,explorador asociado
+cg:iota-2,class:Artificial Intelligence,A-B,8.804381700431919e-05,pertenece a categoria
+cg:iota-2,exp:taostats.io,A-D,8.804381700431919e-05,explorador asociado
+cg:gamercoin,class:Artificial Intelligence,A-B,9.879441159101644e-05,pertenece a categoria
+cg:gamercoin,exp:etherscan.io,A-D,9.879441159101644e-05,explorador asociado
+cg:gamercoin,exp:platform.arkhamintelligence.com,A-D,9.879441159101644e-05,explorador asociado
+cg:gamercoin,exp:ethplorer.io,A-D,9.879441159101644e-05,explorador asociado
+cg:gamercoin,exp:bscscan.com,A-D,9.879441159101644e-05,explorador asociado
+cg:gamercoin,exp:binplorer.com,A-D,9.879441159101644e-05,explorador asociado
+cg:gamercoin,exp:solscan.io,A-D,9.879441159101644e-05,explorador asociado
+cg:holdstation,class:Artificial Intelligence,A-B,0.0001270801923624,pertenece a categoria
+cg:holdstation,exp:era.zksync.network,A-D,0.0001270801923624,explorador asociado
+cg:holdstation,exp:berascan.com,A-D,0.0001270801923624,explorador asociado
+cg:holdstation,exp:explorer.zksync.io,A-D,0.0001270801923624,explorador asociado
+cg:score,class:Artificial Intelligence,A-B,7.465624573320219e-05,pertenece a categoria
+cg:score,exp:taostats.io,A-D,7.465624573320219e-05,explorador asociado
+cg:xterio,class:Artificial Intelligence,A-B,0.0011809314071077,pertenece a categoria
+cg:xterio,exp:bscscan.com,A-D,0.0011809314071077,explorador asociado
+cg:xterio,exp:binplorer.com,A-D,0.0011809314071077,explorador asociado
+cg:edge,class:Artificial Intelligence,A-B,1.8080074344949467e-05,pertenece a categoria
+cg:edge,exp:explorer.edge.network,A-D,1.8080074344949467e-05,explorador asociado
+cg:edge,exp:platform.arkhamintelligence.com,A-D,1.8080074344949467e-05,explorador asociado
+cg:edge,exp:etherscan.io,A-D,1.8080074344949467e-05,explorador asociado
+cg:edge,exp:ethplorer.io,A-D,1.8080074344949467e-05,explorador asociado
+cg:synth-2,class:Artificial Intelligence,A-B,0.0002147711722013,pertenece a categoria
+cg:synth-2,exp:taostats.io,A-D,0.0002147711722013,explorador asociado
+cg:the-innovation-game,class:Artificial Intelligence,A-B,0.0002140403000811,pertenece a categoria
+cg:the-innovation-game,exp:basescan.org,A-D,0.0002140403000811,explorador asociado
+cg:the-innovation-game,exp:platform.arkhamintelligence.com,A-D,0.0002140403000811,explorador asociado
+cg:empyreal,class:Artificial Intelligence,A-B,4.6943392339791305e-05,pertenece a categoria
+cg:empyreal,exp:arbiscan.io,A-D,4.6943392339791305e-05,explorador asociado
+cg:empyreal,exp:platform.arkhamintelligence.com,A-D,4.6943392339791305e-05,explorador asociado
+cg:empyreal,exp:etherscan.io,A-D,4.6943392339791305e-05,explorador asociado
+cg:empyreal,exp:ethplorer.io,A-D,4.6943392339791305e-05,explorador asociado
+cg:empyreal,exp:basescan.org,A-D,4.6943392339791305e-05,explorador asociado
+cg:morpheusai,class:Artificial Intelligence,A-B,3.7017503170650065e-05,pertenece a categoria
+cg:morpheusai,exp:arbiscan.io,A-D,3.7017503170650065e-05,explorador asociado
+cg:morpheusai,exp:platform.arkhamintelligence.com,A-D,3.7017503170650065e-05,explorador asociado
+cg:morpheusai,exp:etherscan.io,A-D,3.7017503170650065e-05,explorador asociado
+cg:morpheusai,exp:basescan.org,A-D,3.7017503170650065e-05,explorador asociado
+cg:morpheusai,exp:ethplorer.io,A-D,3.7017503170650065e-05,explorador asociado
+cg:pop-2,class:Artificial Intelligence,A-B,0.0013828076899082,pertenece a categoria
+cg:pop-2,exp:bscscan.com,A-D,0.0013828076899082,explorador asociado
+cg:pop-2,exp:binplorer.com,A-D,0.0013828076899082,explorador asociado
+cg:synternet-synt,class:Artificial Intelligence,A-B,0.000163127127896,pertenece a categoria
+cg:synternet-synt,exp:etherscan.io,A-D,0.000163127127896,explorador asociado
+cg:synternet-synt,exp:platform.arkhamintelligence.com,A-D,0.000163127127896,explorador asociado
+cg:synternet-synt,exp:explorer.synternet.com,A-D,0.000163127127896,explorador asociado
+cg:synternet-synt,exp:ethplorer.io,A-D,0.000163127127896,explorador asociado
+cg:aleph,class:Artificial Intelligence,A-B,8.161924773973256e-05,pertenece a categoria
+cg:aleph,exp:etherscan.io,A-D,8.161924773973256e-05,explorador asociado
+cg:aleph,exp:platform.arkhamintelligence.com,A-D,8.161924773973256e-05,explorador asociado
+cg:aleph,exp:nuls.world,A-D,8.161924773973256e-05,explorador asociado
+cg:aleph,exp:ethplorer.io,A-D,8.161924773973256e-05,explorador asociado
+cg:aleph,exp:avascan.info,A-D,8.161924773973256e-05,explorador asociado
+cg:aleph,exp:explorer.aleph.im,A-D,8.161924773973256e-05,explorador asociado
+cg:aleph,exp:bscscan.com,A-D,8.161924773973256e-05,explorador asociado
+cg:aleph,exp:binplorer.com,A-D,8.161924773973256e-05,explorador asociado
+cg:aleph,exp:solscan.io,A-D,8.161924773973256e-05,explorador asociado
+cg:aleph,exp:basescan.org,A-D,8.161924773973256e-05,explorador asociado
+cg:trias-token,class:Artificial Intelligence,A-B,1.8659166657189943e-05,pertenece a categoria
+cg:trias-token,exp:bscscan.com,A-D,1.8659166657189943e-05,explorador asociado
+cg:trias-token,exp:platform.arkhamintelligence.com,A-D,1.8659166657189943e-05,explorador asociado
+cg:trias-token,exp:binplorer.com,A-D,1.8659166657189943e-05,explorador asociado
+cg:trias-token,exp:etherscan.io,A-D,1.8659166657189943e-05,explorador asociado
+cg:trias-token,exp:ethplorer.io,A-D,1.8659166657189943e-05,explorador asociado
+cg:mind-network,class:Artificial Intelligence,A-B,0.0005562907737894,pertenece a categoria
+cg:mind-network,exp:etherscan.io,A-D,0.0005562907737894,explorador asociado
+cg:mind-network,exp:ethplorer.io,A-D,0.0005562907737894,explorador asociado
+cg:mind-network,exp:bscscan.com,A-D,0.0005562907737894,explorador asociado
+cg:mind-network,exp:binplorer.com,A-D,0.0005562907737894,explorador asociado
+cg:mind-network,exp:explorer.mindnetwork.xyz,A-D,0.0005562907737894,explorador asociado
+cg:basedai,class:Artificial Intelligence,A-B,0.0001101753239411,pertenece a categoria
+cg:basedai,exp:etherscan.io,A-D,0.0001101753239411,explorador asociado
+cg:basedai,exp:platform.arkhamintelligence.com,A-D,0.0001101753239411,explorador asociado
+cg:basedai,exp:ethplorer.io,A-D,0.0001101753239411,explorador asociado
+cg:kryll,class:Artificial Intelligence,A-B,9.88553496961564e-05,pertenece a categoria
+cg:kryll,exp:etherscan.io,A-D,9.88553496961564e-05,explorador asociado
+cg:kryll,exp:platform.arkhamintelligence.com,A-D,9.88553496961564e-05,explorador asociado
+cg:kryll,exp:ethplorer.io,A-D,9.88553496961564e-05,explorador asociado
+cg:kryll,exp:basescan.org,A-D,9.88553496961564e-05,explorador asociado
+cg:kryll,exp:arbiscan.io,A-D,9.88553496961564e-05,explorador asociado
+cg:kryll,exp:optimistic.etherscan.io,A-D,9.88553496961564e-05,explorador asociado
+cg:gaia-3,class:Artificial Intelligence,A-B,0.0004714815322435,pertenece a categoria
+cg:gaia-3,exp:etherscan.io,A-D,0.0004714815322435,explorador asociado
+cg:gaia-3,exp:ethplorer.io,A-D,0.0004714815322435,explorador asociado
+cg:gaia-3,exp:bscscan.com,A-D,0.0004714815322435,explorador asociado
+cg:gaia-3,exp:binplorer.com,A-D,0.0004714815322435,explorador asociado
+cg:fireverse,class:Artificial Intelligence,A-B,0.0006502987767466,pertenece a categoria
+cg:fireverse,exp:bscscan.com,A-D,0.0006502987767466,explorador asociado
+cg:fireverse,exp:binplorer.com,A-D,0.0006502987767466,explorador asociado
+cg:singularry,class:Artificial Intelligence,A-B,4.750575876573638e-05,pertenece a categoria
+cg:singularry,exp:bscscan.com,A-D,4.750575876573638e-05,explorador asociado
+cg:singularry,exp:binplorer.com,A-D,4.750575876573638e-05,explorador asociado
+cg:trusta-ai,class:Artificial Intelligence,A-B,0.0006129679876477,pertenece a categoria
+cg:trusta-ai,exp:lineascan.build,A-D,0.0006129679876477,explorador asociado
+cg:trusta-ai,exp:lineaplorer.build,A-D,0.0006129679876477,explorador asociado
+cg:trusta-ai,exp:bscscan.com,A-D,0.0006129679876477,explorador asociado
+cg:trusta-ai,exp:binplorer.com,A-D,0.0006129679876477,explorador asociado
+cg:readyai,class:Artificial Intelligence,A-B,0.0002867674688615,pertenece a categoria
+cg:readyai,exp:taostats.io,A-D,0.0002867674688615,explorador asociado
+cg:opulous,class:Artificial Intelligence,A-B,0.0001442250692145,pertenece a categoria
+cg:opulous,exp:etherscan.io,A-D,0.0001442250692145,explorador asociado
+cg:opulous,exp:platform.arkhamintelligence.com,A-D,0.0001442250692145,explorador asociado
+cg:opulous,exp:ethplorer.io,A-D,0.0001442250692145,explorador asociado
+cg:opulous,exp:bscscan.com,A-D,0.0001442250692145,explorador asociado
+cg:opulous,exp:binplorer.com,A-D,0.0001442250692145,explorador asociado
+cg:opulous,exp:arbiscan.io,A-D,0.0001442250692145,explorador asociado
+cg:opulous,exp:avascan.info,A-D,0.0001442250692145,explorador asociado
+cg:opulous,exp:basescan.org,A-D,0.0001442250692145,explorador asociado
+cg:opulous,exp:optimistic.etherscan.io,A-D,0.0001442250692145,explorador asociado
+cg:opulous,exp:polygonscan.com,A-D,0.0001442250692145,explorador asociado
+cg:game-by-virtuals,class:Artificial Intelligence,A-B,0.0004456168411788,pertenece a categoria
+cg:game-by-virtuals,exp:basescan.org,A-D,0.0004456168411788,explorador asociado
+cg:game-by-virtuals,exp:platform.arkhamintelligence.com,A-D,0.0004456168411788,explorador asociado
+cg:agoras-currency-of-tau,class:Artificial Intelligence,A-B,2.6247012247892107e-05,pertenece a categoria
+cg:agoras-currency-of-tau,exp:etherscan.io,A-D,2.6247012247892107e-05,explorador asociado
+cg:agoras-currency-of-tau,exp:platform.arkhamintelligence.com,A-D,2.6247012247892107e-05,explorador asociado
+cg:agoras-currency-of-tau,exp:ethplorer.io,A-D,2.6247012247892107e-05,explorador asociado
+cg:agoras-currency-of-tau,exp:www.omniexplorer.info,A-D,2.6247012247892107e-05,explorador asociado
+cg:agent-hustle,class:Artificial Intelligence,A-B,7.195066551251284e-05,pertenece a categoria
+cg:agent-hustle,exp:solscan.io,A-D,7.195066551251284e-05,explorador asociado
+cg:astraai,class:Artificial Intelligence,A-B,8.288972373326466e-05,pertenece a categoria
+cg:astraai,exp:etherscan.io,A-D,8.288972373326466e-05,explorador asociado
+cg:astraai,exp:platform.arkhamintelligence.com,A-D,8.288972373326466e-05,explorador asociado
+cg:astraai,exp:ethplorer.io,A-D,8.288972373326466e-05,explorador asociado
+cg:vivi-coin,class:Artificial Intelligence,A-B,4.939263686675477e-05,pertenece a categoria
+cg:vivi-coin,exp:solscan.io,A-D,4.939263686675477e-05,explorador asociado
+cg:dippy,class:Artificial Intelligence,A-B,0.0001030015179852,pertenece a categoria
+cg:dippy,exp:taostats.io,A-D,0.0001030015179852,explorador asociado
+cg:torus,class:Artificial Intelligence,A-B,4.3381201417199275e-05,pertenece a categoria
+cg:torus,exp:basescan.org,A-D,4.3381201417199275e-05,explorador asociado
+cg:publicai,class:Artificial Intelligence,A-B,0.0002205349189172,pertenece a categoria
+cg:publicai,exp:nearblocks.io,A-D,0.0002205349189172,explorador asociado
+cg:publicai,exp:bscscan.com,A-D,0.0002205349189172,explorador asociado
+cg:publicai,exp:binplorer.com,A-D,0.0002205349189172,explorador asociado
+cg:numbers-protocol,class:Artificial Intelligence,A-B,0.0001997901294818,pertenece a categoria
+cg:numbers-protocol,exp:etherscan.io,A-D,0.0001997901294818,explorador asociado
+cg:numbers-protocol,exp:platform.arkhamintelligence.com,A-D,0.0001997901294818,explorador asociado
+cg:numbers-protocol,exp:ethplorer.io,A-D,0.0001997901294818,explorador asociado
+cg:numbers-protocol,exp:bscscan.com,A-D,0.0001997901294818,explorador asociado
+cg:numbers-protocol,exp:mainnet.num.network,A-D,0.0001997901294818,explorador asociado
+cg:numbers-protocol,exp:binplorer.com,A-D,0.0001997901294818,explorador asociado
+cg:logicnet,class:Artificial Intelligence,A-B,0.0001176684905317,pertenece a categoria
+cg:logicnet,exp:taostats.io,A-D,0.0001176684905317,explorador asociado
+cg:404-gen,class:Artificial Intelligence,A-B,5.4376907089514696e-05,pertenece a categoria
+cg:404-gen,exp:taostats.io,A-D,5.4376907089514696e-05,explorador asociado
+cg:kondux-v2,class:Artificial Intelligence,A-B,1.8514056399814556e-05,pertenece a categoria
+cg:kondux-v2,exp:etherscan.io,A-D,1.8514056399814556e-05,explorador asociado
+cg:kondux-v2,exp:platform.arkhamintelligence.com,A-D,1.8514056399814556e-05,explorador asociado
+cg:kondux-v2,exp:ethplorer.io,A-D,1.8514056399814556e-05,explorador asociado
+cg:botto,class:Artificial Intelligence,A-B,4.569757102263011e-05,pertenece a categoria
+cg:botto,exp:etherscan.io,A-D,4.569757102263011e-05,explorador asociado
+cg:botto,exp:platform.arkhamintelligence.com,A-D,4.569757102263011e-05,explorador asociado
+cg:botto,exp:ethplorer.io,A-D,4.569757102263011e-05,explorador asociado
+cg:botto,exp:basescan.org,A-D,4.569757102263011e-05,explorador asociado
+cg:nineteen-ai,class:Artificial Intelligence,A-B,2.1085484066896663e-05,pertenece a categoria
+cg:nineteen-ai,exp:taostats.io,A-D,2.1085484066896663e-05,explorador asociado
+cg:nextplace,class:Artificial Intelligence,A-B,0.0001364948396695,pertenece a categoria
+cg:nextplace,exp:taostats.io,A-D,0.0001364948396695,explorador asociado
+cg:data-universe,class:Artificial Intelligence,A-B,5.873124028803739e-05,pertenece a categoria
+cg:data-universe,exp:taostats.io,A-D,5.873124028803739e-05,explorador asociado
+cg:hypergpt,class:Artificial Intelligence,A-B,0.0001473961124856,pertenece a categoria
+cg:hypergpt,exp:bscscan.com,A-D,0.0001473961124856,explorador asociado
+cg:hypergpt,exp:platform.arkhamintelligence.com,A-D,0.0001473961124856,explorador asociado
+cg:hypergpt,exp:binplorer.com,A-D,0.0001473961124856,explorador asociado
+cg:hypergpt,exp:tonscan.org,A-D,0.0001473961124856,explorador asociado
+cg:hypergpt,exp:tonviewer.com,A-D,0.0001473961124856,explorador asociado
+cg:apex-5,class:Artificial Intelligence,A-B,5.6522055427388555e-05,pertenece a categoria
+cg:apex-5,exp:taostats.io,A-D,5.6522055427388555e-05,explorador asociado
+cg:wagmi-game-2,class:Artificial Intelligence,A-B,9.885752238016262e-05,pertenece a categoria
+cg:wagmi-game-2,exp:etherscan.io,A-D,9.885752238016262e-05,explorador asociado
+cg:wagmi-game-2,exp:platform.arkhamintelligence.com,A-D,9.885752238016262e-05,explorador asociado
+cg:wagmi-game-2,exp:ethplorer.io,A-D,9.885752238016262e-05,explorador asociado
+cg:parallelai,class:Artificial Intelligence,A-B,6.723882088007397e-05,pertenece a categoria
+cg:parallelai,exp:etherscan.io,A-D,6.723882088007397e-05,explorador asociado
+cg:parallelai,exp:platform.arkhamintelligence.com,A-D,6.723882088007397e-05,explorador asociado
+cg:parallelai,exp:ethplorer.io,A-D,6.723882088007397e-05,explorador asociado
+cg:taohash,class:Artificial Intelligence,A-B,3.625413144628529e-05,pertenece a categoria
+cg:taohash,exp:taostats.io,A-D,3.625413144628529e-05,explorador asociado
+cg:vaderai-by-virtuals,class:Artificial Intelligence,A-B,0.0001338247710774,pertenece a categoria
+cg:vaderai-by-virtuals,exp:basescan.org,A-D,0.0001338247710774,explorador asociado
+cg:0x0-ai-ai-smart-contract,class:Artificial Intelligence,A-B,2.7585812975261676e-05,pertenece a categoria
+cg:0x0-ai-ai-smart-contract,exp:etherscan.io,A-D,2.7585812975261676e-05,explorador asociado
+cg:0x0-ai-ai-smart-contract,exp:platform.arkhamintelligence.com,A-D,2.7585812975261676e-05,explorador asociado
+cg:0x0-ai-ai-smart-contract,exp:ethplorer.io,A-D,2.7585812975261676e-05,explorador asociado
+cg:bitscrunch-token,class:Artificial Intelligence,A-B,0.0001089421881071,pertenece a categoria
+cg:bitscrunch-token,exp:etherscan.io,A-D,0.0001089421881071,explorador asociado
+cg:bitscrunch-token,exp:platform.arkhamintelligence.com,A-D,0.0001089421881071,explorador asociado
+cg:bitscrunch-token,exp:polygonscan.com,A-D,0.0001089421881071,explorador asociado
+cg:bitscrunch-token,exp:ethplorer.io,A-D,0.0001089421881071,explorador asociado
+cg:nova-3,class:Artificial Intelligence,A-B,2.631201036263006e-05,pertenece a categoria
+cg:nova-3,exp:taostats.io,A-D,2.631201036263006e-05,explorador asociado
+cg:silencio,class:Artificial Intelligence,A-B,9.472809056886384e-05,pertenece a categoria
+cg:silencio,exp:peaq.subscan.io,A-D,9.472809056886384e-05,explorador asociado
+cg:silencio,exp:basescan.org,A-D,9.472809056886384e-05,explorador asociado
+cg:maiga,class:Artificial Intelligence,A-B,0.0003937797049876,pertenece a categoria
+cg:maiga,exp:bscscan.com,A-D,0.0003937797049876,explorador asociado
+cg:maiga,exp:binplorer.com,A-D,0.0003937797049876,explorador asociado
+cg:zeus-5,class:Artificial Intelligence,A-B,0.0001297181168862,pertenece a categoria
+cg:zeus-5,exp:taostats.io,A-D,0.0001297181168862,explorador asociado
+cg:w-ai-parked,class:Artificial Intelligence,A-B,9.878341923406429e-05,pertenece a categoria
+cg:w-ai-parked,exp:taostats.io,A-D,9.878341923406429e-05,explorador asociado
+cg:gata,class:Artificial Intelligence,A-B,0.0004993970121886,pertenece a categoria
+cg:gata,exp:bscscan.com,A-D,0.0004993970121886,explorador asociado
+cg:gata,exp:binplorer.com,A-D,0.0004993970121886,explorador asociado
+cg:human-protocol,class:Artificial Intelligence,A-B,8.997354119571578e-06,pertenece a categoria
+cg:human-protocol,exp:etherscan.io,A-D,8.997354119571578e-06,explorador asociado
+cg:human-protocol,exp:platform.arkhamintelligence.com,A-D,8.997354119571578e-06,explorador asociado
+cg:human-protocol,exp:ethplorer.io,A-D,8.997354119571578e-06,explorador asociado
+cg:human-protocol,exp:polygonscan.com,A-D,8.997354119571578e-06,explorador asociado
+cg:graphite,class:Artificial Intelligence,A-B,5.179070032930157e-05,pertenece a categoria
+cg:graphite,exp:taostats.io,A-D,5.179070032930157e-05,explorador asociado
+cg:node-2,class:Artificial Intelligence,A-B,0.000596788363209,pertenece a categoria
+cg:node-2,exp:bscscan.com,A-D,0.000596788363209,explorador asociado
+cg:node-2,exp:etherscan.io,A-D,0.000596788363209,explorador asociado
+cg:node-2,exp:ethplorer.io,A-D,0.000596788363209,explorador asociado
+cg:node-2,exp:binplorer.com,A-D,0.000596788363209,explorador asociado
+cg:vaiot,class:Artificial Intelligence,A-B,9.441279697037745e-05,pertenece a categoria
+cg:vaiot,exp:etherscan.io,A-D,9.441279697037745e-05,explorador asociado
+cg:vaiot,exp:platform.arkhamintelligence.com,A-D,9.441279697037745e-05,explorador asociado
+cg:vaiot,exp:ethplorer.io,A-D,9.441279697037745e-05,explorador asociado
+cg:bitcast,class:Artificial Intelligence,A-B,0.0001888000087912,pertenece a categoria
+cg:bitcast,exp:taostats.io,A-D,0.0001888000087912,explorador asociado
+cg:inspect,class:Artificial Intelligence,A-B,0.0001433447372602,pertenece a categoria
+cg:inspect,exp:etherscan.io,A-D,0.0001433447372602,explorador asociado
+cg:inspect,exp:platform.arkhamintelligence.com,A-D,0.0001433447372602,explorador asociado
+cg:inspect,exp:ethplorer.io,A-D,0.0001433447372602,explorador asociado
+cg:inspect,exp:bscscan.com,A-D,0.0001433447372602,explorador asociado
+cg:inspect,exp:binplorer.com,A-D,0.0001433447372602,explorador asociado
+cg:world3,class:Artificial Intelligence,A-B,0.0004834279621651,pertenece a categoria
+cg:world3,exp:bscscan.com,A-D,0.0004834279621651,explorador asociado
+cg:world3,exp:binplorer.com,A-D,0.0004834279621651,explorador asociado
+cg:efficientfrontier,class:Artificial Intelligence,A-B,1.1517681909343475e-05,pertenece a categoria
+cg:efficientfrontier,exp:taostats.io,A-D,1.1517681909343475e-05,explorador asociado
+cg:sensay,class:Artificial Intelligence,A-B,8.869683640137376e-05,pertenece a categoria
+cg:sensay,exp:etherscan.io,A-D,8.869683640137376e-05,explorador asociado
+cg:sensay,exp:platform.arkhamintelligence.com,A-D,8.869683640137376e-05,explorador asociado
+cg:sensay,exp:ethplorer.io,A-D,8.869683640137376e-05,explorador asociado
+cg:sensay,exp:bscscan.com,A-D,8.869683640137376e-05,explorador asociado
+cg:sensay,exp:binplorer.com,A-D,8.869683640137376e-05,explorador asociado
+cg:sensay,exp:arbiscan.io,A-D,8.869683640137376e-05,explorador asociado
+cg:sensay,exp:basescan.org,A-D,8.869683640137376e-05,explorador asociado
+cg:liquidity,class:Artificial Intelligence,A-B,1.2268179890617612e-05,pertenece a categoria
+cg:liquidity,exp:taostats.io,A-D,1.2268179890617612e-05,explorador asociado
+cg:artyfact,class:Artificial Intelligence,A-B,0.0003398453236688,pertenece a categoria
+cg:artyfact,exp:bscscan.com,A-D,0.0003398453236688,explorador asociado
+cg:artyfact,exp:platform.arkhamintelligence.com,A-D,0.0003398453236688,explorador asociado
+cg:artyfact,exp:binplorer.com,A-D,0.0003398453236688,explorador asociado
+cg:ovr,class:Artificial Intelligence,A-B,0.000107176478934,pertenece a categoria
+cg:ovr,exp:etherscan.io,A-D,0.000107176478934,explorador asociado
+cg:ovr,exp:platform.arkhamintelligence.com,A-D,0.000107176478934,explorador asociado
+cg:ovr,exp:ethplorer.io,A-D,0.000107176478934,explorador asociado
+cg:ovr,exp:bscscan.com,A-D,0.000107176478934,explorador asociado
+cg:ovr,exp:polygonscan.com,A-D,0.000107176478934,explorador asociado
+cg:ovr,exp:binplorer.com,A-D,0.000107176478934,explorador asociado
+cg:ovr,exp:basescan.org,A-D,0.000107176478934,explorador asociado
+cg:spectral,class:Artificial Intelligence,A-B,0.0001220568933588,pertenece a categoria
+cg:spectral,exp:etherscan.io,A-D,0.0001220568933588,explorador asociado
+cg:spectral,exp:platform.arkhamintelligence.com,A-D,0.0001220568933588,explorador asociado
+cg:spectral,exp:ethplorer.io,A-D,0.0001220568933588,explorador asociado
+cg:spectral,exp:basescan.org,A-D,0.0001220568933588,explorador asociado
+cg:nuit,class:Artificial Intelligence,A-B,0.0001265931631936,pertenece a categoria
+cg:nuit,exp:solscan.io,A-D,0.0001265931631936,explorador asociado
+cg:dojo-3,class:Artificial Intelligence,A-B,3.5039365254453095e-05,pertenece a categoria
+cg:dojo-3,exp:taostats.io,A-D,3.5039365254453095e-05,explorador asociado
+cg:alpha-trader-exchange-atx,class:Artificial Intelligence,A-B,0.0001430898328967,pertenece a categoria
+cg:alpha-trader-exchange-atx,exp:taostats.io,A-D,0.0001430898328967,explorador asociado
+cg:clore-ai,class:Artificial Intelligence,A-B,0.0002201853056239,pertenece a categoria
+cg:clore-ai,exp:exploreblockchain.clore.ai,A-D,0.0002201853056239,explorador asociado
+cg:clore-ai,exp:blockbook.clore.ai,A-D,0.0002201853056239,explorador asociado
+cg:think-protocol,class:Artificial Intelligence,A-B,0.0001312029311744,pertenece a categoria
+cg:think-protocol,exp:etherscan.io,A-D,0.0001312029311744,explorador asociado
+cg:think-protocol,exp:ethplorer.io,A-D,0.0001312029311744,explorador asociado
+cg:masa-finance,class:Artificial Intelligence,A-B,0.0002173684429292,pertenece a categoria
+cg:masa-finance,exp:subnets.avax.network,A-D,0.0002173684429292,explorador asociado
+cg:masa-finance,exp:platform.arkhamintelligence.com,A-D,0.0002173684429292,explorador asociado
+cg:masa-finance,exp:etherscan.io,A-D,0.0002173684429292,explorador asociado
+cg:masa-finance,exp:ethplorer.io,A-D,0.0002173684429292,explorador asociado
+cg:masa-finance,exp:bscscan.com,A-D,0.0002173684429292,explorador asociado
+cg:masa-finance,exp:binplorer.com,A-D,0.0002173684429292,explorador asociado
+cg:vidaio,class:Artificial Intelligence,A-B,0.0002645342541441,pertenece a categoria
+cg:vidaio,exp:taostats.io,A-D,0.0002645342541441,explorador asociado
+cg:pundi-aifx,class:Artificial Intelligence,A-B,3.9026305780760286e-05,pertenece a categoria
+cg:pundi-aifx,exp:bscscan.com,A-D,3.9026305780760286e-05,explorador asociado
+cg:pundi-aifx,exp:etherscan.io,A-D,3.9026305780760286e-05,explorador asociado
+cg:pundi-aifx,exp:ethplorer.io,A-D,3.9026305780760286e-05,explorador asociado
+cg:pundi-aifx,exp:binplorer.com,A-D,3.9026305780760286e-05,explorador asociado
+cg:presearch,class:Artificial Intelligence,A-B,1.4462316591419631e-05,pertenece a categoria
+cg:presearch,exp:etherscan.io,A-D,1.4462316591419631e-05,explorador asociado
+cg:presearch,exp:platform.arkhamintelligence.com,A-D,1.4462316591419631e-05,explorador asociado
+cg:presearch,exp:ethplorer.io,A-D,1.4462316591419631e-05,explorador asociado
+cg:presearch,exp:basescan.org,A-D,1.4462316591419631e-05,explorador asociado
+cg:patrol-tao-com,class:Artificial Intelligence,A-B,3.65993438575136e-05,pertenece a categoria
+cg:patrol-tao-com,exp:taostats.io,A-D,3.65993438575136e-05,explorador asociado
+cg:xeleb-protocol,class:Artificial Intelligence,A-B,0.0004010177458612,pertenece a categoria
+cg:xeleb-protocol,exp:bscscan.com,A-D,0.0004010177458612,explorador asociado
+cg:xeleb-protocol,exp:binplorer.com,A-D,0.0004010177458612,explorador asociado
+cg:mode,class:Artificial Intelligence,A-B,0.0001336731882893,pertenece a categoria
+cg:mode,exp:explorer.mode.network,A-D,0.0001336731882893,explorador asociado
+cg:mode,exp:modescan.io,A-D,0.0001336731882893,explorador asociado
+cg:mode,exp:basescan.org,A-D,0.0001336731882893,explorador asociado
+cg:haio,class:Artificial Intelligence,A-B,0.0001206657875596,pertenece a categoria
+cg:haio,exp:solscan.io,A-D,0.0001206657875596,explorador asociado
+cg:frok-ai,class:Artificial Intelligence,A-B,9.711773818425876e-07,pertenece a categoria
+cg:frok-ai,exp:basescan.org,A-D,9.711773818425876e-07,explorador asociado
+cg:frok-ai,exp:platform.arkhamintelligence.com,A-D,9.711773818425876e-07,explorador asociado
+cg:atlas-navi,class:Artificial Intelligence,A-B,7.45067878402761e-05,pertenece a categoria
+cg:atlas-navi,exp:etherscan.io,A-D,7.45067878402761e-05,explorador asociado
+cg:atlas-navi,exp:platform.arkhamintelligence.com,A-D,7.45067878402761e-05,explorador asociado
+cg:atlas-navi,exp:ethplorer.io,A-D,7.45067878402761e-05,explorador asociado
+cg:sturdy-subnet,class:Artificial Intelligence,A-B,4.0120421441409855e-05,pertenece a categoria
+cg:sturdy-subnet,exp:taostats.io,A-D,4.0120421441409855e-05,explorador asociado
+cg:swarmnode-ai,class:Artificial Intelligence,A-B,0.000141067014789,pertenece a categoria
+cg:swarmnode-ai,exp:solscan.io,A-D,0.000141067014789,explorador asociado
+cg:compute-horde,class:Artificial Intelligence,A-B,2.809158652014911e-05,pertenece a categoria
+cg:compute-horde,exp:taostats.io,A-D,2.809158652014911e-05,explorador asociado
+cg:jojoworld,class:Artificial Intelligence,A-B,0.0001428777195472,pertenece a categoria
+cg:jojoworld,exp:bscscan.com,A-D,0.0001428777195472,explorador asociado
+cg:jojoworld,exp:binplorer.com,A-D,0.0001428777195472,explorador asociado
+cg:strawberry-ai,class:Artificial Intelligence,A-B,4.722533768840042e-05,pertenece a categoria
+cg:strawberry-ai,exp:etherscan.io,A-D,4.722533768840042e-05,explorador asociado
+cg:strawberry-ai,exp:platform.arkhamintelligence.com,A-D,4.722533768840042e-05,explorador asociado
+cg:strawberry-ai,exp:ethplorer.io,A-D,4.722533768840042e-05,explorador asociado
+cg:strawberry-ai,exp:solscan.io,A-D,4.722533768840042e-05,explorador asociado
+cg:strawberry-ai,exp:basescan.org,A-D,4.722533768840042e-05,explorador asociado
+cg:cere-network,class:Artificial Intelligence,A-B,7.183735242342257e-05,pertenece a categoria
+cg:cere-network,exp:etherscan.io,A-D,7.183735242342257e-05,explorador asociado
+cg:cere-network,exp:platform.arkhamintelligence.com,A-D,7.183735242342257e-05,explorador asociado
+cg:cere-network,exp:ethplorer.io,A-D,7.183735242342257e-05,explorador asociado
+cg:cere-network,exp:basescan.org,A-D,7.183735242342257e-05,explorador asociado
+cg:graphlinq-protocol,class:Artificial Intelligence,A-B,5.9652176458685694e-05,pertenece a categoria
+cg:graphlinq-protocol,exp:etherscan.io,A-D,5.9652176458685694e-05,explorador asociado
+cg:graphlinq-protocol,exp:platform.arkhamintelligence.com,A-D,5.9652176458685694e-05,explorador asociado
+cg:graphlinq-protocol,exp:ethplorer.io,A-D,5.9652176458685694e-05,explorador asociado
+cg:graphlinq-protocol,exp:explorer.graphlinq.io,A-D,5.9652176458685694e-05,explorador asociado
+cg:lush-ai,class:Artificial Intelligence,A-B,7.042357819915299e-06,pertenece a categoria
+cg:lush-ai,exp:etherscan.io,A-D,7.042357819915299e-06,explorador asociado
+cg:lush-ai,exp:platform.arkhamintelligence.com,A-D,7.042357819915299e-06,explorador asociado
+cg:lush-ai,exp:ethplorer.io,A-D,7.042357819915299e-06,explorador asociado
+cg:lush-ai,exp:basescan.org,A-D,7.042357819915299e-06,explorador asociado
+cg:robora,class:Artificial Intelligence,A-B,4.6192132595993715e-05,pertenece a categoria
+cg:robora,exp:etherscan.io,A-D,4.6192132595993715e-05,explorador asociado
+cg:robora,exp:ethplorer.io,A-D,4.6192132595993715e-05,explorador asociado
+cg:linqai,class:Artificial Intelligence,A-B,8.318372269212621e-05,pertenece a categoria
+cg:linqai,exp:etherscan.io,A-D,8.318372269212621e-05,explorador asociado
+cg:linqai,exp:platform.arkhamintelligence.com,A-D,8.318372269212621e-05,explorador asociado
+cg:linqai,exp:ethplorer.io,A-D,8.318372269212621e-05,explorador asociado
+cg:privasea-ai,class:Artificial Intelligence,A-B,0.0004743050275683,pertenece a categoria
+cg:privasea-ai,exp:bscscan.com,A-D,0.0004743050275683,explorador asociado
+cg:privasea-ai,exp:binplorer.com,A-D,0.0004743050275683,explorador asociado
+cg:immutable-x,class:Gaming,A-B,0.0155448386859725,pertenece a categoria
+cg:immutable-x,exp:etherscan.io,A-D,0.0155448386859725,explorador asociado
+cg:immutable-x,exp:platform.arkhamintelligence.com,A-D,0.0155448386859725,explorador asociado
+cg:immutable-x,exp:ethplorer.io,A-D,0.0155448386859725,explorador asociado
+cg:floki,class:Gaming,A-B,0.010861703923625,pertenece a categoria
+cg:floki,exp:etherscan.io,A-D,0.010861703923625,explorador asociado
+cg:floki,exp:platform.arkhamintelligence.com,A-D,0.010861703923625,explorador asociado
+cg:floki,exp:ethplorer.io,A-D,0.010861703923625,explorador asociado
+cg:floki,exp:bscscan.com,A-D,0.010861703923625,explorador asociado
+cg:floki,exp:binplorer.com,A-D,0.010861703923625,explorador asociado
+cg:floki,exp:bnb.dex.guru,A-D,0.010861703923625,explorador asociado
+cg:gala,class:Gaming,A-B,0.0112014316418835,pertenece a categoria
+cg:gala,exp:etherscan.io,A-D,0.0112014316418835,explorador asociado
+cg:gala,exp:platform.arkhamintelligence.com,A-D,0.0112014316418835,explorador asociado
+cg:gala,exp:galachain.hottoshotto.com,A-D,0.0112014316418835,explorador asociado
+cg:gala,exp:ethplorer.io,A-D,0.0112014316418835,explorador asociado
+cg:gala,exp:galascan.gala.com,A-D,0.0112014316418835,explorador asociado
+cg:gala,exp:analytics.gala.com,A-D,0.0112014316418835,explorador asociado
+cg:the-sandbox,class:Gaming,A-B,0.0090378621518058,pertenece a categoria
+cg:the-sandbox,exp:etherscan.io,A-D,0.0090378621518058,explorador asociado
+cg:the-sandbox,exp:platform.arkhamintelligence.com,A-D,0.0090378621518058,explorador asociado
+cg:the-sandbox,exp:ethplorer.io,A-D,0.0090378621518058,explorador asociado
+cg:the-sandbox,exp:polygon.dex.guru,A-D,0.0090378621518058,explorador asociado
+cg:the-sandbox,exp:polygonscan.com,A-D,0.0090378621518058,explorador asociado
+cg:the-sandbox,exp:explorer.energi.network,A-D,0.0090378621518058,explorador asociado
+cg:the-sandbox,exp:ethereum.dex.guru,A-D,0.0090378621518058,explorador asociado
+cg:the-sandbox,exp:explorer.harmony.one,A-D,0.0090378621518058,explorador asociado
+cg:decentraland,class:Gaming,A-B,0.0062894224870058,pertenece a categoria
+cg:decentraland,exp:etherscan.io,A-D,0.0062894224870058,explorador asociado
+cg:decentraland,exp:platform.arkhamintelligence.com,A-D,0.0062894224870058,explorador asociado
+cg:decentraland,exp:ethplorer.io,A-D,0.0062894224870058,explorador asociado
+cg:decentraland,exp:polygonscan.com,A-D,0.0062894224870058,explorador asociado
+cg:decentraland,exp:explorer.energi.network,A-D,0.0062894224870058,explorador asociado
+cg:superfarm,class:Gaming,A-B,0.0197436057558762,pertenece a categoria
+cg:superfarm,exp:etherscan.io,A-D,0.0197436057558762,explorador asociado
+cg:superfarm,exp:platform.arkhamintelligence.com,A-D,0.0197436057558762,explorador asociado
+cg:superfarm,exp:ethplorer.io,A-D,0.0197436057558762,explorador asociado
+cg:superfarm,exp:polygonscan.com,A-D,0.0197436057558762,explorador asociado
+cg:superfarm,exp:bscscan.com,A-D,0.0197436057558762,explorador asociado
+cg:superfarm,exp:binplorer.com,A-D,0.0197436057558762,explorador asociado
+cg:superfarm,exp:explorer.energi.network,A-D,0.0197436057558762,explorador asociado
+cg:superfarm,exp:avascan.info,A-D,0.0197436057558762,explorador asociado
+cg:superfarm,exp:snowtrace.io,A-D,0.0197436057558762,explorador asociado
+cg:superfarm,exp:basescan.org,A-D,0.0197436057558762,explorador asociado
+cg:four,class:Gaming,A-B,0.0176613161699901,pertenece a categoria
+cg:four,exp:bscscan.com,A-D,0.0176613161699901,explorador asociado
+cg:four,exp:binplorer.com,A-D,0.0176613161699901,explorador asociado
+cg:apecoin,class:Gaming,A-B,0.0059809893002101,pertenece a categoria
+cg:beam-2,class:Gaming,A-B,0.0043042498509364,pertenece a categoria
+cg:beam-2,exp:etherscan.io,A-D,0.0043042498509364,explorador asociado
+cg:beam-2,exp:platform.arkhamintelligence.com,A-D,0.0043042498509364,explorador asociado
+cg:beam-2,exp:ethplorer.io,A-D,0.0043042498509364,explorador asociado
+cg:beam-2,exp:bscscan.com,A-D,0.0043042498509364,explorador asociado
+cg:beam-2,exp:binplorer.com,A-D,0.0043042498509364,explorador asociado
+cg:beam-2,exp:avascan.info,A-D,0.0043042498509364,explorador asociado
+cg:beam-2,exp:snowtrace.io,A-D,0.0043042498509364,explorador asociado
+cg:axie-infinity,class:Gaming,A-B,0.0054125980412579,pertenece a categoria
+cg:axie-infinity,exp:etherscan.io,A-D,0.0054125980412579,explorador asociado
+cg:axie-infinity,exp:platform.arkhamintelligence.com,A-D,0.0054125980412579,explorador asociado
+cg:axie-infinity,exp:ethplorer.io,A-D,0.0054125980412579,explorador asociado
+cg:axie-infinity,exp:bscscan.com,A-D,0.0054125980412579,explorador asociado
+cg:axie-infinity,exp:explorer.roninchain.com,A-D,0.0054125980412579,explorador asociado
+cg:axie-infinity,exp:explorer.energi.network,A-D,0.0054125980412579,explorador asociado
+cg:axie-infinity,exp:binplorer.com,A-D,0.0054125980412579,explorador asociado
+cg:axie-infinity,exp:app.roninchain.com,A-D,0.0054125980412579,explorador asociado
+cg:axie-infinity,exp:explorer.harmony.one,A-D,0.0054125980412579,explorador asociado
+cg:ronin,class:Gaming,A-B,0.0022562923949391,pertenece a categoria
+cg:ronin,exp:explorer.roninchain.com,A-D,0.0022562923949391,explorador asociado
+cg:ronin,exp:www.oklink.com,A-D,0.0022562923949391,explorador asociado
+cg:ronin,exp:app.roninchain.com,A-D,0.0022562923949391,explorador asociado
+cg:wemix-token,class:Gaming,A-B,0.0018015653578371,pertenece a categoria
+cg:wemix-token,exp:scan.wemix.com,A-D,0.0018015653578371,explorador asociado
+cg:mocaverse,class:Gaming,A-B,0.0037056769516954,pertenece a categoria
+cg:mocaverse,exp:etherscan.io,A-D,0.0037056769516954,explorador asociado
+cg:mocaverse,exp:platform.arkhamintelligence.com,A-D,0.0037056769516954,explorador asociado
+cg:mocaverse,exp:ethplorer.io,A-D,0.0037056769516954,explorador asociado
+cg:mocaverse,exp:basescan.org,A-D,0.0037056769516954,explorador asociado
+cg:baby-doge-coin,class:Gaming,A-B,0.0029277218615483,pertenece a categoria
+cg:baby-doge-coin,exp:bscscan.com,A-D,0.0029277218615483,explorador asociado
+cg:baby-doge-coin,exp:platform.arkhamintelligence.com,A-D,0.0029277218615483,explorador asociado
+cg:baby-doge-coin,exp:etherscan.io,A-D,0.0029277218615483,explorador asociado
+cg:baby-doge-coin,exp:ethplorer.io,A-D,0.0029277218615483,explorador asociado
+cg:baby-doge-coin,exp:binplorer.com,A-D,0.0029277218615483,explorador asociado
+cg:baby-doge-coin,exp:solscan.io,A-D,0.0029277218615483,explorador asociado
+cg:legacy-token,class:Gaming,A-B,0.0014000732208545,pertenece a categoria
+cg:legacy-token,exp:bscscan.com,A-D,0.0014000732208545,explorador asociado
+cg:legacy-token,exp:platform.arkhamintelligence.com,A-D,0.0014000732208545,explorador asociado
+cg:legacy-token,exp:binplorer.com,A-D,0.0014000732208545,explorador asociado
+cg:legacy-token,exp:basescan.org,A-D,0.0014000732208545,explorador asociado
+cg:legacy-token,exp:etherscan.io,A-D,0.0014000732208545,explorador asociado
+cg:legacy-token,exp:ethplorer.io,A-D,0.0014000732208545,explorador asociado
+cg:gmt-token,class:Gaming,A-B,0.0027719791349746,pertenece a categoria
+cg:gmt-token,exp:etherscan.io,A-D,0.0027719791349746,explorador asociado
+cg:gmt-token,exp:platform.arkhamintelligence.com,A-D,0.0027719791349746,explorador asociado
+cg:gmt-token,exp:ethplorer.io,A-D,0.0027719791349746,explorador asociado
+cg:gmt-token,exp:bscscan.com,A-D,0.0027719791349746,explorador asociado
+cg:gmt-token,exp:binplorer.com,A-D,0.0027719791349746,explorador asociado
+cg:gmt-token,exp:tonscan.org,A-D,0.0027719791349746,explorador asociado
+cg:gmt-token,exp:tonviewer.com,A-D,0.0027719791349746,explorador asociado
+cg:gmt-token,exp:solscan.io,A-D,0.0027719791349746,explorador asociado
+cg:metaplex,class:Gaming,A-B,0.0019655320857161,pertenece a categoria
+cg:metaplex,exp:solscan.io,A-D,0.0019655320857161,explorador asociado
+cg:metaplex,exp:platform.arkhamintelligence.com,A-D,0.0019655320857161,explorador asociado
+cg:metaplex,exp:bscscan.com,A-D,0.0019655320857161,explorador asociado
+cg:metaplex,exp:binplorer.com,A-D,0.0019655320857161,explorador asociado
+cg:notcoin,class:Gaming,A-B,0.0027835899981551,pertenece a categoria
+cg:notcoin,exp:tonscan.org,A-D,0.0027835899981551,explorador asociado
+cg:notcoin,exp:platform.arkhamintelligence.com,A-D,0.0027835899981551,explorador asociado
+cg:notcoin,exp:tonviewer.com,A-D,0.0027835899981551,explorador asociado
+cg:skale,class:Gaming,A-B,0.0057439635376289,pertenece a categoria
+cg:skale,exp:etherscan.io,A-D,0.0057439635376289,explorador asociado
+cg:skale,exp:platform.arkhamintelligence.com,A-D,0.0057439635376289,explorador asociado
+cg:skale,exp:ethplorer.io,A-D,0.0057439635376289,explorador asociado
+cg:skale,exp:elated-tan-skat.explorer.mainnet.skalenodes.com,A-D,0.0057439635376289,explorador asociado
+cg:rollbit-coin,class:Gaming,A-B,0.0003875660082787,pertenece a categoria
+cg:rollbit-coin,exp:etherscan.io,A-D,0.0003875660082787,explorador asociado
+cg:rollbit-coin,exp:platform.arkhamintelligence.com,A-D,0.0003875660082787,explorador asociado
+cg:rollbit-coin,exp:ethplorer.io,A-D,0.0003875660082787,explorador asociado
+cg:rollbit-coin,exp:ethereum.dex.guru,A-D,0.0003875660082787,explorador asociado
+cg:undeads-games,class:Gaming,A-B,0.000513165422863,pertenece a categoria
+cg:undeads-games,exp:etherscan.io,A-D,0.000513165422863,explorador asociado
+cg:undeads-games,exp:platform.arkhamintelligence.com,A-D,0.000513165422863,explorador asociado
+cg:undeads-games,exp:ethplorer.io,A-D,0.000513165422863,explorador asociado
+cg:illuvium,class:Gaming,A-B,0.0018385634444662,pertenece a categoria
+cg:illuvium,exp:etherscan.io,A-D,0.0018385634444662,explorador asociado
+cg:illuvium,exp:platform.arkhamintelligence.com,A-D,0.0018385634444662,explorador asociado
+cg:illuvium,exp:ethplorer.io,A-D,0.0018385634444662,explorador asociado
+cg:illuvium,exp:explorer.energi.network,A-D,0.0018385634444662,explorador asociado
+cg:illuvium,exp:ethereum.dex.guru,A-D,0.0018385634444662,explorador asociado
+cg:stepn,class:Gaming,A-B,0.0025095135511871,pertenece a categoria
+cg:stepn,exp:solscan.io,A-D,0.0025095135511871,explorador asociado
+cg:stepn,exp:platform.arkhamintelligence.com,A-D,0.0025095135511871,explorador asociado
+cg:stepn,exp:bscscan.com,A-D,0.0025095135511871,explorador asociado
+cg:stepn,exp:etherscan.io,A-D,0.0025095135511871,explorador asociado
+cg:stepn,exp:ethplorer.io,A-D,0.0025095135511871,explorador asociado
+cg:stepn,exp:binplorer.com,A-D,0.0025095135511871,explorador asociado
+cg:stepn,exp:polygonscan.com,A-D,0.0025095135511871,explorador asociado
+cg:enjincoin,class:Gaming,A-B,0.001522325683648,pertenece a categoria
+cg:enjincoin,exp:enjin.subscan.io,A-D,0.001522325683648,explorador asociado
+cg:enjincoin,exp:platform.arkhamintelligence.com,A-D,0.001522325683648,explorador asociado
+cg:enjincoin,exp:matrix.subscan.io,A-D,0.001522325683648,explorador asociado
+cg:enjincoin,exp:explorer.energi.network,A-D,0.001522325683648,explorador asociado
+cg:enjincoin,exp:etherscan.io,A-D,0.001522325683648,explorador asociado
+cg:enjincoin,exp:ethplorer.io,A-D,0.001522325683648,explorador asociado
+cg:enjincoin,exp:explorer.harmony.one,A-D,0.001522325683648,explorador asociado
+cg:yield-guild-games,class:Gaming,A-B,0.0030557793456346,pertenece a categoria
+cg:yield-guild-games,exp:etherscan.io,A-D,0.0030557793456346,explorador asociado
+cg:yield-guild-games,exp:platform.arkhamintelligence.com,A-D,0.0030557793456346,explorador asociado
+cg:yield-guild-games,exp:ethplorer.io,A-D,0.0030557793456346,explorador asociado
+cg:yield-guild-games,exp:polygonscan.com,A-D,0.0030557793456346,explorador asociado
+cg:yield-guild-games,exp:app.roninchain.com,A-D,0.0030557793456346,explorador asociado
+cg:yield-guild-games,exp:bscscan.com,A-D,0.0030557793456346,explorador asociado
+cg:yield-guild-games,exp:basescan.org,A-D,0.0030557793456346,explorador asociado
+cg:yield-guild-games,exp:binplorer.com,A-D,0.0030557793456346,explorador asociado
+cg:yield-guild-games,exp:explorer.harmony.one,A-D,0.0030557793456346,explorador asociado
+cg:yield-guild-games,exp:abscan.org,A-D,0.0030557793456346,explorador asociado
+cg:ecomi,class:Gaming,A-B,0.0015133624324923,pertenece a categoria
+cg:ecomi,exp:etherscan.io,A-D,0.0015133624324923,explorador asociado
+cg:ecomi,exp:platform.arkhamintelligence.com,A-D,0.0015133624324923,explorador asociado
+cg:ecomi,exp:ethplorer.io,A-D,0.0015133624324923,explorador asociado
+cg:ecomi,exp:explorer.energi.network,A-D,0.0015133624324923,explorador asociado
+cg:ecomi,exp:basescan.org,A-D,0.0015133624324923,explorador asociado
+cg:bora,class:Gaming,A-B,0.0004110000770622,pertenece a categoria
+cg:bora,exp:kaiascan.io,A-D,0.0004110000770622,explorador asociado
+cg:wilder-world,class:Gaming,A-B,0.0010254707532186,pertenece a categoria
+cg:wilder-world,exp:etherscan.io,A-D,0.0010254707532186,explorador asociado
+cg:wilder-world,exp:platform.arkhamintelligence.com,A-D,0.0010254707532186,explorador asociado
+cg:wilder-world,exp:ethplorer.io,A-D,0.0010254707532186,explorador asociado
+cg:wilder-world,exp:solscan.io,A-D,0.0010254707532186,explorador asociado
+cg:wilder-world,exp:avascan.info,A-D,0.0010254707532186,explorador asociado
+cg:wilder-world,exp:bscscan.com,A-D,0.0010254707532186,explorador asociado
+cg:wilder-world,exp:binplorer.com,A-D,0.0010254707532186,explorador asociado
+cg:wilder-world,exp:snowtrace.io,A-D,0.0010254707532186,explorador asociado
+cg:wilder-world,exp:basescan.org,A-D,0.0010254707532186,explorador asociado
+cg:wilder-world,exp:polygonscan.com,A-D,0.0010254707532186,explorador asociado
+cg:big-time,class:Gaming,A-B,0.001705216754732,pertenece a categoria
+cg:big-time,exp:etherscan.io,A-D,0.001705216754732,explorador asociado
+cg:big-time,exp:platform.arkhamintelligence.com,A-D,0.001705216754732,explorador asociado
+cg:big-time,exp:ethplorer.io,A-D,0.001705216754732,explorador asociado
+cg:echelon-prime,class:Gaming,A-B,0.0006638017015103,pertenece a categoria
+cg:echelon-prime,exp:etherscan.io,A-D,0.0006638017015103,explorador asociado
+cg:echelon-prime,exp:platform.arkhamintelligence.com,A-D,0.0006638017015103,explorador asociado
+cg:echelon-prime,exp:ethplorer.io,A-D,0.0006638017015103,explorador asociado
+cg:echelon-prime,exp:basescan.org,A-D,0.0006638017015103,explorador asociado
+cg:skor-ai,class:Gaming,A-B,6.515637743634957e-05,pertenece a categoria
+cg:skor-ai,exp:solscan.io,A-D,6.515637743634957e-05,explorador asociado
+cg:gama-token,class:Gaming,A-B,0.0002763296923267,pertenece a categoria
+cg:gama-token,exp:xdcscan.com,A-D,0.0002763296923267,explorador asociado
+cg:cross-2,class:Gaming,A-B,0.0009899318213303,pertenece a categoria
+cg:cross-2,exp:bscscan.com,A-D,0.0009899318213303,explorador asociado
+cg:cross-2,exp:binplorer.com,A-D,0.0009899318213303,explorador asociado
+cg:zentry,class:Gaming,A-B,0.0015322657553594,pertenece a categoria
+cg:zentry,exp:etherscan.io,A-D,0.0015322657553594,explorador asociado
+cg:zentry,exp:platform.arkhamintelligence.com,A-D,0.0015322657553594,explorador asociado
+cg:zentry,exp:ethplorer.io,A-D,0.0015322657553594,explorador asociado
+cg:zentry,exp:app.roninchain.com,A-D,0.0015322657553594,explorador asociado
+cg:zentry,exp:basescan.org,A-D,0.0015322657553594,explorador asociado
+cg:zentry,exp:bscscan.com,A-D,0.0015322657553594,explorador asociado
+cg:zentry,exp:binplorer.com,A-D,0.0015322657553594,explorador asociado
+cg:sonic-svm,class:Gaming,A-B,0.0019741825392769,pertenece a categoria
+cg:sonic-svm,exp:solscan.io,A-D,0.0019741825392769,explorador asociado
+cg:sonic-svm,exp:explorer.sonic.game,A-D,0.0019741825392769,explorador asociado
+cg:wax,class:Gaming,A-B,0.0005325123877942,pertenece a categoria
+cg:wax,exp:wax.bloks.io,A-D,0.0005325123877942,explorador asociado
+cg:wax,exp:platform.arkhamintelligence.com,A-D,0.0005325123877942,explorador asociado
+cg:wax,exp:eosauthority.com,A-D,0.0005325123877942,explorador asociado
+cg:wax,exp:etherscan.io,A-D,0.0005325123877942,explorador asociado
+cg:wax,exp:ethplorer.io,A-D,0.0005325123877942,explorador asociado
+cg:wax,exp:waxblock.io,A-D,0.0005325123877942,explorador asociado
+cg:seraph,class:Gaming,A-B,0.0013858209209375,pertenece a categoria
+cg:seraph,exp:bscscan.com,A-D,0.0013858209209375,explorador asociado
+cg:seraph,exp:binplorer.com,A-D,0.0013858209209375,explorador asociado
+cg:seraph,exp:etherscan.io,A-D,0.0013858209209375,explorador asociado
+cg:seraph,exp:ethplorer.io,A-D,0.0013858209209375,explorador asociado
+cg:baby-shark-universe,class:Gaming,A-B,0.0031877562398359,pertenece a categoria
+cg:baby-shark-universe,exp:bscscan.com,A-D,0.0031877562398359,explorador asociado
+cg:baby-shark-universe,exp:binplorer.com,A-D,0.0031877562398359,explorador asociado
+cg:smooth-love-potion,class:Gaming,A-B,0.0008353558907018,pertenece a categoria
+cg:smooth-love-potion,exp:explorer.roninchain.com,A-D,0.0008353558907018,explorador asociado
+cg:smooth-love-potion,exp:platform.arkhamintelligence.com,A-D,0.0008353558907018,explorador asociado
+cg:smooth-love-potion,exp:etherscan.io,A-D,0.0008353558907018,explorador asociado
+cg:smooth-love-potion,exp:ethplorer.io,A-D,0.0008353558907018,explorador asociado
+cg:smooth-love-potion,exp:explorer.energi.network,A-D,0.0008353558907018,explorador asociado
+cg:smooth-love-potion,exp:app.roninchain.com,A-D,0.0008353558907018,explorador asociado
+cg:gamebuild,class:Gaming,A-B,0.0019910316440549,pertenece a categoria
+cg:gamebuild,exp:etherscan.io,A-D,0.0019910316440549,explorador asociado
+cg:gamebuild,exp:platform.arkhamintelligence.com,A-D,0.0019910316440549,explorador asociado
+cg:gamebuild,exp:ethplorer.io,A-D,0.0019910316440549,explorador asociado
+cg:gamebuild,exp:bscscan.com,A-D,0.0019910316440549,explorador asociado
+cg:gamebuild,exp:binplorer.com,A-D,0.0019910316440549,explorador asociado
+cg:xai-blockchain,class:Gaming,A-B,0.0012030914928614,pertenece a categoria
+cg:xai-blockchain,exp:arbiscan.io,A-D,0.0012030914928614,explorador asociado
+cg:xai-blockchain,exp:platform.arkhamintelligence.com,A-D,0.0012030914928614,explorador asociado
+cg:geodnet,class:Gaming,A-B,0.0002041748332728,pertenece a categoria
+cg:geodnet,exp:polygonscan.com,A-D,0.0002041748332728,explorador asociado
+cg:geodnet,exp:platform.arkhamintelligence.com,A-D,0.0002041748332728,explorador asociado
+cg:geodnet,exp:solscan.io,A-D,0.0002041748332728,explorador asociado
+cg:mythos,class:Gaming,A-B,0.0006911769278747,pertenece a categoria
+cg:mythos,exp:etherscan.io,A-D,0.0006911769278747,explorador asociado
+cg:mythos,exp:platform.arkhamintelligence.com,A-D,0.0006911769278747,explorador asociado
+cg:mythos,exp:ethplorer.io,A-D,0.0006911769278747,explorador asociado
+cg:mythos,exp:avascan.info,A-D,0.0006911769278747,explorador asociado
+cg:mythos,exp:basescan.org,A-D,0.0006911769278747,explorador asociado
+cg:mythos,exp:snowtrace.io,A-D,0.0006911769278747,explorador asociado
+cg:deapcoin,class:Gaming,A-B,0.0005880577730502,pertenece a categoria
+cg:deapcoin,exp:etherscan.io,A-D,0.0005880577730502,explorador asociado
+cg:deapcoin,exp:platform.arkhamintelligence.com,A-D,0.0005880577730502,explorador asociado
+cg:deapcoin,exp:ethplorer.io,A-D,0.0005880577730502,explorador asociado
+cg:deapcoin,exp:bscscan.com,A-D,0.0005880577730502,explorador asociado
+cg:deapcoin,exp:snowtrace.io,A-D,0.0005880577730502,explorador asociado
+cg:deapcoin,exp:avascan.info,A-D,0.0005880577730502,explorador asociado
+cg:deapcoin,exp:binplorer.com,A-D,0.0005880577730502,explorador asociado
+cg:deapcoin,exp:solscan.io,A-D,0.0005880577730502,explorador asociado
+cg:oasys,class:Gaming,A-B,0.0004772299229029,pertenece a categoria
+cg:oasys,exp:explorer.oasys.games,A-D,0.0004772299229029,explorador asociado
+cg:unipoly,class:Gaming,A-B,0.0002179576289566,pertenece a categoria
+cg:unipoly,exp:etherscan.io,A-D,0.0002179576289566,explorador asociado
+cg:unipoly,exp:platform.arkhamintelligence.com,A-D,0.0002179576289566,explorador asociado
+cg:unipoly,exp:ethplorer.io,A-D,0.0002179576289566,explorador asociado
+cg:unipoly,exp:elated-tan-skat.explorer.mainnet.skalenodes.com,A-D,0.0002179576289566,explorador asociado
+cg:gods-unchained,class:Gaming,A-B,0.0004332520732549,pertenece a categoria
+cg:gods-unchained,exp:etherscan.io,A-D,0.0004332520732549,explorador asociado
+cg:gods-unchained,exp:platform.arkhamintelligence.com,A-D,0.0004332520732549,explorador asociado
+cg:gods-unchained,exp:ethplorer.io,A-D,0.0004332520732549,explorador asociado
+cg:gods-unchained,exp:explorer.immutable.com,A-D,0.0004332520732549,explorador asociado
+cg:hamster-kombat,class:Gaming,A-B,0.0008752409642067,pertenece a categoria
+cg:hamster-kombat,exp:tonscan.org,A-D,0.0008752409642067,explorador asociado
+cg:hamster-kombat,exp:platform.arkhamintelligence.com,A-D,0.0008752409642067,explorador asociado
+cg:hamster-kombat,exp:tonviewer.com,A-D,0.0008752409642067,explorador asociado
+cg:marblex,class:Gaming,A-B,0.0005811944905832,pertenece a categoria
+cg:marblex,exp:scope.klaytn.com,A-D,0.0005811944905832,explorador asociado
+cg:marblex,exp:platform.arkhamintelligence.com,A-D,0.0005811944905832,explorador asociado
+cg:marblex,exp:bscscan.com,A-D,0.0005811944905832,explorador asociado
+cg:marblex,exp:binplorer.com,A-D,0.0005811944905832,explorador asociado
+cg:marblex,exp:aptscan.ai,A-D,0.0005811944905832,explorador asociado
+cg:marblex,exp:tracemove.io,A-D,0.0005811944905832,explorador asociado
+cg:marblex,exp:kaiascan.io,A-D,0.0005811944905832,explorador asociado
+cg:endurance,class:Gaming,A-B,0.0008898646534618,pertenece a categoria
+cg:endurance,exp:explorer-endurance.fusionist.io,A-D,0.0008898646534618,explorador asociado
+cg:endurance,exp:platform.arkhamintelligence.com,A-D,0.0008898646534618,explorador asociado
+cg:endurance,exp:bscscan.com,A-D,0.0008898646534618,explorador asociado
+cg:endurance,exp:binplorer.com,A-D,0.0008898646534618,explorador asociado
+cg:pepecoin-2,class:Gaming,A-B,0.0001788404737255,pertenece a categoria
+cg:pepecoin-2,exp:etherscan.io,A-D,0.0001788404737255,explorador asociado
+cg:pepecoin-2,exp:platform.arkhamintelligence.com,A-D,0.0001788404737255,explorador asociado
+cg:pepecoin-2,exp:ethplorer.io,A-D,0.0001788404737255,explorador asociado
+cg:pepecoin-2,exp:solscan.io,A-D,0.0001788404737255,explorador asociado
+cg:arena-z,class:Gaming,A-B,0.0009387843470456,pertenece a categoria
+cg:arena-z,exp:etherscan.io,A-D,0.0009387843470456,explorador asociado
+cg:arena-z,exp:ethplorer.io,A-D,0.0009387843470456,explorador asociado
+cg:darkstar,class:Gaming,A-B,0.000125741477011,pertenece a categoria
+cg:darkstar,exp:bscscan.com,A-D,0.000125741477011,explorador asociado
+cg:darkstar,exp:binplorer.com,A-D,0.000125741477011,explorador asociado
+cg:darkstar,exp:kaiascan.io,A-D,0.000125741477011,explorador asociado
+cg:aria-ai,class:Gaming,A-B,0.0005327598232471,pertenece a categoria
+cg:aria-ai,exp:bscscan.com,A-D,0.0005327598232471,explorador asociado
+cg:aria-ai,exp:binplorer.com,A-D,0.0005327598232471,explorador asociado
+cg:ancient8,class:Gaming,A-B,0.0008632768139308,pertenece a categoria
+cg:ancient8,exp:etherscan.io,A-D,0.0008632768139308,explorador asociado
+cg:ancient8,exp:platform.arkhamintelligence.com,A-D,0.0008632768139308,explorador asociado
+cg:ancient8,exp:ethplorer.io,A-D,0.0008632768139308,explorador asociado
+cg:ancient8,exp:scan.ancient8.gg,A-D,0.0008632768139308,explorador asociado
+cg:my-lovely-coin,class:Gaming,A-B,0.0004560890922422,pertenece a categoria
+cg:my-lovely-coin,exp:polygonscan.com,A-D,0.0004560890922422,explorador asociado
+cg:my-lovely-coin,exp:platform.arkhamintelligence.com,A-D,0.0004560890922422,explorador asociado
+cg:world-of-dypians,class:Gaming,A-B,0.0010311455066304,pertenece a categoria
+cg:world-of-dypians,exp:bscscan.com,A-D,0.0010311455066304,explorador asociado
+cg:world-of-dypians,exp:platform.arkhamintelligence.com,A-D,0.0010311455066304,explorador asociado
+cg:world-of-dypians,exp:binplorer.com,A-D,0.0010311455066304,explorador asociado
+cg:my-neighbor-alice,class:Gaming,A-B,0.0017940120353474,pertenece a categoria
+cg:my-neighbor-alice,exp:etherscan.io,A-D,0.0017940120353474,explorador asociado
+cg:my-neighbor-alice,exp:platform.arkhamintelligence.com,A-D,0.0017940120353474,explorador asociado
+cg:my-neighbor-alice,exp:ethplorer.io,A-D,0.0017940120353474,explorador asociado
+cg:my-neighbor-alice,exp:bscscan.com,A-D,0.0017940120353474,explorador asociado
+cg:my-neighbor-alice,exp:binplorer.com,A-D,0.0017940120353474,explorador asociado
+cg:karrat,class:Gaming,A-B,0.0002426702414103,pertenece a categoria
+cg:karrat,exp:etherscan.io,A-D,0.0002426702414103,explorador asociado
+cg:karrat,exp:platform.arkhamintelligence.com,A-D,0.0002426702414103,explorador asociado
+cg:karrat,exp:ethplorer.io,A-D,0.0002426702414103,explorador asociado
+cg:mobox,class:Gaming,A-B,0.0006001755223461,pertenece a categoria
+cg:mobox,exp:bscscan.com,A-D,0.0006001755223461,explorador asociado
+cg:mobox,exp:platform.arkhamintelligence.com,A-D,0.0006001755223461,explorador asociado
+cg:mobox,exp:binplorer.com,A-D,0.0006001755223461,explorador asociado
+cg:mobox,exp:arbiscan.io,A-D,0.0006001755223461,explorador asociado
+cg:unagi-token,class:Gaming,A-B,0.0001621023083918,pertenece a categoria
+cg:unagi-token,exp:etherscan.io,A-D,0.0001621023083918,explorador asociado
+cg:unagi-token,exp:platform.arkhamintelligence.com,A-D,0.0001621023083918,explorador asociado
+cg:unagi-token,exp:ethplorer.io,A-D,0.0001621023083918,explorador asociado
+cg:unagi-token,exp:bscscan.com,A-D,0.0001621023083918,explorador asociado
+cg:unagi-token,exp:binplorer.com,A-D,0.0001621023083918,explorador asociado
+cg:unagi-token,exp:polygonscan.com,A-D,0.0001621023083918,explorador asociado
+cg:unagi-token,exp:basescan.org,A-D,0.0001621023083918,explorador asociado
+cg:overtake,class:Gaming,A-B,0.0020348838566919,pertenece a categoria
+cg:overtake,exp:bscscan.com,A-D,0.0020348838566919,explorador asociado
+cg:overtake,exp:binplorer.com,A-D,0.0020348838566919,explorador asociado
+cg:overtake,exp:suiscan.xyz,A-D,0.0020348838566919,explorador asociado
+cg:overtake,exp:suivision.xyz,A-D,0.0020348838566919,explorador asociado
+cg:yooldo-games,class:Gaming,A-B,0.0007794424197636,pertenece a categoria
+cg:yooldo-games,exp:bscscan.com,A-D,0.0007794424197636,explorador asociado
+cg:yooldo-games,exp:binplorer.com,A-D,0.0007794424197636,explorador asociado
+cg:hooked-protocol,class:Gaming,A-B,0.000899632915451,pertenece a categoria
+cg:hooked-protocol,exp:bscscan.com,A-D,0.000899632915451,explorador asociado
+cg:hooked-protocol,exp:platform.arkhamintelligence.com,A-D,0.000899632915451,explorador asociado
+cg:hooked-protocol,exp:binplorer.com,A-D,0.000899632915451,explorador asociado
+cg:xpla,class:Gaming,A-B,4.529563649831528e-05,pertenece a categoria
+cg:xpla,exp:explorer.xpla.io,A-D,4.529563649831528e-05,explorador asociado
+cg:xpla,exp:www.mintscan.io,A-D,4.529563649831528e-05,explorador asociado
+cg:sharp-token,class:Gaming,A-B,6.933460792733419e-05,pertenece a categoria
+cg:sharp-token,exp:polygonscan.com,A-D,6.933460792733419e-05,explorador asociado
+cg:gunz,class:Gaming,A-B,0.0007134468902254,pertenece a categoria
+cg:gunz,exp:gunzscan.io,A-D,0.0007134468902254,explorador asociado
+cg:gunz,exp:avascan.info,A-D,0.0007134468902254,explorador asociado
+cg:gunz,exp:solscan.io,A-D,0.0007134468902254,explorador asociado
+cg:gunz,exp:snowtrace.io,A-D,0.0007134468902254,explorador asociado
+cg:alien-worlds,class:Gaming,A-B,0.0006632051230872,pertenece a categoria
+cg:alien-worlds,exp:etherscan.io,A-D,0.0006632051230872,explorador asociado
+cg:alien-worlds,exp:platform.arkhamintelligence.com,A-D,0.0006632051230872,explorador asociado
+cg:alien-worlds,exp:ethplorer.io,A-D,0.0006632051230872,explorador asociado
+cg:alien-worlds,exp:bscscan.com,A-D,0.0006632051230872,explorador asociado
+cg:alien-worlds,exp:binplorer.com,A-D,0.0006632051230872,explorador asociado
+cg:alien-worlds,exp:wax.bloks.io,A-D,0.0006632051230872,explorador asociado
+cg:alien-worlds,exp:waxblock.io,A-D,0.0006632051230872,explorador asociado
+cg:scout-protocol-token,class:Gaming,A-B,1.8425142272691624e-05,pertenece a categoria
+cg:scout-protocol-token,exp:basescan.org,A-D,1.8425142272691624e-05,explorador asociado
+cg:freestyle-classic,class:Gaming,A-B,0.0006957534944787,pertenece a categoria
+cg:freestyle-classic,exp:bscscan.com,A-D,0.0006957534944787,explorador asociado
+cg:freestyle-classic,exp:binplorer.com,A-D,0.0006957534944787,explorador asociado
+cg:vulcan-forged,class:Gaming,A-B,0.0006793173595708,pertenece a categoria
+cg:vulcan-forged,exp:etherscan.io,A-D,0.0006793173595708,explorador asociado
+cg:vulcan-forged,exp:platform.arkhamintelligence.com,A-D,0.0006793173595708,explorador asociado
+cg:vulcan-forged,exp:ethplorer.io,A-D,0.0006793173595708,explorador asociado
+cg:vulcan-forged,exp:polygonscan.com,A-D,0.0006793173595708,explorador asociado
+cg:vulcan-forged,exp:polygon.dex.guru,A-D,0.0006793173595708,explorador asociado
+cg:radio-caca,class:Gaming,A-B,0.0006285134749306,pertenece a categoria
+cg:radio-caca,exp:bscscan.com,A-D,0.0006285134749306,explorador asociado
+cg:radio-caca,exp:platform.arkhamintelligence.com,A-D,0.0006285134749306,explorador asociado
+cg:radio-caca,exp:etherscan.io,A-D,0.0006285134749306,explorador asociado
+cg:radio-caca,exp:ethplorer.io,A-D,0.0006285134749306,explorador asociado
+cg:radio-caca,exp:www.oklink.com,A-D,0.0006285134749306,explorador asociado
+cg:radio-caca,exp:binplorer.com,A-D,0.0006285134749306,explorador asociado
+cg:eggle-energy,class:Gaming,A-B,1.9806795789472997e-05,pertenece a categoria
+cg:eggle-energy,exp:basescan.org,A-D,1.9806795789472997e-05,explorador asociado
+cg:incrypt,class:Gaming,A-B,7.729647860428033e-05,pertenece a categoria
+cg:incrypt,exp:explorer.solana.com,A-D,7.729647860428033e-05,explorador asociado
+cg:incrypt,exp:solscan.io,A-D,7.729647860428033e-05,explorador asociado
+cg:open-loot,class:Gaming,A-B,0.0002660108967217,pertenece a categoria
+cg:open-loot,exp:etherscan.io,A-D,0.0002660108967217,explorador asociado
+cg:open-loot,exp:ethplorer.io,A-D,0.0002660108967217,explorador asociado
+cg:open-loot,exp:bscscan.com,A-D,0.0002660108967217,explorador asociado
+cg:open-loot,exp:binplorer.com,A-D,0.0002660108967217,explorador asociado
+cg:portal-2,class:Gaming,A-B,0.0006961269137988,pertenece a categoria
+cg:portal-2,exp:etherscan.io,A-D,0.0006961269137988,explorador asociado
+cg:portal-2,exp:platform.arkhamintelligence.com,A-D,0.0006961269137988,explorador asociado
+cg:portal-2,exp:ethplorer.io,A-D,0.0006961269137988,explorador asociado
+cg:portal-2,exp:solscan.io,A-D,0.0006961269137988,explorador asociado
+cg:edu3games,class:Gaming,A-B,2.4515420061183194e-06,pertenece a categoria
+cg:edu3games,exp:solscan.io,A-D,2.4515420061183194e-06,explorador asociado
+cg:ix-token,class:Gaming,A-B,9.005130636575013e-05,pertenece a categoria
+cg:ix-token,exp:polygonscan.com,A-D,9.005130636575013e-05,explorador asociado
+cg:ix-token,exp:platform.arkhamintelligence.com,A-D,9.005130636575013e-05,explorador asociado
+cg:ix-token,exp:polygon.dex.guru,A-D,9.005130636575013e-05,explorador asociado
+cg:vice-2,class:Gaming,A-B,7.847612522396723e-05,pertenece a categoria
+cg:vice-2,exp:etherscan.io,A-D,7.847612522396723e-05,explorador asociado
+cg:vice-2,exp:ethplorer.io,A-D,7.847612522396723e-05,explorador asociado
+cg:pixels,class:Gaming,A-B,0.0007858975061554,pertenece a categoria
+cg:pixels,exp:etherscan.io,A-D,0.0007858975061554,explorador asociado
+cg:pixels,exp:platform.arkhamintelligence.com,A-D,0.0007858975061554,explorador asociado
+cg:pixels,exp:ethplorer.io,A-D,0.0007858975061554,explorador asociado
+cg:pixels,exp:app.roninchain.com,A-D,0.0007858975061554,explorador asociado
+cg:aavegotchi,class:Gaming,A-B,0.0003442168059554,pertenece a categoria
+cg:aavegotchi,exp:etherscan.io,A-D,0.0003442168059554,explorador asociado
+cg:aavegotchi,exp:platform.arkhamintelligence.com,A-D,0.0003442168059554,explorador asociado
+cg:aavegotchi,exp:ethplorer.io,A-D,0.0003442168059554,explorador asociado
+cg:aavegotchi,exp:polygonscan.com,A-D,0.0003442168059554,explorador asociado
+cg:aavegotchi,exp:explorer.energi.network,A-D,0.0003442168059554,explorador asociado
+cg:aavegotchi,exp:polygon.dex.guru,A-D,0.0003442168059554,explorador asociado
+cg:aavegotchi,exp:basescan.org,A-D,0.0003442168059554,explorador asociado
+cg:cross-the-ages,class:Gaming,A-B,0.0002441608741444,pertenece a categoria
+cg:cross-the-ages,exp:etherscan.io,A-D,0.0002441608741444,explorador asociado
+cg:cross-the-ages,exp:platform.arkhamintelligence.com,A-D,0.0002441608741444,explorador asociado
+cg:cross-the-ages,exp:ethplorer.io,A-D,0.0002441608741444,explorador asociado
+cg:cross-the-ages,exp:solscan.io,A-D,0.0002441608741444,explorador asociado
+cg:dar-open-network,class:Gaming,A-B,0.0002964370506988,pertenece a categoria
+cg:dar-open-network,exp:etherscan.io,A-D,0.0002964370506988,explorador asociado
+cg:dar-open-network,exp:ethplorer.io,A-D,0.0002964370506988,explorador asociado
+cg:dar-open-network,exp:bscscan.com,A-D,0.0002964370506988,explorador asociado
+cg:dar-open-network,exp:binplorer.com,A-D,0.0002964370506988,explorador asociado
+cg:star-atlas-dao,class:Gaming,A-B,0.0001092884569464,pertenece a categoria
+cg:star-atlas-dao,exp:solscan.io,A-D,0.0001092884569464,explorador asociado
+cg:star-atlas-dao,exp:platform.arkhamintelligence.com,A-D,0.0001092884569464,explorador asociado
+cg:star-atlas-dao,exp:explorer.solana.com,A-D,0.0001092884569464,explorador asociado
+cg:games-for-a-living,class:Gaming,A-B,9.97921621421867e-05,pertenece a categoria
+cg:games-for-a-living,exp:bscscan.com,A-D,9.97921621421867e-05,explorador asociado
+cg:games-for-a-living,exp:platform.arkhamintelligence.com,A-D,9.97921621421867e-05,explorador asociado
+cg:games-for-a-living,exp:binplorer.com,A-D,9.97921621421867e-05,explorador asociado
+cg:games-for-a-living,exp:bnb.dex.guru,A-D,9.97921621421867e-05,explorador asociado
+cg:myria,class:Gaming,A-B,0.0002331066796205,pertenece a categoria
+cg:myria,exp:etherscan.io,A-D,0.0002331066796205,explorador asociado
+cg:myria,exp:platform.arkhamintelligence.com,A-D,0.0002331066796205,explorador asociado
+cg:myria,exp:ethplorer.io,A-D,0.0002331066796205,explorador asociado
+cg:crown-by-third-time-games,class:Gaming,A-B,4.285693372016129e-05,pertenece a categoria
+cg:crown-by-third-time-games,exp:solscan.io,A-D,4.285693372016129e-05,explorador asociado
+cg:crown-by-third-time-games,exp:platform.arkhamintelligence.com,A-D,4.285693372016129e-05,explorador asociado
+cg:ready,class:Gaming,A-B,0.0001054028895559,pertenece a categoria
+cg:ready,exp:solscan.io,A-D,0.0001054028895559,explorador asociado
+cg:metacade,class:Gaming,A-B,0.0002139062304461,pertenece a categoria
+cg:metacade,exp:basescan.org,A-D,0.0002139062304461,explorador asociado
+cg:metacade,exp:platform.arkhamintelligence.com,A-D,0.0002139062304461,explorador asociado
+cg:catizen,class:Gaming,A-B,0.0005290934250196,pertenece a categoria
+cg:catizen,exp:tonscan.org,A-D,0.0005290934250196,explorador asociado
+cg:catizen,exp:platform.arkhamintelligence.com,A-D,0.0005290934250196,explorador asociado
+cg:catizen,exp:tonviewer.com,A-D,0.0005290934250196,explorador asociado
+cg:ark-of-panda,class:Gaming,A-B,0.0014475205068719,pertenece a categoria
+cg:ark-of-panda,exp:bscscan.com,A-D,0.0014475205068719,explorador asociado
+cg:ark-of-panda,exp:binplorer.com,A-D,0.0014475205068719,explorador asociado
+cg:star-atlas,class:Gaming,A-B,0.0002062803109678,pertenece a categoria
+cg:star-atlas,exp:solscan.io,A-D,0.0002062803109678,explorador asociado
+cg:star-atlas,exp:platform.arkhamintelligence.com,A-D,0.0002062803109678,explorador asociado
+cg:star-atlas,exp:explorer.solana.com,A-D,0.0002062803109678,explorador asociado
+cg:sweatcoin,class:Gaming,A-B,0.0005655933481961,pertenece a categoria
+cg:sweatcoin,exp:etherscan.io,A-D,0.0005655933481961,explorador asociado
+cg:sweatcoin,exp:platform.arkhamintelligence.com,A-D,0.0005655933481961,explorador asociado
+cg:sweatcoin,exp:ethplorer.io,A-D,0.0005655933481961,explorador asociado
+cg:sweatcoin,exp:nearblocks.io,A-D,0.0005655933481961,explorador asociado
+cg:sweatcoin,exp:solscan.io,A-D,0.0005655933481961,explorador asociado
+cg:sweatcoin,exp:explorer.celo.org,A-D,0.0005655933481961,explorador asociado
+cg:sweatcoin,exp:bscscan.com,A-D,0.0005655933481961,explorador asociado
+cg:sweatcoin,exp:binplorer.com,A-D,0.0005655933481961,explorador asociado
+cg:sweatcoin,exp:basescan.org,A-D,0.0005655933481961,explorador asociado
+cg:sweatcoin,exp:aptscan.ai,A-D,0.0005655933481961,explorador asociado
+cg:wemix-dollar,class:Gaming,A-B,6.28492994132328e-05,pertenece a categoria
+cg:wemix-dollar,exp:explorer.wemix.com,A-D,6.28492994132328e-05,explorador asociado
+cg:verse-world,class:Gaming,A-B,0.0004052616758661,pertenece a categoria
+cg:verse-world,exp:solscan.io,A-D,0.0004052616758661,explorador asociado
+cg:seedify-fund,class:Gaming,A-B,0.0002268210870979,pertenece a categoria
+cg:seedify-fund,exp:bscscan.com,A-D,0.0002268210870979,explorador asociado
+cg:seedify-fund,exp:platform.arkhamintelligence.com,A-D,0.0002268210870979,explorador asociado
+cg:seedify-fund,exp:binplorer.com,A-D,0.0002268210870979,explorador asociado
+cg:seedify-fund,exp:arbiscan.io,A-D,0.0002268210870979,explorador asociado
+cg:seedify-fund,exp:etherscan.io,A-D,0.0002268210870979,explorador asociado
+cg:seedify-fund,exp:ethplorer.io,A-D,0.0002268210870979,explorador asociado
+cg:portals,class:Gaming,A-B,0.0029217440304159,pertenece a categoria
+cg:portals,exp:solscan.io,A-D,0.0029217440304159,explorador asociado
+cg:powersnookercoin,class:Gaming,A-B,8.563678092466463e-07,pertenece a categoria
+cg:powersnookercoin,exp:basescan.org,A-D,8.563678092466463e-07,explorador asociado
+cg:xborg,class:Gaming,A-B,0.0001108540026124,pertenece a categoria
+cg:xborg,exp:etherscan.io,A-D,0.0001108540026124,explorador asociado
+cg:xborg,exp:platform.arkhamintelligence.com,A-D,0.0001108540026124,explorador asociado
+cg:xborg,exp:ethplorer.io,A-D,0.0001108540026124,explorador asociado
+cg:xborg,exp:solscan.io,A-D,0.0001108540026124,explorador asociado
+cg:xborg,exp:arbiscan.io,A-D,0.0001108540026124,explorador asociado
+cg:cornucopias,class:Gaming,A-B,0.0001023148793165,pertenece a categoria
+cg:cornucopias,exp:bscscan.com,A-D,0.0001023148793165,explorador asociado
+cg:cornucopias,exp:platform.arkhamintelligence.com,A-D,0.0001023148793165,explorador asociado
+cg:cornucopias,exp:etherscan.io,A-D,0.0001023148793165,explorador asociado
+cg:cornucopias,exp:ethplorer.io,A-D,0.0001023148793165,explorador asociado
+cg:cornucopias,exp:cardanoscan.io,A-D,0.0001023148793165,explorador asociado
+cg:cornucopias,exp:binplorer.com,A-D,0.0001023148793165,explorador asociado
+cg:cornucopias,exp:basescan.org,A-D,0.0001023148793165,explorador asociado
+cg:playsout,class:Gaming,A-B,0.0002613913959398,pertenece a categoria
+cg:playsout,exp:basescan.org,A-D,0.0002613913959398,explorador asociado
+cg:playsout,exp:bscscan.com,A-D,0.0002613913959398,explorador asociado
+cg:playsout,exp:binplorer.com,A-D,0.0002613913959398,explorador asociado
+cg:ultra,class:Gaming,A-B,0.000306559535589,pertenece a categoria
+cg:ultra,exp:etherscan.io,A-D,0.000306559535589,explorador asociado
+cg:ultra,exp:platform.arkhamintelligence.com,A-D,0.000306559535589,explorador asociado
+cg:ultra,exp:ethplorer.io,A-D,0.000306559535589,explorador asociado
+cg:moonveil,class:Gaming,A-B,0.0005398546332237,pertenece a categoria
+cg:moonveil,exp:bscscan.com,A-D,0.0005398546332237,explorador asociado
+cg:moonveil,exp:binplorer.com,A-D,0.0005398546332237,explorador asociado
+cg:memefi-2,class:Gaming,A-B,0.0005398662859701,pertenece a categoria
+cg:memefi-2,exp:suiscan.xyz,A-D,0.0005398662859701,explorador asociado
+cg:memefi-2,exp:suivision.xyz,A-D,0.0005398662859701,explorador asociado
+cg:gamefi,class:Gaming,A-B,0.0001383950942045,pertenece a categoria
+cg:gamefi,exp:bscscan.com,A-D,0.0001383950942045,explorador asociado
+cg:gamefi,exp:platform.arkhamintelligence.com,A-D,0.0001383950942045,explorador asociado
+cg:gamefi,exp:binplorer.com,A-D,0.0001383950942045,explorador asociado
+cg:freya-by-virtuals,class:Gaming,A-B,6.302508274652517e-05,pertenece a categoria
+cg:freya-by-virtuals,exp:solscan.io,A-D,6.302508274652517e-05,explorador asociado
+cg:voxies,class:Gaming,A-B,0.000752439797754,pertenece a categoria
+cg:voxies,exp:polygonscan.com,A-D,0.000752439797754,explorador asociado
+cg:voxies,exp:platform.arkhamintelligence.com,A-D,0.000752439797754,explorador asociado
+cg:voxies,exp:polygon.dex.guru,A-D,0.000752439797754,explorador asociado
+cg:sappy-seals-pixl,class:Gaming,A-B,1.929396510973458e-05,pertenece a categoria
+cg:sappy-seals-pixl,exp:etherscan.io,A-D,1.929396510973458e-05,explorador asociado
+cg:sappy-seals-pixl,exp:platform.arkhamintelligence.com,A-D,1.929396510973458e-05,explorador asociado
+cg:sappy-seals-pixl,exp:ethplorer.io,A-D,1.929396510973458e-05,explorador asociado
+cg:numine-token,class:Gaming,A-B,0.0006469154547155,pertenece a categoria
+cg:numine-token,exp:etherscan.io,A-D,0.0006469154547155,explorador asociado
+cg:numine-token,exp:snowtrace.io,A-D,0.0006469154547155,explorador asociado
+cg:numine-token,exp:subnets.avax.network,A-D,0.0006469154547155,explorador asociado
+cg:numine-token,exp:ethplorer.io,A-D,0.0006469154547155,explorador asociado
+cg:numine-token,exp:avascan.info,A-D,0.0006469154547155,explorador asociado
+cg:numine-token,exp:bscscan.com,A-D,0.0006469154547155,explorador asociado
+cg:numine-token,exp:binplorer.com,A-D,0.0006469154547155,explorador asociado
+cg:nakamoto-games,class:Gaming,A-B,0.0004696851223768,pertenece a categoria
+cg:nakamoto-games,exp:polygonscan.com,A-D,0.0004696851223768,explorador asociado
+cg:nakamoto-games,exp:platform.arkhamintelligence.com,A-D,0.0004696851223768,explorador asociado
+cg:nakamoto-games,exp:polygon.dex.guru,A-D,0.0004696851223768,explorador asociado
+cg:balance,class:Gaming,A-B,0.0004248368826479,pertenece a categoria
+cg:balance,exp:bscscan.com,A-D,0.0004248368826479,explorador asociado
+cg:balance,exp:binplorer.com,A-D,0.0004248368826479,explorador asociado
+cg:otherworld,class:Gaming,A-B,2.389485420620713e-05,pertenece a categoria
+cg:otherworld,exp:etherscan.io,A-D,2.389485420620713e-05,explorador asociado
+cg:otherworld,exp:platform.arkhamintelligence.com,A-D,2.389485420620713e-05,explorador asociado
+cg:otherworld,exp:ethplorer.io,A-D,2.389485420620713e-05,explorador asociado
+cg:saito,class:Gaming,A-B,3.627346148074868e-05,pertenece a categoria
+cg:saito,exp:etherscan.io,A-D,3.627346148074868e-05,explorador asociado
+cg:saito,exp:platform.arkhamintelligence.com,A-D,3.627346148074868e-05,explorador asociado
+cg:saito,exp:ethplorer.io,A-D,3.627346148074868e-05,explorador asociado
+cg:saito,exp:bscscan.com,A-D,3.627346148074868e-05,explorador asociado
+cg:saito,exp:binplorer.com,A-D,3.627346148074868e-05,explorador asociado
+cg:blood-crystal,class:Gaming,A-B,2.5557025690663565e-05,pertenece a categoria
+cg:blood-crystal,exp:etherscan.io,A-D,2.5557025690663565e-05,explorador asociado
+cg:blood-crystal,exp:platform.arkhamintelligence.com,A-D,2.5557025690663565e-05,explorador asociado
+cg:blood-crystal,exp:polygonscan.com,A-D,2.5557025690663565e-05,explorador asociado
+cg:blood-crystal,exp:ethplorer.io,A-D,2.5557025690663565e-05,explorador asociado
+cg:ultiverse,class:Gaming,A-B,0.0002383690927024,pertenece a categoria
+cg:ultiverse,exp:bscscan.com,A-D,0.0002383690927024,explorador asociado
+cg:ultiverse,exp:platform.arkhamintelligence.com,A-D,0.0002383690927024,explorador asociado
+cg:ultiverse,exp:binplorer.com,A-D,0.0002383690927024,explorador asociado
+cg:ultiverse,exp:etherscan.io,A-D,0.0002383690927024,explorador asociado
+cg:ultiverse,exp:ethplorer.io,A-D,0.0002383690927024,explorador asociado
+cg:tiktrix,class:Gaming,A-B,0.0001181461560953,pertenece a categoria
+cg:tiktrix,exp:etherscan.io,A-D,0.0001181461560953,explorador asociado
+cg:tiktrix,exp:ethplorer.io,A-D,0.0001181461560953,explorador asociado
+cg:playa3ull-games-2,class:Gaming,A-B,0.0001602321164866,pertenece a categoria
+cg:playa3ull-games-2,exp:snowtrace.io,A-D,0.0001602321164866,explorador asociado
+cg:playa3ull-games-2,exp:platform.arkhamintelligence.com,A-D,0.0001602321164866,explorador asociado
+cg:playa3ull-games-2,exp:explorer.playa3ull.games,A-D,0.0001602321164866,explorador asociado
+cg:playa3ull-games-2,exp:avascan.info,A-D,0.0001602321164866,explorador asociado
+cg:aurory,class:Gaming,A-B,1.1071754226263765e-05,pertenece a categoria
+cg:aurory,exp:solscan.io,A-D,1.1071754226263765e-05,explorador asociado
+cg:aurory,exp:platform.arkhamintelligence.com,A-D,1.1071754226263765e-05,explorador asociado
+cg:aurory,exp:arbiscan.io,A-D,1.1071754226263765e-05,explorador asociado
+cg:volt-inu-2,class:Gaming,A-B,8.232413978244776e-05,pertenece a categoria
+cg:volt-inu-2,exp:etherscan.io,A-D,8.232413978244776e-05,explorador asociado
+cg:volt-inu-2,exp:platform.arkhamintelligence.com,A-D,8.232413978244776e-05,explorador asociado
+cg:volt-inu-2,exp:ethplorer.io,A-D,8.232413978244776e-05,explorador asociado
+cg:volt-inu-2,exp:bscscan.com,A-D,8.232413978244776e-05,explorador asociado
+cg:volt-inu-2,exp:polygonscan.com,A-D,8.232413978244776e-05,explorador asociado
+cg:volt-inu-2,exp:binplorer.com,A-D,8.232413978244776e-05,explorador asociado
+cg:metahero,class:Gaming,A-B,3.076969409304808e-05,pertenece a categoria
+cg:metahero,exp:bscscan.com,A-D,3.076969409304808e-05,explorador asociado
+cg:metahero,exp:platform.arkhamintelligence.com,A-D,3.076969409304808e-05,explorador asociado
+cg:metahero,exp:binplorer.com,A-D,3.076969409304808e-05,explorador asociado
+cg:hatch-2,class:Gaming,A-B,2.8267765027810533e-05,pertenece a categoria
+cg:hatch-2,exp:bscscan.com,A-D,2.8267765027810533e-05,explorador asociado
+cg:hatch-2,exp:binplorer.com,A-D,2.8267765027810533e-05,explorador asociado
+cg:chain-games,class:Gaming,A-B,2.167588544439357e-05,pertenece a categoria
+cg:chain-games,exp:etherscan.io,A-D,2.167588544439357e-05,explorador asociado
+cg:chain-games,exp:platform.arkhamintelligence.com,A-D,2.167588544439357e-05,explorador asociado
+cg:chain-games,exp:ethplorer.io,A-D,2.167588544439357e-05,explorador asociado
+cg:chain-games,exp:polygonscan.com,A-D,2.167588544439357e-05,explorador asociado
+cg:chain-games,exp:bscscan.com,A-D,2.167588544439357e-05,explorador asociado
+cg:chain-games,exp:binplorer.com,A-D,2.167588544439357e-05,explorador asociado
+cg:chain-games,exp:explorer.harmony.one,A-D,2.167588544439357e-05,explorador asociado
+cg:hyperchainx,class:Gaming,A-B,3.385183124712559e-05,pertenece a categoria
+cg:hyperchainx,exp:bscscan.com,A-D,3.385183124712559e-05,explorador asociado
+cg:hyperchainx,exp:binplorer.com,A-D,3.385183124712559e-05,explorador asociado
+cg:catecoin,class:Gaming,A-B,0.0002703128293867,pertenece a categoria
+cg:catecoin,exp:bscscan.com,A-D,0.0002703128293867,explorador asociado
+cg:catecoin,exp:platform.arkhamintelligence.com,A-D,0.0002703128293867,explorador asociado
+cg:catecoin,exp:binplorer.com,A-D,0.0002703128293867,explorador asociado
+cg:catecoin,exp:etherscan.io,A-D,0.0002703128293867,explorador asociado
+cg:catecoin,exp:ethplorer.io,A-D,0.0002703128293867,explorador asociado
+cg:catecoin,exp:basescan.org,A-D,0.0002703128293867,explorador asociado
+cg:miracle-play,class:Gaming,A-B,9.9285868472728e-05,pertenece a categoria
+cg:miracle-play,exp:polygonscan.com,A-D,9.9285868472728e-05,explorador asociado
+cg:miracle-play,exp:platform.arkhamintelligence.com,A-D,9.9285868472728e-05,explorador asociado
+cg:miracle-play,exp:avascan.info,A-D,9.9285868472728e-05,explorador asociado
+cg:miracle-play,exp:opbnb.bscscan.com,A-D,9.9285868472728e-05,explorador asociado
+cg:miracle-play,exp:mainnet.opbnbscan.com,A-D,9.9285868472728e-05,explorador asociado
+cg:miracle-play,exp:basescan.org,A-D,9.9285868472728e-05,explorador asociado
+cg:miracle-play,exp:arbiscan.io,A-D,9.9285868472728e-05,explorador asociado
+cg:miracle-play,exp:explorer.xpla.io,A-D,9.9285868472728e-05,explorador asociado
+cg:miracle-play,exp:bscscan.com,A-D,9.9285868472728e-05,explorador asociado
+cg:mon-protocol,class:Gaming,A-B,0.0001850890221689,pertenece a categoria
+cg:mon-protocol,exp:etherscan.io,A-D,0.0001850890221689,explorador asociado
+cg:mon-protocol,exp:platform.arkhamintelligence.com,A-D,0.0001850890221689,explorador asociado
+cg:mon-protocol,exp:ethplorer.io,A-D,0.0001850890221689,explorador asociado
+cg:upland,class:Gaming,A-B,8.071614823828165e-05,pertenece a categoria
+cg:upland,exp:etherscan.io,A-D,8.071614823828165e-05,explorador asociado
+cg:upland,exp:platform.arkhamintelligence.com,A-D,8.071614823828165e-05,explorador asociado
+cg:upland,exp:ethplorer.io,A-D,8.071614823828165e-05,explorador asociado
+cg:league-of-kingdoms,class:Gaming,A-B,2.690121045757528e-05,pertenece a categoria
+cg:league-of-kingdoms,exp:etherscan.io,A-D,2.690121045757528e-05,explorador asociado
+cg:league-of-kingdoms,exp:platform.arkhamintelligence.com,A-D,2.690121045757528e-05,explorador asociado
+cg:league-of-kingdoms,exp:ethplorer.io,A-D,2.690121045757528e-05,explorador asociado
+cg:sovrun,class:Gaming,A-B,3.875811563170153e-05,pertenece a categoria
+cg:sovrun,exp:etherscan.io,A-D,3.875811563170153e-05,explorador asociado
+cg:sovrun,exp:ethplorer.io,A-D,3.875811563170153e-05,explorador asociado
+cg:sovrun,exp:basescan.org,A-D,3.875811563170153e-05,explorador asociado
+cg:sovrun,exp:app.hyperliquid.xyz,A-D,3.875811563170153e-05,explorador asociado
+cg:sovrun,exp:hypurrscan.io,A-D,3.875811563170153e-05,explorador asociado
+cg:space-nation-oikos,class:Gaming,A-B,9.5768561454319e-05,pertenece a categoria
+cg:space-nation-oikos,exp:etherscan.io,A-D,9.5768561454319e-05,explorador asociado
+cg:space-nation-oikos,exp:ethplorer.io,A-D,9.5768561454319e-05,explorador asociado
+cg:space-nation-oikos,exp:bscscan.com,A-D,9.5768561454319e-05,explorador asociado
+cg:space-nation-oikos,exp:binplorer.com,A-D,9.5768561454319e-05,explorador asociado
+cg:space-nation-oikos,exp:explorer.immutable.com,A-D,9.5768561454319e-05,explorador asociado
+cg:von,class:Gaming,A-B,5.315521298099425e-05,pertenece a categoria
+cg:von,exp:bscscan.com,A-D,5.315521298099425e-05,explorador asociado
+cg:von,exp:binplorer.com,A-D,5.315521298099425e-05,explorador asociado
+cg:the-big-five,class:Gaming,A-B,0.0001213332290202,pertenece a categoria
+cg:the-big-five,exp:bscscan.com,A-D,0.0001213332290202,explorador asociado
+cg:the-big-five,exp:platform.arkhamintelligence.com,A-D,0.0001213332290202,explorador asociado
+cg:the-big-five,exp:binplorer.com,A-D,0.0001213332290202,explorador asociado
+cg:near,cex:azbit,A-C,0.1473821019443479,listado en CEX
+cg:near,cex:biconomy,A-C,0.1473821019443479,listado en CEX
+cg:near,cex:binance,A-C,0.1473821019443479,listado en CEX
+cg:near,cex:binance_us,A-C,0.1473821019443479,listado en CEX
+cg:near,cex:bingx,A-C,0.1473821019443479,listado en CEX
+cg:near,cex:bit2me,A-C,0.1473821019443479,listado en CEX
+cg:near,cex:bitazza,A-C,0.1473821019443479,listado en CEX
+cg:near,cex:bitcastle,A-C,0.1473821019443479,listado en CEX
+cg:near,cex:bitcoin_com,A-C,0.1473821019443479,listado en CEX
+cg:near,cex:bitcointry_exchange,A-C,0.1473821019443479,listado en CEX
+cg:near,cex:bitdelta,A-C,0.1473821019443479,listado en CEX
+cg:near,cex:bitfinex,A-C,0.1473821019443479,listado en CEX
+cg:near,cex:bitget,A-C,0.1473821019443479,listado en CEX
+cg:near,cex:bitkan,A-C,0.1473821019443479,listado en CEX
+cg:near,cex:bitkub,A-C,0.1473821019443479,listado en CEX
+cg:near,cex:bitmart,A-C,0.1473821019443479,listado en CEX
+cg:near,cex:bitmax,A-C,0.1473821019443479,listado en CEX
+cg:near,cex:bitrue,A-C,0.1473821019443479,listado en CEX
+cg:near,cex:bitstamp,A-C,0.1473821019443479,listado en CEX
+cg:near,cex:bittime,A-C,0.1473821019443479,listado en CEX
+cg:near,cex:bitunix,A-C,0.1473821019443479,listado en CEX
+cg:near,cex:bitvavo,A-C,0.1473821019443479,listado en CEX
+cg:near,cex:bitvenus_spot,A-C,0.1473821019443479,listado en CEX
+cg:near,cex:blofin_spot,A-C,0.1473821019443479,listado en CEX
+cg:near,cex:btse,A-C,0.1473821019443479,listado en CEX
+cg:near,cex:bullish_com,A-C,0.1473821019443479,listado en CEX
+cg:near,cex:bybit_spot,A-C,0.1473821019443479,listado en CEX
+cg:near,cex:bydfi,A-C,0.1473821019443479,listado en CEX
+cg:near,cex:cex,A-C,0.1473821019443479,listado en CEX
+cg:near,cex:coin_metro,A-C,0.1473821019443479,listado en CEX
+cg:near,cex:coincatch,A-C,0.1473821019443479,listado en CEX
+cg:near,cex:coinex,A-C,0.1473821019443479,listado en CEX
+cg:near,cex:cointr,A-C,0.1473821019443479,listado en CEX
+cg:near,cex:coinup,A-C,0.1473821019443479,listado en CEX
+cg:near,cex:coinw,A-C,0.1473821019443479,listado en CEX
+cg:near,cex:crypto_com,A-C,0.1473821019443479,listado en CEX
+cg:near,cex:cryptology,A-C,0.1473821019443479,listado en CEX
+cg:near,cex:deepcoin,A-C,0.1473821019443479,listado en CEX
+cg:near,cex:dextrade,A-C,0.1473821019443479,listado en CEX
+cg:near,cex:digifinex,A-C,0.1473821019443479,listado en CEX
+cg:near,cex:exmo,A-C,0.1473821019443479,listado en CEX
+cg:near,cex:fameex,A-C,0.1473821019443479,listado en CEX
+cg:near,cex:gate,A-C,0.1473821019443479,listado en CEX
+cg:near,cex:gdax,A-C,0.1473821019443479,listado en CEX
+cg:near,cex:hibt,A-C,0.1473821019443479,listado en CEX
+cg:near,cex:hotcoin_global,A-C,0.1473821019443479,listado en CEX
+cg:near,cex:huobi,A-C,0.1473821019443479,listado en CEX
+cg:near,cex:icrypex,A-C,0.1473821019443479,listado en CEX
+cg:near,cex:kcex,A-C,0.1473821019443479,listado en CEX
+cg:near,cex:kraken,A-C,0.1473821019443479,listado en CEX
+cg:near,cex:kucoin,A-C,0.1473821019443479,listado en CEX
+cg:near,cex:latoken,A-C,0.1473821019443479,listado en CEX
+cg:near,cex:lbank,A-C,0.1473821019443479,listado en CEX
+cg:near,cex:mxc,A-C,0.1473821019443479,listado en CEX
+cg:near,cex:nami_exchange,A-C,0.1473821019443479,listado en CEX
+cg:near,cex:okex,A-C,0.1473821019443479,listado en CEX
+cg:near,cex:ourbit,A-C,0.1473821019443479,listado en CEX
+cg:near,cex:phemex,A-C,0.1473821019443479,listado en CEX
+cg:near,cex:pionex,A-C,0.1473821019443479,listado en CEX
+cg:near,cex:pointpay,A-C,0.1473821019443479,listado en CEX
+cg:near,cex:poloniex,A-C,0.1473821019443479,listado en CEX
+cg:near,cex:qmall,A-C,0.1473821019443479,listado en CEX
+cg:near,cex:tapbit,A-C,0.1473821019443479,listado en CEX
+cg:near,cex:toko_crypto,A-C,0.1473821019443479,listado en CEX
+cg:near,cex:toobit,A-C,0.1473821019443479,listado en CEX
+cg:near,cex:trubit,A-C,0.1473821019443479,listado en CEX
+cg:near,cex:uniswap_v3,A-C,0.1473821019443479,listado en CEX
+cg:near,cex:weex,A-C,0.1473821019443479,listado en CEX
+cg:near,cex:whitebit,A-C,0.1473821019443479,listado en CEX
+cg:near,cex:wootrade,A-C,0.1473821019443479,listado en CEX
+cg:near,cex:xbo_com,A-C,0.1473821019443479,listado en CEX
+cg:near,cex:xt,A-C,0.1473821019443479,listado en CEX
+cg:bittensor,cex:binance,A-C,0.0865935369448218,listado en CEX
+cg:bittensor,cex:bingx,A-C,0.0865935369448218,listado en CEX
+cg:bittensor,cex:bit2me,A-C,0.0865935369448218,listado en CEX
+cg:bittensor,cex:bitget,A-C,0.0865935369448218,listado en CEX
+cg:bittensor,cex:bithumb,A-C,0.0865935369448218,listado en CEX
+cg:bittensor,cex:bitkan,A-C,0.0865935369448218,listado en CEX
+cg:bittensor,cex:bitlo,A-C,0.0865935369448218,listado en CEX
+cg:bittensor,cex:bitmart,A-C,0.0865935369448218,listado en CEX
+cg:bittensor,cex:bitrue,A-C,0.0865935369448218,listado en CEX
+cg:bittensor,cex:bittime,A-C,0.0865935369448218,listado en CEX
+cg:bittensor,cex:bitvavo,A-C,0.0865935369448218,listado en CEX
+cg:bittensor,cex:btcc,A-C,0.0865935369448218,listado en CEX
+cg:bittensor,cex:coincatch,A-C,0.0865935369448218,listado en CEX
+cg:bittensor,cex:coinex,A-C,0.0865935369448218,listado en CEX
+cg:bittensor,cex:cointr,A-C,0.0865935369448218,listado en CEX
+cg:bittensor,cex:crypto_com,A-C,0.0865935369448218,listado en CEX
+cg:bittensor,cex:cube,A-C,0.0865935369448218,listado en CEX
+cg:bittensor,cex:digifinex,A-C,0.0865935369448218,listado en CEX
+cg:bittensor,cex:gate,A-C,0.0865935369448218,listado en CEX
+cg:bittensor,cex:gdax,A-C,0.0865935369448218,listado en CEX
+cg:bittensor,cex:hibt,A-C,0.0865935369448218,listado en CEX
+cg:bittensor,cex:hotcoin_global,A-C,0.0865935369448218,listado en CEX
+cg:bittensor,cex:korbit,A-C,0.0865935369448218,listado en CEX
+cg:bittensor,cex:kraken,A-C,0.0865935369448218,listado en CEX
+cg:bittensor,cex:kucoin,A-C,0.0865935369448218,listado en CEX
+cg:bittensor,cex:lbank,A-C,0.0865935369448218,listado en CEX
+cg:bittensor,cex:mercado_bitcoin,A-C,0.0865935369448218,listado en CEX
+cg:bittensor,cex:mudrex,A-C,0.0865935369448218,listado en CEX
+cg:bittensor,cex:mxc,A-C,0.0865935369448218,listado en CEX
+cg:bittensor,cex:nami_exchange,A-C,0.0865935369448218,listado en CEX
+cg:bittensor,cex:novadax,A-C,0.0865935369448218,listado en CEX
+cg:bittensor,cex:ourbit,A-C,0.0865935369448218,listado en CEX
+cg:bittensor,cex:phemex,A-C,0.0865935369448218,listado en CEX
+cg:bittensor,cex:pionex,A-C,0.0865935369448218,listado en CEX
+cg:bittensor,cex:tapbit,A-C,0.0865935369448218,listado en CEX
+cg:bittensor,cex:toko_crypto,A-C,0.0865935369448218,listado en CEX
+cg:bittensor,cex:weex,A-C,0.0865935369448218,listado en CEX
+cg:bittensor,cex:whitebit,A-C,0.0865935369448218,listado en CEX
+cg:bittensor,cex:xbo_com,A-C,0.0865935369448218,listado en CEX
+cg:bittensor,cex:xt,A-C,0.0865935369448218,listado en CEX
+cg:bittensor,cex:young-platform,A-C,0.0865935369448218,listado en CEX
+cg:story-2,cex:bingx,A-C,0.1512197580119026,listado en CEX
+cg:story-2,cex:bitget,A-C,0.1512197580119026,listado en CEX
+cg:story-2,cex:bithumb,A-C,0.1512197580119026,listado en CEX
+cg:story-2,cex:bitkan,A-C,0.1512197580119026,listado en CEX
+cg:story-2,cex:bitmart,A-C,0.1512197580119026,listado en CEX
+cg:story-2,cex:bitrue,A-C,0.1512197580119026,listado en CEX
+cg:story-2,cex:bitvavo,A-C,0.1512197580119026,listado en CEX
+cg:story-2,cex:blofin_spot,A-C,0.1512197580119026,listado en CEX
+cg:story-2,cex:bybit_spot,A-C,0.1512197580119026,listado en CEX
+cg:story-2,cex:cex,A-C,0.1512197580119026,listado en CEX
+cg:story-2,cex:coindcx,A-C,0.1512197580119026,listado en CEX
+cg:story-2,cex:coinex,A-C,0.1512197580119026,listado en CEX
+cg:story-2,cex:coinone,A-C,0.1512197580119026,listado en CEX
+cg:story-2,cex:coinup,A-C,0.1512197580119026,listado en CEX
+cg:story-2,cex:coinw,A-C,0.1512197580119026,listado en CEX
+cg:story-2,cex:crypto_com,A-C,0.1512197580119026,listado en CEX
+cg:story-2,cex:digifinex,A-C,0.1512197580119026,listado en CEX
+cg:story-2,cex:gate,A-C,0.1512197580119026,listado en CEX
+cg:story-2,cex:gdax,A-C,0.1512197580119026,listado en CEX
+cg:story-2,cex:hotcoin_global,A-C,0.1512197580119026,listado en CEX
+cg:story-2,cex:huobi,A-C,0.1512197580119026,listado en CEX
+cg:story-2,cex:koinpark,A-C,0.1512197580119026,listado en CEX
+cg:story-2,cex:kraken,A-C,0.1512197580119026,listado en CEX
+cg:story-2,cex:kucoin,A-C,0.1512197580119026,listado en CEX
+cg:story-2,cex:lbank,A-C,0.1512197580119026,listado en CEX
+cg:story-2,cex:mxc,A-C,0.1512197580119026,listado en CEX
+cg:story-2,cex:novadax,A-C,0.1512197580119026,listado en CEX
+cg:story-2,cex:okex,A-C,0.1512197580119026,listado en CEX
+cg:story-2,cex:ourbit,A-C,0.1512197580119026,listado en CEX
+cg:story-2,cex:phemex,A-C,0.1512197580119026,listado en CEX
+cg:story-2,cex:tapbit,A-C,0.1512197580119026,listado en CEX
+cg:story-2,cex:upbit,A-C,0.1512197580119026,listado en CEX
+cg:story-2,cex:weex,A-C,0.1512197580119026,listado en CEX
+cg:story-2,cex:xbo_com,A-C,0.1512197580119026,listado en CEX
+cg:story-2,cex:xt,A-C,0.1512197580119026,listado en CEX
+cg:internet-computer,cex:aerodrome-slipstream,A-C,0.0598589563533476,listado en CEX
+cg:internet-computer,cex:biconomy,A-C,0.0598589563533476,listado en CEX
+cg:internet-computer,cex:bigone,A-C,0.0598589563533476,listado en CEX
+cg:internet-computer,cex:binance,A-C,0.0598589563533476,listado en CEX
+cg:internet-computer,cex:binance_us,A-C,0.0598589563533476,listado en CEX
+cg:internet-computer,cex:bingx,A-C,0.0598589563533476,listado en CEX
+cg:internet-computer,cex:bit2me,A-C,0.0598589563533476,listado en CEX
+cg:internet-computer,cex:bitfinex,A-C,0.0598589563533476,listado en CEX
+cg:internet-computer,cex:bitget,A-C,0.0598589563533476,listado en CEX
+cg:internet-computer,cex:bitkan,A-C,0.0598589563533476,listado en CEX
+cg:internet-computer,cex:bitlo,A-C,0.0598589563533476,listado en CEX
+cg:internet-computer,cex:bitmart,A-C,0.0598589563533476,listado en CEX
+cg:internet-computer,cex:bitmax,A-C,0.0598589563533476,listado en CEX
+cg:internet-computer,cex:bitrue,A-C,0.0598589563533476,listado en CEX
+cg:internet-computer,cex:bittime,A-C,0.0598589563533476,listado en CEX
+cg:internet-computer,cex:bitvavo,A-C,0.0598589563533476,listado en CEX
+cg:internet-computer,cex:blofin_spot,A-C,0.0598589563533476,listado en CEX
+cg:internet-computer,cex:bybit_spot,A-C,0.0598589563533476,listado en CEX
+cg:internet-computer,cex:bydfi,A-C,0.0598589563533476,listado en CEX
+cg:internet-computer,cex:cex,A-C,0.0598589563533476,listado en CEX
+cg:internet-computer,cex:coincatch,A-C,0.0598589563533476,listado en CEX
+cg:internet-computer,cex:coinex,A-C,0.0598589563533476,listado en CEX
+cg:internet-computer,cex:coinstore,A-C,0.0598589563533476,listado en CEX
+cg:internet-computer,cex:cointr,A-C,0.0598589563533476,listado en CEX
+cg:internet-computer,cex:coinup,A-C,0.0598589563533476,listado en CEX
+cg:internet-computer,cex:coinw,A-C,0.0598589563533476,listado en CEX
+cg:internet-computer,cex:crypto_com,A-C,0.0598589563533476,listado en CEX
+cg:internet-computer,cex:deepcoin,A-C,0.0598589563533476,listado en CEX
+cg:internet-computer,cex:digifinex,A-C,0.0598589563533476,listado en CEX
+cg:internet-computer,cex:gate,A-C,0.0598589563533476,listado en CEX
+cg:internet-computer,cex:gdax,A-C,0.0598589563533476,listado en CEX
+cg:internet-computer,cex:grovex,A-C,0.0598589563533476,listado en CEX
+cg:internet-computer,cex:hibt,A-C,0.0598589563533476,listado en CEX
+cg:internet-computer,cex:hotcoin_global,A-C,0.0598589563533476,listado en CEX
+cg:internet-computer,cex:huobi,A-C,0.0598589563533476,listado en CEX
+cg:internet-computer,cex:icpswap,A-C,0.0598589563533476,listado en CEX
+cg:internet-computer,cex:kcex,A-C,0.0598589563533476,listado en CEX
+cg:internet-computer,cex:kraken,A-C,0.0598589563533476,listado en CEX
+cg:internet-computer,cex:kucoin,A-C,0.0598589563533476,listado en CEX
+cg:internet-computer,cex:latoken,A-C,0.0598589563533476,listado en CEX
+cg:internet-computer,cex:lbank,A-C,0.0598589563533476,listado en CEX
+cg:internet-computer,cex:mercado_bitcoin,A-C,0.0598589563533476,listado en CEX
+cg:internet-computer,cex:mxc,A-C,0.0598589563533476,listado en CEX
+cg:internet-computer,cex:nami_exchange,A-C,0.0598589563533476,listado en CEX
+cg:internet-computer,cex:okex,A-C,0.0598589563533476,listado en CEX
+cg:internet-computer,cex:phemex,A-C,0.0598589563533476,listado en CEX
+cg:internet-computer,cex:pionex,A-C,0.0598589563533476,listado en CEX
+cg:internet-computer,cex:poloniex,A-C,0.0598589563533476,listado en CEX
+cg:internet-computer,cex:tapbit,A-C,0.0598589563533476,listado en CEX
+cg:internet-computer,cex:toko_crypto,A-C,0.0598589563533476,listado en CEX
+cg:internet-computer,cex:toobit,A-C,0.0598589563533476,listado en CEX
+cg:internet-computer,cex:uniswap_v3,A-C,0.0598589563533476,listado en CEX
+cg:internet-computer,cex:weex,A-C,0.0598589563533476,listado en CEX
+cg:internet-computer,cex:whitebit,A-C,0.0598589563533476,listado en CEX
+cg:internet-computer,cex:wootrade,A-C,0.0598589563533476,listado en CEX
+cg:internet-computer,cex:xbo_com,A-C,0.0598589563533476,listado en CEX
+cg:internet-computer,cex:xt,A-C,0.0598589563533476,listado en CEX
+cg:render-token,cex:arkham,A-C,0.0591275796263915,listado en CEX
+cg:render-token,cex:biconomy,A-C,0.0591275796263915,listado en CEX
+cg:render-token,cex:binance,A-C,0.0591275796263915,listado en CEX
+cg:render-token,cex:bingx,A-C,0.0591275796263915,listado en CEX
+cg:render-token,cex:bit2me,A-C,0.0591275796263915,listado en CEX
+cg:render-token,cex:bitazza,A-C,0.0591275796263915,listado en CEX
+cg:render-token,cex:bitbank,A-C,0.0591275796263915,listado en CEX
+cg:render-token,cex:bitcastle,A-C,0.0591275796263915,listado en CEX
+cg:render-token,cex:bitdelta,A-C,0.0591275796263915,listado en CEX
+cg:render-token,cex:bitget,A-C,0.0591275796263915,listado en CEX
+cg:render-token,cex:bithumb,A-C,0.0591275796263915,listado en CEX
+cg:render-token,cex:bitkan,A-C,0.0591275796263915,listado en CEX
+cg:render-token,cex:bitmart,A-C,0.0591275796263915,listado en CEX
+cg:render-token,cex:bitmax,A-C,0.0591275796263915,listado en CEX
+cg:render-token,cex:bitrue,A-C,0.0591275796263915,listado en CEX
+cg:render-token,cex:bitso,A-C,0.0591275796263915,listado en CEX
+cg:render-token,cex:bittime,A-C,0.0591275796263915,listado en CEX
+cg:render-token,cex:bitunix,A-C,0.0591275796263915,listado en CEX
+cg:render-token,cex:bitvavo,A-C,0.0591275796263915,listado en CEX
+cg:render-token,cex:bitvenus_spot,A-C,0.0591275796263915,listado en CEX
+cg:render-token,cex:blofin_spot,A-C,0.0591275796263915,listado en CEX
+cg:render-token,cex:bybit_spot,A-C,0.0591275796263915,listado en CEX
+cg:render-token,cex:bydfi,A-C,0.0591275796263915,listado en CEX
+cg:render-token,cex:cex,A-C,0.0591275796263915,listado en CEX
+cg:render-token,cex:coincatch,A-C,0.0591275796263915,listado en CEX
+cg:render-token,cex:coinex,A-C,0.0591275796263915,listado en CEX
+cg:render-token,cex:cointr,A-C,0.0591275796263915,listado en CEX
+cg:render-token,cex:coinup,A-C,0.0591275796263915,listado en CEX
+cg:render-token,cex:coinw,A-C,0.0591275796263915,listado en CEX
+cg:render-token,cex:crypto_com,A-C,0.0591275796263915,listado en CEX
+cg:render-token,cex:deepcoin,A-C,0.0591275796263915,listado en CEX
+cg:render-token,cex:dextrade,A-C,0.0591275796263915,listado en CEX
+cg:render-token,cex:digifinex,A-C,0.0591275796263915,listado en CEX
+cg:render-token,cex:exmo,A-C,0.0591275796263915,listado en CEX
+cg:render-token,cex:fameex,A-C,0.0591275796263915,listado en CEX
+cg:render-token,cex:foxbit,A-C,0.0591275796263915,listado en CEX
+cg:render-token,cex:gate,A-C,0.0591275796263915,listado en CEX
+cg:render-token,cex:gdax,A-C,0.0591275796263915,listado en CEX
+cg:render-token,cex:gemini,A-C,0.0591275796263915,listado en CEX
+cg:render-token,cex:hibt,A-C,0.0591275796263915,listado en CEX
+cg:render-token,cex:hotcoin_global,A-C,0.0591275796263915,listado en CEX
+cg:render-token,cex:huobi,A-C,0.0591275796263915,listado en CEX
+cg:render-token,cex:icrypex,A-C,0.0591275796263915,listado en CEX
+cg:render-token,cex:kcex,A-C,0.0591275796263915,listado en CEX
+cg:render-token,cex:kraken,A-C,0.0591275796263915,listado en CEX
+cg:render-token,cex:kucoin,A-C,0.0591275796263915,listado en CEX
+cg:render-token,cex:lbank,A-C,0.0591275796263915,listado en CEX
+cg:render-token,cex:lcx,A-C,0.0591275796263915,listado en CEX
+cg:render-token,cex:meteora,A-C,0.0591275796263915,listado en CEX
+cg:render-token,cex:mxc,A-C,0.0591275796263915,listado en CEX
+cg:render-token,cex:nami_exchange,A-C,0.0591275796263915,listado en CEX
+cg:render-token,cex:okex,A-C,0.0591275796263915,listado en CEX
+cg:render-token,cex:orangex,A-C,0.0591275796263915,listado en CEX
+cg:render-token,cex:orca,A-C,0.0591275796263915,listado en CEX
+cg:render-token,cex:ourbit,A-C,0.0591275796263915,listado en CEX
+cg:render-token,cex:pancakeswap-v3-solana,A-C,0.0591275796263915,listado en CEX
+cg:render-token,cex:phemex,A-C,0.0591275796263915,listado en CEX
+cg:render-token,cex:pointpay,A-C,0.0591275796263915,listado en CEX
+cg:render-token,cex:raydium-clmm,A-C,0.0591275796263915,listado en CEX
+cg:render-token,cex:tapbit,A-C,0.0591275796263915,listado en CEX
+cg:render-token,cex:toko_crypto,A-C,0.0591275796263915,listado en CEX
+cg:render-token,cex:toobit,A-C,0.0591275796263915,listado en CEX
+cg:render-token,cex:uniswap-v4-ethereum,A-C,0.0591275796263915,listado en CEX
+cg:render-token,cex:uniswap_v3,A-C,0.0591275796263915,listado en CEX
+cg:render-token,cex:upbit,A-C,0.0591275796263915,listado en CEX
+cg:render-token,cex:weex,A-C,0.0591275796263915,listado en CEX
+cg:render-token,cex:whitebit,A-C,0.0591275796263915,listado en CEX
+cg:render-token,cex:wootrade,A-C,0.0591275796263915,listado en CEX
+cg:render-token,cex:xbo_com,A-C,0.0591275796263915,listado en CEX
+cg:render-token,cex:xt,A-C,0.0591275796263915,listado en CEX
+cg:render-token,cex:zoomex,A-C,0.0591275796263915,listado en CEX
+cg:immutable-x,cex:biconomy,A-C,0.0523898439083771,listado en CEX
+cg:immutable-x,cex:binance,A-C,0.0523898439083771,listado en CEX
+cg:immutable-x,cex:binance_us,A-C,0.0523898439083771,listado en CEX
+cg:immutable-x,cex:bingx,A-C,0.0523898439083771,listado en CEX
+cg:immutable-x,cex:bit2me,A-C,0.0523898439083771,listado en CEX
+cg:immutable-x,cex:bitazza,A-C,0.0523898439083771,listado en CEX
+cg:immutable-x,cex:bitbank,A-C,0.0523898439083771,listado en CEX
+cg:immutable-x,cex:bitcastle,A-C,0.0523898439083771,listado en CEX
+cg:immutable-x,cex:bitdelta,A-C,0.0523898439083771,listado en CEX
+cg:immutable-x,cex:bitget,A-C,0.0523898439083771,listado en CEX
+cg:immutable-x,cex:bitkan,A-C,0.0523898439083771,listado en CEX
+cg:immutable-x,cex:bitkub,A-C,0.0523898439083771,listado en CEX
+cg:immutable-x,cex:bitlo,A-C,0.0523898439083771,listado en CEX
+cg:immutable-x,cex:bitmart,A-C,0.0523898439083771,listado en CEX
+cg:immutable-x,cex:bitmax,A-C,0.0523898439083771,listado en CEX
+cg:immutable-x,cex:bitrue,A-C,0.0523898439083771,listado en CEX
+cg:immutable-x,cex:bittime,A-C,0.0523898439083771,listado en CEX
+cg:immutable-x,cex:bitunix,A-C,0.0523898439083771,listado en CEX
+cg:immutable-x,cex:bitvavo,A-C,0.0523898439083771,listado en CEX
+cg:immutable-x,cex:blofin_spot,A-C,0.0523898439083771,listado en CEX
+cg:immutable-x,cex:btse,A-C,0.0523898439083771,listado en CEX
+cg:immutable-x,cex:bybit_spot,A-C,0.0523898439083771,listado en CEX
+cg:immutable-x,cex:cex,A-C,0.0523898439083771,listado en CEX
+cg:immutable-x,cex:coincheck,A-C,0.0523898439083771,listado en CEX
+cg:immutable-x,cex:coinex,A-C,0.0523898439083771,listado en CEX
+cg:immutable-x,cex:coinone,A-C,0.0523898439083771,listado en CEX
+cg:immutable-x,cex:coinspro,A-C,0.0523898439083771,listado en CEX
+cg:immutable-x,cex:cointr,A-C,0.0523898439083771,listado en CEX
+cg:immutable-x,cex:coinup,A-C,0.0523898439083771,listado en CEX
+cg:immutable-x,cex:coinw,A-C,0.0523898439083771,listado en CEX
+cg:immutable-x,cex:crypto_com,A-C,0.0523898439083771,listado en CEX
+cg:immutable-x,cex:cryptology,A-C,0.0523898439083771,listado en CEX
+cg:immutable-x,cex:deepcoin,A-C,0.0523898439083771,listado en CEX
+cg:immutable-x,cex:digifinex,A-C,0.0523898439083771,listado en CEX
+cg:immutable-x,cex:earnbit,A-C,0.0523898439083771,listado en CEX
+cg:immutable-x,cex:fameex,A-C,0.0523898439083771,listado en CEX
+cg:immutable-x,cex:foxbit,A-C,0.0523898439083771,listado en CEX
+cg:immutable-x,cex:gate,A-C,0.0523898439083771,listado en CEX
+cg:immutable-x,cex:gdax,A-C,0.0523898439083771,listado en CEX
+cg:immutable-x,cex:gemini,A-C,0.0523898439083771,listado en CEX
+cg:immutable-x,cex:grovex,A-C,0.0523898439083771,listado en CEX
+cg:immutable-x,cex:hashkey_exchange,A-C,0.0523898439083771,listado en CEX
+cg:immutable-x,cex:hibt,A-C,0.0523898439083771,listado en CEX
+cg:immutable-x,cex:hotcoin_global,A-C,0.0523898439083771,listado en CEX
+cg:immutable-x,cex:huobi,A-C,0.0523898439083771,listado en CEX
+cg:immutable-x,cex:icrypex,A-C,0.0523898439083771,listado en CEX
+cg:immutable-x,cex:kanga,A-C,0.0523898439083771,listado en CEX
+cg:immutable-x,cex:kcex,A-C,0.0523898439083771,listado en CEX
+cg:immutable-x,cex:kraken,A-C,0.0523898439083771,listado en CEX
+cg:immutable-x,cex:kucoin,A-C,0.0523898439083771,listado en CEX
+cg:immutable-x,cex:latoken,A-C,0.0523898439083771,listado en CEX
+cg:immutable-x,cex:lbank,A-C,0.0523898439083771,listado en CEX
+cg:immutable-x,cex:lcx,A-C,0.0523898439083771,listado en CEX
+cg:immutable-x,cex:mercado_bitcoin,A-C,0.0523898439083771,listado en CEX
+cg:immutable-x,cex:mxc,A-C,0.0523898439083771,listado en CEX
+cg:immutable-x,cex:nami_exchange,A-C,0.0523898439083771,listado en CEX
+cg:immutable-x,cex:niza-global,A-C,0.0523898439083771,listado en CEX
+cg:immutable-x,cex:nonkyc_io,A-C,0.0523898439083771,listado en CEX
+cg:immutable-x,cex:okex,A-C,0.0523898439083771,listado en CEX
+cg:immutable-x,cex:orangex,A-C,0.0523898439083771,listado en CEX
+cg:immutable-x,cex:p2pb2b,A-C,0.0523898439083771,listado en CEX
+cg:immutable-x,cex:phemex,A-C,0.0523898439083771,listado en CEX
+cg:immutable-x,cex:pionex,A-C,0.0523898439083771,listado en CEX
+cg:immutable-x,cex:pointpay,A-C,0.0523898439083771,listado en CEX
+cg:immutable-x,cex:probit,A-C,0.0523898439083771,listado en CEX
+cg:immutable-x,cex:qmall,A-C,0.0523898439083771,listado en CEX
+cg:immutable-x,cex:secondbtc,A-C,0.0523898439083771,listado en CEX
+cg:immutable-x,cex:slex,A-C,0.0523898439083771,listado en CEX
+cg:immutable-x,cex:sushiswap,A-C,0.0523898439083771,listado en CEX
+cg:immutable-x,cex:tapbit,A-C,0.0523898439083771,listado en CEX
+cg:immutable-x,cex:toko_crypto,A-C,0.0523898439083771,listado en CEX
+cg:immutable-x,cex:toobit,A-C,0.0523898439083771,listado en CEX
+cg:immutable-x,cex:trubit,A-C,0.0523898439083771,listado en CEX
+cg:immutable-x,cex:uniswap_v2,A-C,0.0523898439083771,listado en CEX
+cg:immutable-x,cex:uniswap_v3,A-C,0.0523898439083771,listado en CEX
+cg:immutable-x,cex:websea,A-C,0.0523898439083771,listado en CEX
+cg:immutable-x,cex:weex,A-C,0.0523898439083771,listado en CEX
+cg:immutable-x,cex:whitebit,A-C,0.0523898439083771,listado en CEX
+cg:immutable-x,cex:wootrade,A-C,0.0523898439083771,listado en CEX
+cg:immutable-x,cex:xbo_com,A-C,0.0523898439083771,listado en CEX
+cg:immutable-x,cex:xt,A-C,0.0523898439083771,listado en CEX
+cg:immutable-x,cex:young-platform,A-C,0.0523898439083771,listado en CEX
+cg:immutable-x,cex:zoomex,A-C,0.0523898439083771,listado en CEX
+cg:fetch-ai,cex:arkham,A-C,0.0569999373243165,listado en CEX
+cg:fetch-ai,cex:biconomy,A-C,0.0569999373243165,listado en CEX
+cg:fetch-ai,cex:binance,A-C,0.0569999373243165,listado en CEX
+cg:fetch-ai,cex:bingx,A-C,0.0569999373243165,listado en CEX
+cg:fetch-ai,cex:bitazza,A-C,0.0569999373243165,listado en CEX
+cg:fetch-ai,cex:bitcastle,A-C,0.0569999373243165,listado en CEX
+cg:fetch-ai,cex:bitdelta,A-C,0.0569999373243165,listado en CEX
+cg:fetch-ai,cex:bitfinex,A-C,0.0569999373243165,listado en CEX
+cg:fetch-ai,cex:bitget,A-C,0.0569999373243165,listado en CEX
+cg:fetch-ai,cex:bitkan,A-C,0.0569999373243165,listado en CEX
+cg:fetch-ai,cex:bitmart,A-C,0.0569999373243165,listado en CEX
+cg:fetch-ai,cex:bitmax,A-C,0.0569999373243165,listado en CEX
+cg:fetch-ai,cex:bitrue,A-C,0.0569999373243165,listado en CEX
+cg:fetch-ai,cex:bitso,A-C,0.0569999373243165,listado en CEX
+cg:fetch-ai,cex:bitstamp,A-C,0.0569999373243165,listado en CEX
+cg:fetch-ai,cex:bittime,A-C,0.0569999373243165,listado en CEX
+cg:fetch-ai,cex:bitunix,A-C,0.0569999373243165,listado en CEX
+cg:fetch-ai,cex:bitvavo,A-C,0.0569999373243165,listado en CEX
+cg:fetch-ai,cex:bitvenus_spot,A-C,0.0569999373243165,listado en CEX
+cg:fetch-ai,cex:blofin_spot,A-C,0.0569999373243165,listado en CEX
+cg:fetch-ai,cex:btse,A-C,0.0569999373243165,listado en CEX
+cg:fetch-ai,cex:bybit_spot,A-C,0.0569999373243165,listado en CEX
+cg:fetch-ai,cex:bydfi,A-C,0.0569999373243165,listado en CEX
+cg:fetch-ai,cex:cex,A-C,0.0569999373243165,listado en CEX
+cg:fetch-ai,cex:coincatch,A-C,0.0569999373243165,listado en CEX
+cg:fetch-ai,cex:coinex,A-C,0.0569999373243165,listado en CEX
+cg:fetch-ai,cex:coinstore,A-C,0.0569999373243165,listado en CEX
+cg:fetch-ai,cex:cointr,A-C,0.0569999373243165,listado en CEX
+cg:fetch-ai,cex:coinup,A-C,0.0569999373243165,listado en CEX
+cg:fetch-ai,cex:coinw,A-C,0.0569999373243165,listado en CEX
+cg:fetch-ai,cex:crypto_com,A-C,0.0569999373243165,listado en CEX
+cg:fetch-ai,cex:deepcoin,A-C,0.0569999373243165,listado en CEX
+cg:fetch-ai,cex:dextrade,A-C,0.0569999373243165,listado en CEX
+cg:fetch-ai,cex:digifinex,A-C,0.0569999373243165,listado en CEX
+cg:fetch-ai,cex:fameex,A-C,0.0569999373243165,listado en CEX
+cg:fetch-ai,cex:gate,A-C,0.0569999373243165,listado en CEX
+cg:fetch-ai,cex:gdax,A-C,0.0569999373243165,listado en CEX
+cg:fetch-ai,cex:gemini,A-C,0.0569999373243165,listado en CEX
+cg:fetch-ai,cex:grovex,A-C,0.0569999373243165,listado en CEX
+cg:fetch-ai,cex:hibt,A-C,0.0569999373243165,listado en CEX
+cg:fetch-ai,cex:hotcoin_global,A-C,0.0569999373243165,listado en CEX
+cg:fetch-ai,cex:huobi,A-C,0.0569999373243165,listado en CEX
+cg:fetch-ai,cex:kcex,A-C,0.0569999373243165,listado en CEX
+cg:fetch-ai,cex:kraken,A-C,0.0569999373243165,listado en CEX
+cg:fetch-ai,cex:kucoin,A-C,0.0569999373243165,listado en CEX
+cg:fetch-ai,cex:latoken,A-C,0.0569999373243165,listado en CEX
+cg:fetch-ai,cex:lbank,A-C,0.0569999373243165,listado en CEX
+cg:fetch-ai,cex:lcx,A-C,0.0569999373243165,listado en CEX
+cg:fetch-ai,cex:mxc,A-C,0.0569999373243165,listado en CEX
+cg:fetch-ai,cex:nami_exchange,A-C,0.0569999373243165,listado en CEX
+cg:fetch-ai,cex:okex,A-C,0.0569999373243165,listado en CEX
+cg:fetch-ai,cex:orangex,A-C,0.0569999373243165,listado en CEX
+cg:fetch-ai,cex:ourbit,A-C,0.0569999373243165,listado en CEX
+cg:fetch-ai,cex:pancakeswap-v3-bsc,A-C,0.0569999373243165,listado en CEX
+cg:fetch-ai,cex:pancakeswap_new,A-C,0.0569999373243165,listado en CEX
+cg:fetch-ai,cex:phemex,A-C,0.0569999373243165,listado en CEX
+cg:fetch-ai,cex:pionex,A-C,0.0569999373243165,listado en CEX
+cg:fetch-ai,cex:pointpay,A-C,0.0569999373243165,listado en CEX
+cg:fetch-ai,cex:slex,A-C,0.0569999373243165,listado en CEX
+cg:fetch-ai,cex:tapbit,A-C,0.0569999373243165,listado en CEX
+cg:fetch-ai,cex:toko_crypto,A-C,0.0569999373243165,listado en CEX
+cg:fetch-ai,cex:toobit,A-C,0.0569999373243165,listado en CEX
+cg:fetch-ai,cex:trubit,A-C,0.0569999373243165,listado en CEX
+cg:fetch-ai,cex:uniswap-bsc,A-C,0.0569999373243165,listado en CEX
+cg:fetch-ai,cex:uniswap-v4-ethereum,A-C,0.0569999373243165,listado en CEX
+cg:fetch-ai,cex:uniswap_v3,A-C,0.0569999373243165,listado en CEX
+cg:fetch-ai,cex:weex,A-C,0.0569999373243165,listado en CEX
+cg:fetch-ai,cex:whitebit,A-C,0.0569999373243165,listado en CEX
+cg:fetch-ai,cex:xbo_com,A-C,0.0569999373243165,listado en CEX
+cg:fetch-ai,cex:xt,A-C,0.0569999373243165,listado en CEX
+cg:fetch-ai,cex:zoomex,A-C,0.0569999373243165,listado en CEX
+cg:the-graph,cex:azbit,A-C,0.0257463876589269,listado en CEX
+cg:the-graph,cex:biconomy,A-C,0.0257463876589269,listado en CEX
+cg:the-graph,cex:binance,A-C,0.0257463876589269,listado en CEX
+cg:the-graph,cex:bingx,A-C,0.0257463876589269,listado en CEX
+cg:the-graph,cex:bit2me,A-C,0.0257463876589269,listado en CEX
+cg:the-graph,cex:bitazza,A-C,0.0257463876589269,listado en CEX
+cg:the-graph,cex:bitcastle,A-C,0.0257463876589269,listado en CEX
+cg:the-graph,cex:bitci,A-C,0.0257463876589269,listado en CEX
+cg:the-graph,cex:bitcoin_com,A-C,0.0257463876589269,listado en CEX
+cg:the-graph,cex:bitdelta,A-C,0.0257463876589269,listado en CEX
+cg:the-graph,cex:bitget,A-C,0.0257463876589269,listado en CEX
+cg:the-graph,cex:bithumb,A-C,0.0257463876589269,listado en CEX
+cg:the-graph,cex:bitkub,A-C,0.0257463876589269,listado en CEX
+cg:the-graph,cex:bitmart,A-C,0.0257463876589269,listado en CEX
+cg:the-graph,cex:bitmax,A-C,0.0257463876589269,listado en CEX
+cg:the-graph,cex:bitrue,A-C,0.0257463876589269,listado en CEX
+cg:the-graph,cex:bitso,A-C,0.0257463876589269,listado en CEX
+cg:the-graph,cex:bitstamp,A-C,0.0257463876589269,listado en CEX
+cg:the-graph,cex:bittime,A-C,0.0257463876589269,listado en CEX
+cg:the-graph,cex:bitunix,A-C,0.0257463876589269,listado en CEX
+cg:the-graph,cex:bitvavo,A-C,0.0257463876589269,listado en CEX
+cg:the-graph,cex:bitvenus_spot,A-C,0.0257463876589269,listado en CEX
+cg:the-graph,cex:blofin_spot,A-C,0.0257463876589269,listado en CEX
+cg:the-graph,cex:btse,A-C,0.0257463876589269,listado en CEX
+cg:the-graph,cex:bullish_com,A-C,0.0257463876589269,listado en CEX
+cg:the-graph,cex:bybit_spot,A-C,0.0257463876589269,listado en CEX
+cg:the-graph,cex:bydfi,A-C,0.0257463876589269,listado en CEX
+cg:the-graph,cex:cex,A-C,0.0257463876589269,listado en CEX
+cg:the-graph,cex:coin_metro,A-C,0.0257463876589269,listado en CEX
+cg:the-graph,cex:coincatch,A-C,0.0257463876589269,listado en CEX
+cg:the-graph,cex:coinex,A-C,0.0257463876589269,listado en CEX
+cg:the-graph,cex:coinstore,A-C,0.0257463876589269,listado en CEX
+cg:the-graph,cex:cointr,A-C,0.0257463876589269,listado en CEX
+cg:the-graph,cex:coinup,A-C,0.0257463876589269,listado en CEX
+cg:the-graph,cex:coinw,A-C,0.0257463876589269,listado en CEX
+cg:the-graph,cex:crypto_com,A-C,0.0257463876589269,listado en CEX
+cg:the-graph,cex:cryptology,A-C,0.0257463876589269,listado en CEX
+cg:the-graph,cex:dextrade,A-C,0.0257463876589269,listado en CEX
+cg:the-graph,cex:digifinex,A-C,0.0257463876589269,listado en CEX
+cg:the-graph,cex:fameex,A-C,0.0257463876589269,listado en CEX
+cg:the-graph,cex:gate,A-C,0.0257463876589269,listado en CEX
+cg:the-graph,cex:gdax,A-C,0.0257463876589269,listado en CEX
+cg:the-graph,cex:gemini,A-C,0.0257463876589269,listado en CEX
+cg:the-graph,cex:grovex,A-C,0.0257463876589269,listado en CEX
+cg:the-graph,cex:hibt,A-C,0.0257463876589269,listado en CEX
+cg:the-graph,cex:hotcoin_global,A-C,0.0257463876589269,listado en CEX
+cg:the-graph,cex:huobi,A-C,0.0257463876589269,listado en CEX
+cg:the-graph,cex:icrypex,A-C,0.0257463876589269,listado en CEX
+cg:the-graph,cex:kcex,A-C,0.0257463876589269,listado en CEX
+cg:the-graph,cex:kraken,A-C,0.0257463876589269,listado en CEX
+cg:the-graph,cex:kucoin,A-C,0.0257463876589269,listado en CEX
+cg:the-graph,cex:latoken,A-C,0.0257463876589269,listado en CEX
+cg:the-graph,cex:lbank,A-C,0.0257463876589269,listado en CEX
+cg:the-graph,cex:luno,A-C,0.0257463876589269,listado en CEX
+cg:the-graph,cex:mxc,A-C,0.0257463876589269,listado en CEX
+cg:the-graph,cex:nami_exchange,A-C,0.0257463876589269,listado en CEX
+cg:the-graph,cex:okex,A-C,0.0257463876589269,listado en CEX
+cg:the-graph,cex:orangex,A-C,0.0257463876589269,listado en CEX
+cg:the-graph,cex:ourbit,A-C,0.0257463876589269,listado en CEX
+cg:the-graph,cex:phemex,A-C,0.0257463876589269,listado en CEX
+cg:the-graph,cex:pionex,A-C,0.0257463876589269,listado en CEX
+cg:the-graph,cex:pointpay,A-C,0.0257463876589269,listado en CEX
+cg:the-graph,cex:poloniex,A-C,0.0257463876589269,listado en CEX
+cg:the-graph,cex:qmall,A-C,0.0257463876589269,listado en CEX
+cg:the-graph,cex:tapbit,A-C,0.0257463876589269,listado en CEX
+cg:the-graph,cex:toko_crypto,A-C,0.0257463876589269,listado en CEX
+cg:the-graph,cex:toobit,A-C,0.0257463876589269,listado en CEX
+cg:the-graph,cex:trubit,A-C,0.0257463876589269,listado en CEX
+cg:the-graph,cex:uniswap-v4-arbitrum,A-C,0.0257463876589269,listado en CEX
+cg:the-graph,cex:uniswap_v3_arbitrum,A-C,0.0257463876589269,listado en CEX
+cg:the-graph,cex:uniswap_v3_polygon_pos,A-C,0.0257463876589269,listado en CEX
+cg:the-graph,cex:upbit,A-C,0.0257463876589269,listado en CEX
+cg:the-graph,cex:weex,A-C,0.0257463876589269,listado en CEX
+cg:the-graph,cex:whitebit,A-C,0.0257463876589269,listado en CEX
+cg:the-graph,cex:wootrade,A-C,0.0257463876589269,listado en CEX
+cg:the-graph,cex:xbo_com,A-C,0.0257463876589269,listado en CEX
+cg:the-graph,cex:xt,A-C,0.0257463876589269,listado en CEX
+cg:floki,cex:apeswap_bsc,A-C,0.0366065537657344,listado en CEX
+cg:floki,cex:arkham,A-C,0.0366065537657344,listado en CEX
+cg:floki,cex:biconomy,A-C,0.0366065537657344,listado en CEX
+cg:floki,cex:bigone,A-C,0.0366065537657344,listado en CEX
+cg:floki,cex:binance,A-C,0.0366065537657344,listado en CEX
+cg:floki,cex:binance_us,A-C,0.0366065537657344,listado en CEX
+cg:floki,cex:bingx,A-C,0.0366065537657344,listado en CEX
+cg:floki,cex:biswap,A-C,0.0366065537657344,listado en CEX
+cg:floki,cex:bit_com,A-C,0.0366065537657344,listado en CEX
+cg:floki,cex:bitazza,A-C,0.0366065537657344,listado en CEX
+cg:floki,cex:bitci,A-C,0.0366065537657344,listado en CEX
+cg:floki,cex:bitcointry_exchange,A-C,0.0366065537657344,listado en CEX
+cg:floki,cex:bitfinex,A-C,0.0366065537657344,listado en CEX
+cg:floki,cex:bitget,A-C,0.0366065537657344,listado en CEX
+cg:floki,cex:bitkan,A-C,0.0366065537657344,listado en CEX
+cg:floki,cex:bitlo,A-C,0.0366065537657344,listado en CEX
+cg:floki,cex:bitmax,A-C,0.0366065537657344,listado en CEX
+cg:floki,cex:bitrue,A-C,0.0366065537657344,listado en CEX
+cg:floki,cex:bitso,A-C,0.0366065537657344,listado en CEX
+cg:floki,cex:bitstamp,A-C,0.0366065537657344,listado en CEX
+cg:floki,cex:bittime,A-C,0.0366065537657344,listado en CEX
+cg:floki,cex:bitvavo,A-C,0.0366065537657344,listado en CEX
+cg:floki,cex:bitvenus_spot,A-C,0.0366065537657344,listado en CEX
+cg:floki,cex:blofin_spot,A-C,0.0366065537657344,listado en CEX
+cg:floki,cex:btse,A-C,0.0366065537657344,listado en CEX
+cg:floki,cex:bybit_spot,A-C,0.0366065537657344,listado en CEX
+cg:floki,cex:bydfi,A-C,0.0366065537657344,listado en CEX
+cg:floki,cex:cex,A-C,0.0366065537657344,listado en CEX
+cg:floki,cex:coincatch,A-C,0.0366065537657344,listado en CEX
+cg:floki,cex:coinex,A-C,0.0366065537657344,listado en CEX
+cg:floki,cex:coinspro,A-C,0.0366065537657344,listado en CEX
+cg:floki,cex:cointr,A-C,0.0366065537657344,listado en CEX
+cg:floki,cex:coinup,A-C,0.0366065537657344,listado en CEX
+cg:floki,cex:coinw,A-C,0.0366065537657344,listado en CEX
+cg:floki,cex:crypto_com,A-C,0.0366065537657344,listado en CEX
+cg:floki,cex:deepcoin,A-C,0.0366065537657344,listado en CEX
+cg:floki,cex:dextrade,A-C,0.0366065537657344,listado en CEX
+cg:floki,cex:digifinex,A-C,0.0366065537657344,listado en CEX
+cg:floki,cex:earnbit,A-C,0.0366065537657344,listado en CEX
+cg:floki,cex:gate,A-C,0.0366065537657344,listado en CEX
+cg:floki,cex:gdax,A-C,0.0366065537657344,listado en CEX
+cg:floki,cex:gemini,A-C,0.0366065537657344,listado en CEX
+cg:floki,cex:grovex,A-C,0.0366065537657344,listado en CEX
+cg:floki,cex:hibt,A-C,0.0366065537657344,listado en CEX
+cg:floki,cex:hotcoin_global,A-C,0.0366065537657344,listado en CEX
+cg:floki,cex:huobi,A-C,0.0366065537657344,listado en CEX
+cg:floki,cex:indodax,A-C,0.0366065537657344,listado en CEX
+cg:floki,cex:kanga,A-C,0.0366065537657344,listado en CEX
+cg:floki,cex:kcex,A-C,0.0366065537657344,listado en CEX
+cg:floki,cex:kraken,A-C,0.0366065537657344,listado en CEX
+cg:floki,cex:kucoin,A-C,0.0366065537657344,listado en CEX
+cg:floki,cex:latoken,A-C,0.0366065537657344,listado en CEX
+cg:floki,cex:lbank,A-C,0.0366065537657344,listado en CEX
+cg:floki,cex:mercado_bitcoin,A-C,0.0366065537657344,listado en CEX
+cg:floki,cex:mxc,A-C,0.0366065537657344,listado en CEX
+cg:floki,cex:nami_exchange,A-C,0.0366065537657344,listado en CEX
+cg:floki,cex:okex,A-C,0.0366065537657344,listado en CEX
+cg:floki,cex:ourbit,A-C,0.0366065537657344,listado en CEX
+cg:floki,cex:pancakeswap-v3-bsc,A-C,0.0366065537657344,listado en CEX
+cg:floki,cex:pancakeswap_new,A-C,0.0366065537657344,listado en CEX
+cg:floki,cex:pionex,A-C,0.0366065537657344,listado en CEX
+cg:floki,cex:pointpay,A-C,0.0366065537657344,listado en CEX
+cg:floki,cex:poloniex,A-C,0.0366065537657344,listado en CEX
+cg:floki,cex:slex,A-C,0.0366065537657344,listado en CEX
+cg:floki,cex:tapbit,A-C,0.0366065537657344,listado en CEX
+cg:floki,cex:toko_crypto,A-C,0.0366065537657344,listado en CEX
+cg:floki,cex:toobit,A-C,0.0366065537657344,listado en CEX
+cg:floki,cex:trubit,A-C,0.0366065537657344,listado en CEX
+cg:floki,cex:uniswap_v2,A-C,0.0366065537657344,listado en CEX
+cg:floki,cex:weex,A-C,0.0366065537657344,listado en CEX
+cg:floki,cex:whitebit,A-C,0.0366065537657344,listado en CEX
+cg:floki,cex:xbo_com,A-C,0.0366065537657344,listado en CEX
+cg:floki,cex:xt,A-C,0.0366065537657344,listado en CEX
+cg:floki,cex:zoomex,A-C,0.0366065537657344,listado en CEX
+cg:zero-gravity,cex:backpack_exchange,A-C,0.1326838969017587,listado en CEX
+cg:zero-gravity,cex:binance,A-C,0.1326838969017587,listado en CEX
+cg:zero-gravity,cex:bingx,A-C,0.1326838969017587,listado en CEX
+cg:zero-gravity,cex:bitget,A-C,0.1326838969017587,listado en CEX
+cg:zero-gravity,cex:bithumb,A-C,0.1326838969017587,listado en CEX
+cg:zero-gravity,cex:bitkan,A-C,0.1326838969017587,listado en CEX
+cg:zero-gravity,cex:bitmart,A-C,0.1326838969017587,listado en CEX
+cg:zero-gravity,cex:bitrue,A-C,0.1326838969017587,listado en CEX
+cg:zero-gravity,cex:bitunix,A-C,0.1326838969017587,listado en CEX
+cg:zero-gravity,cex:bitvavo,A-C,0.1326838969017587,listado en CEX
+cg:zero-gravity,cex:bybit_spot,A-C,0.1326838969017587,listado en CEX
+cg:zero-gravity,cex:coinex,A-C,0.1326838969017587,listado en CEX
+cg:zero-gravity,cex:coinup,A-C,0.1326838969017587,listado en CEX
+cg:zero-gravity,cex:coinw,A-C,0.1326838969017587,listado en CEX
+cg:zero-gravity,cex:digifinex,A-C,0.1326838969017587,listado en CEX
+cg:zero-gravity,cex:gate,A-C,0.1326838969017587,listado en CEX
+cg:zero-gravity,cex:hashkey-global,A-C,0.1326838969017587,listado en CEX
+cg:zero-gravity,cex:hibt,A-C,0.1326838969017587,listado en CEX
+cg:zero-gravity,cex:hotcoin_global,A-C,0.1326838969017587,listado en CEX
+cg:zero-gravity,cex:huobi,A-C,0.1326838969017587,listado en CEX
+cg:zero-gravity,cex:kcex,A-C,0.1326838969017587,listado en CEX
+cg:zero-gravity,cex:kraken,A-C,0.1326838969017587,listado en CEX
+cg:zero-gravity,cex:kucoin,A-C,0.1326838969017587,listado en CEX
+cg:zero-gravity,cex:lbank,A-C,0.1326838969017587,listado en CEX
+cg:zero-gravity,cex:mudrex,A-C,0.1326838969017587,listado en CEX
+cg:zero-gravity,cex:mxc,A-C,0.1326838969017587,listado en CEX
+cg:zero-gravity,cex:novadax,A-C,0.1326838969017587,listado en CEX
+cg:zero-gravity,cex:orangex,A-C,0.1326838969017587,listado en CEX
+cg:zero-gravity,cex:ourbit,A-C,0.1326838969017587,listado en CEX
+cg:zero-gravity,cex:pancakeswap-v3-bsc,A-C,0.1326838969017587,listado en CEX
+cg:zero-gravity,cex:phemex,A-C,0.1326838969017587,listado en CEX
+cg:zero-gravity,cex:tapbit,A-C,0.1326838969017587,listado en CEX
+cg:zero-gravity,cex:uniswap-bsc,A-C,0.1326838969017587,listado en CEX
+cg:zero-gravity,cex:uniswap-v4-bsc,A-C,0.1326838969017587,listado en CEX
+cg:zero-gravity,cex:uniswap-v4-ethereum,A-C,0.1326838969017587,listado en CEX
+cg:zero-gravity,cex:upbit,A-C,0.1326838969017587,listado en CEX
+cg:zero-gravity,cex:xt,A-C,0.1326838969017587,listado en CEX
+cg:infinitar-governance-token,class:Gaming,A-B,9.146245520165422e-05,pertenece a categoria
+cg:infinitar-governance-token,exp:bscscan.com,A-D,9.146245520165422e-05,explorador asociado
+cg:infinitar-governance-token,exp:platform.arkhamintelligence.com,A-D,9.146245520165422e-05,explorador asociado
+cg:infinitar-governance-token,exp:binplorer.com,A-D,9.146245520165422e-05,explorador asociado
+cg:heroes-of-mavia,class:Gaming,A-B,0.000240894235159,pertenece a categoria
+cg:heroes-of-mavia,exp:etherscan.io,A-D,0.000240894235159,explorador asociado
+cg:heroes-of-mavia,exp:platform.arkhamintelligence.com,A-D,0.000240894235159,explorador asociado
+cg:heroes-of-mavia,exp:ethplorer.io,A-D,0.000240894235159,explorador asociado
+cg:heroes-of-mavia,exp:basescan.org,A-D,0.000240894235159,explorador asociado
+cg:pepper-meme,class:Gaming,A-B,3.581091654053051e-05,pertenece a categoria
+cg:pepper-meme,exp:basescan.org,A-D,3.581091654053051e-05,explorador asociado
+cg:gamium,class:Gaming,A-B,2.413985325038601e-05,pertenece a categoria
+cg:gamium,exp:bscscan.com,A-D,2.413985325038601e-05,explorador asociado
+cg:gamium,exp:platform.arkhamintelligence.com,A-D,2.413985325038601e-05,explorador asociado
+cg:gamium,exp:etherscan.io,A-D,2.413985325038601e-05,explorador asociado
+cg:gamium,exp:ethplorer.io,A-D,2.413985325038601e-05,explorador asociado
+cg:gamium,exp:binplorer.com,A-D,2.413985325038601e-05,explorador asociado
+cg:paragonsdao,class:Gaming,A-B,2.0114647651570256e-05,pertenece a categoria
+cg:paragonsdao,exp:etherscan.io,A-D,2.0114647651570256e-05,explorador asociado
+cg:paragonsdao,exp:platform.arkhamintelligence.com,A-D,2.0114647651570256e-05,explorador asociado
+cg:paragonsdao,exp:ethplorer.io,A-D,2.0114647651570256e-05,explorador asociado
+cg:paragonsdao,exp:basescan.org,A-D,2.0114647651570256e-05,explorador asociado
+cg:karate-combat,class:Gaming,A-B,2.777416417921236e-05,pertenece a categoria
+cg:karate-combat,exp:etherscan.io,A-D,2.777416417921236e-05,explorador asociado
+cg:karate-combat,exp:platform.arkhamintelligence.com,A-D,2.777416417921236e-05,explorador asociado
+cg:karate-combat,exp:ethplorer.io,A-D,2.777416417921236e-05,explorador asociado
+cg:karate-combat,exp:hashscan.io,A-D,2.777416417921236e-05,explorador asociado
+cg:blocklords,class:Gaming,A-B,7.480009220479161e-05,pertenece a categoria
+cg:blocklords,exp:etherscan.io,A-D,7.480009220479161e-05,explorador asociado
+cg:blocklords,exp:platform.arkhamintelligence.com,A-D,7.480009220479161e-05,explorador asociado
+cg:blocklords,exp:ethplorer.io,A-D,7.480009220479161e-05,explorador asociado
+cg:blocklords,exp:basescan.org,A-D,7.480009220479161e-05,explorador asociado
+cg:delabs-games,class:Gaming,A-B,9.330877702695586e-05,pertenece a categoria
+cg:delabs-games,exp:bscscan.com,A-D,9.330877702695586e-05,explorador asociado
+cg:delabs-games,exp:binplorer.com,A-D,9.330877702695586e-05,explorador asociado
+cg:delabs-games,exp:kaiascan.io,A-D,9.330877702695586e-05,explorador asociado
+cg:doubleup,class:Gaming,A-B,0.00012732093678041482,pertenece a categoria
+cg:doubleup,exp:suivision.xyz,A-D,0.00012732093678041482,explorador asociado
+cg:doubleup,exp:suiscan.xyz,A-D,0.00012732093678041482,explorador asociado
+cg:guild-of-guardians,class:Gaming,A-B,2.6992816937756756e-05,pertenece a categoria
+cg:guild-of-guardians,exp:etherscan.io,A-D,2.6992816937756756e-05,explorador asociado
+cg:guild-of-guardians,exp:platform.arkhamintelligence.com,A-D,2.6992816937756756e-05,explorador asociado
+cg:guild-of-guardians,exp:ethplorer.io,A-D,2.6992816937756756e-05,explorador asociado
+cg:guild-of-guardians,exp:explorer.immutable.com,A-D,2.6992816937756756e-05,explorador asociado
+cg:worldshards,class:Gaming,A-B,0.00026626314438503717,pertenece a categoria
+cg:worldshards,exp:etherscan.io,A-D,0.00026626314438503717,explorador asociado
+cg:worldshards,exp:ethplorer.io,A-D,0.00026626314438503717,explorador asociado
+cg:worldshards,exp:bscscan.com,A-D,0.00026626314438503717,explorador asociado
+cg:worldshards,exp:binplorer.com,A-D,0.00026626314438503717,explorador asociado
+cg:sidus,class:Gaming,A-B,7.702650805935573e-05,pertenece a categoria
+cg:sidus,exp:etherscan.io,A-D,7.702650805935573e-05,explorador asociado
+cg:sidus,exp:platform.arkhamintelligence.com,A-D,7.702650805935573e-05,explorador asociado
+cg:sidus,exp:ethplorer.io,A-D,7.702650805935573e-05,explorador asociado
+cg:sidus,exp:lineascan.build,A-D,7.702650805935573e-05,explorador asociado
+cg:sidus,exp:lineaplorer.build,A-D,7.702650805935573e-05,explorador asociado
+cg:sidus,exp:basescan.org,A-D,7.702650805935573e-05,explorador asociado
+cg:sidus,exp:bscscan.com,A-D,7.702650805935573e-05,explorador asociado
+cg:sidus,exp:binplorer.com,A-D,7.702650805935573e-05,explorador asociado
+cg:runwago,class:Gaming,A-B,0.00038657231526804676,pertenece a categoria
+cg:runwago,exp:basescan.org,A-D,0.00038657231526804676,explorador asociado
+cg:the-root-network,class:Gaming,A-B,0.00012835457626452268,pertenece a categoria
+cg:the-root-network,exp:etherscan.io,A-D,0.00012835457626452268,explorador asociado
+cg:the-root-network,exp:platform.arkhamintelligence.com,A-D,0.00012835457626452268,explorador asociado
+cg:the-root-network,exp:ethplorer.io,A-D,0.00012835457626452268,explorador asociado
+cg:everdome,class:Gaming,A-B,6.162215680346575e-05,pertenece a categoria
+cg:everdome,exp:bscscan.com,A-D,6.162215680346575e-05,explorador asociado
+cg:everdome,exp:platform.arkhamintelligence.com,A-D,6.162215680346575e-05,explorador asociado
+cg:everdome,exp:binplorer.com,A-D,6.162215680346575e-05,explorador asociado
+cg:sipher,class:Gaming,A-B,5.599641676323128e-06,pertenece a categoria
+cg:sipher,exp:etherscan.io,A-D,5.599641676323128e-06,explorador asociado
+cg:sipher,exp:platform.arkhamintelligence.com,A-D,5.599641676323128e-06,explorador asociado
+cg:sipher,exp:ethplorer.io,A-D,5.599641676323128e-06,explorador asociado
+cg:sipher,exp:funki-mainnet-explorer.alt.technology,A-D,5.599641676323128e-06,explorador asociado
+cg:tico,class:Gaming,A-B,1.701647105606101e-05,pertenece a categoria
+cg:tico,exp:avascan.info,A-D,1.701647105606101e-05,explorador asociado
+cg:tico,exp:snowtrace.io,A-D,1.701647105606101e-05,explorador asociado
+cg:watcoin-2,class:Gaming,A-B,3.0440944189032606e-05,pertenece a categoria
+cg:watcoin-2,exp:tonscan.org,A-D,3.0440944189032606e-05,explorador asociado
+cg:watcoin-2,exp:tonviewer.com,A-D,3.0440944189032606e-05,explorador asociado
+cg:step-app-fitfi,class:Gaming,A-B,0.0002226485707410366,pertenece a categoria
+cg:step-app-fitfi,exp:snowtrace.io,A-D,0.0002226485707410366,explorador asociado
+cg:step-app-fitfi,exp:platform.arkhamintelligence.com,A-D,0.0002226485707410366,explorador asociado
+cg:step-app-fitfi,exp:avascan.info,A-D,0.0002226485707410366,explorador asociado
+cg:step-app-fitfi,exp:stepscan.io,A-D,0.0002226485707410366,explorador asociado
+cg:step-app-fitfi,exp:bscscan.com,A-D,0.0002226485707410366,explorador asociado
+cg:step-app-fitfi,exp:binplorer.com,A-D,0.0002226485707410366,explorador asociado
+cg:shrapnel-2,class:Gaming,A-B,4.74456898073482e-05,pertenece a categoria
+cg:shrapnel-2,exp:snowtrace.io,A-D,4.74456898073482e-05,explorador asociado
+cg:shrapnel-2,exp:platform.arkhamintelligence.com,A-D,4.74456898073482e-05,explorador asociado
+cg:shrapnel-2,exp:avascan.info,A-D,4.74456898073482e-05,explorador asociado
+cg:shrapnel-2,exp:etherscan.io,A-D,4.74456898073482e-05,explorador asociado
+cg:shrapnel-2,exp:ethplorer.io,A-D,4.74456898073482e-05,explorador asociado
+cg:shrapnel-2,exp:bscscan.com,A-D,4.74456898073482e-05,explorador asociado
+cg:shrapnel-2,exp:binplorer.com,A-D,4.74456898073482e-05,explorador asociado
+cg:shrapnel-2,exp:tonscan.org,A-D,4.74456898073482e-05,explorador asociado
+cg:green-satoshi-token,class:Gaming,A-B,6.0523203332163494e-05,pertenece a categoria
+cg:green-satoshi-token,exp:explorer.solana.com,A-D,6.0523203332163494e-05,explorador asociado
+cg:green-satoshi-token,exp:platform.arkhamintelligence.com,A-D,6.0523203332163494e-05,explorador asociado
+cg:green-satoshi-token,exp:solscan.io,A-D,6.0523203332163494e-05,explorador asociado
+cg:green-satoshi-token,exp:bscscan.com,A-D,6.0523203332163494e-05,explorador asociado
+cg:pirate-token,class:Gaming,A-B,0.00010676268956066908,pertenece a categoria
+cg:pirate-token,exp:etherscan.io,A-D,0.00010676268956066908,explorador asociado
+cg:pirate-token,exp:platform.arkhamintelligence.com,A-D,0.00010676268956066908,explorador asociado
+cg:pirate-token,exp:ethplorer.io,A-D,0.00010676268956066908,explorador asociado
+cg:tower,class:Gaming,A-B,0.00012225633497478362,pertenece a categoria
+cg:tower,exp:etherscan.io,A-D,0.00012225633497478362,explorador asociado
+cg:tower,exp:platform.arkhamintelligence.com,A-D,0.00012225633497478362,explorador asociado
+cg:tower,exp:ethplorer.io,A-D,0.00012225633497478362,explorador asociado
+cg:tower,exp:bscscan.com,A-D,0.00012225633497478362,explorador asociado
+cg:tower,exp:polygonscan.com,A-D,0.00012225633497478362,explorador asociado
+cg:tower,exp:binplorer.com,A-D,0.00012225633497478362,explorador asociado
+cg:tower,exp:basescan.org,A-D,0.00012225633497478362,explorador asociado
+cg:tower,exp:tonscan.org,A-D,0.00012225633497478362,explorador asociado
+cg:tower,exp:tonviewer.com,A-D,0.00012225633497478362,explorador asociado
+cg:tower,exp:solscan.io,A-D,0.00012225633497478362,explorador asociado
+cg:super-champs,class:Gaming,A-B,7.707962785037706e-05,pertenece a categoria
+cg:super-champs,exp:basescan.org,A-D,7.707962785037706e-05,explorador asociado
+cg:super-champs,exp:etherscan.io,A-D,7.707962785037706e-05,explorador asociado
+cg:super-champs,exp:ethplorer.io,A-D,7.707962785037706e-05,explorador asociado
+cg:super-champs,exp:avascan.info,A-D,7.707962785037706e-05,explorador asociado
+cg:super-champs,exp:snowtrace.io,A-D,7.707962785037706e-05,explorador asociado
+cg:memesis-world,class:Gaming,A-B,3.4242476648264826e-07,pertenece a categoria
+cg:memesis-world,exp:solscan.io,A-D,3.4242476648264826e-07,explorador asociado
+cg:letstop,class:Gaming,A-B,9.138183222407248e-05,pertenece a categoria
+cg:letstop,exp:solscan.io,A-D,9.138183222407248e-05,explorador asociado
+cg:letstop,exp:platform.arkhamintelligence.com,A-D,9.138183222407248e-05,explorador asociado
+cg:qopro,class:Gaming,A-B,0.00010140772906308058,pertenece a categoria
+cg:qopro,exp:etherscan.io,A-D,0.00010140772906308058,explorador asociado
+cg:qopro,exp:platform.arkhamintelligence.com,A-D,0.00010140772906308058,explorador asociado
+cg:qopro,exp:ethplorer.io,A-D,0.00010140772906308058,explorador asociado
+cg:qopro,exp:bscscan.com,A-D,0.00010140772906308058,explorador asociado
+cg:qopro,exp:binplorer.com,A-D,0.00010140772906308058,explorador asociado
+cg:settled-ethxy-token,class:Gaming,A-B,3.66042814317234e-05,pertenece a categoria
+cg:settled-ethxy-token,exp:etherscan.io,A-D,3.66042814317234e-05,explorador asociado
+cg:settled-ethxy-token,exp:platform.arkhamintelligence.com,A-D,3.66042814317234e-05,explorador asociado
+cg:settled-ethxy-token,exp:ethplorer.io,A-D,3.66042814317234e-05,explorador asociado
+cg:settled-ethxy-token,exp:basescan.org,A-D,3.66042814317234e-05,explorador asociado
+cg:starlink,class:Gaming,A-B,2.3090839517561518e-05,pertenece a categoria
+cg:starlink,exp:etherscan.io,A-D,2.3090839517561518e-05,explorador asociado
+cg:starlink,exp:platform.arkhamintelligence.com,A-D,2.3090839517561518e-05,explorador asociado
+cg:starlink,exp:ethplorer.io,A-D,2.3090839517561518e-05,explorador asociado
+cg:dream-machine-token,class:Gaming,A-B,5.65241255531983e-05,pertenece a categoria
+cg:dream-machine-token,exp:arbiscan.io,A-D,5.65241255531983e-05,explorador asociado
+cg:dream-machine-token,exp:platform.arkhamintelligence.com,A-D,5.65241255531983e-05,explorador asociado
+cg:dream-machine-token,exp:arbitrum.dex.guru,A-D,5.65241255531983e-05,explorador asociado
+cg:dream-machine-token,exp:etherscan.io,A-D,5.65241255531983e-05,explorador asociado
+cg:dream-machine-token,exp:ethplorer.io,A-D,5.65241255531983e-05,explorador asociado
+cg:furi,class:Gaming,A-B,2.7322886328437006e-05,pertenece a categoria
+cg:furi,exp:polygonscan.com,A-D,2.7322886328437006e-05,explorador asociado
+cg:solforge-fusion,class:Gaming,A-B,3.397867976426779e-05,pertenece a categoria
+cg:solforge-fusion,exp:solscan.io,A-D,3.397867976426779e-05,explorador asociado
+cg:solforge-fusion,exp:platform.arkhamintelligence.com,A-D,3.397867976426779e-05,explorador asociado
+cg:hodl-2,class:Gaming,A-B,3.910467146819491e-05,pertenece a categoria
+cg:hodl-2,exp:bscscan.com,A-D,3.910467146819491e-05,explorador asociado
+cg:hodl-2,exp:binplorer.com,A-D,3.910467146819491e-05,explorador asociado
+cg:warped-games,class:Gaming,A-B,6.511742220433969e-06,pertenece a categoria
+cg:warped-games,exp:etherscan.io,A-D,6.511742220433969e-06,explorador asociado
+cg:warped-games,exp:platform.arkhamintelligence.com,A-D,6.511742220433969e-06,explorador asociado
+cg:warped-games,exp:ethplorer.io,A-D,6.511742220433969e-06,explorador asociado
+cg:hello-labs,class:Gaming,A-B,6.110482523533711e-05,pertenece a categoria
+cg:hello-labs,exp:etherscan.io,A-D,6.110482523533711e-05,explorador asociado
+cg:hello-labs,exp:platform.arkhamintelligence.com,A-D,6.110482523533711e-05,explorador asociado
+cg:hello-labs,exp:ethplorer.io,A-D,6.110482523533711e-05,explorador asociado
+cg:hello-labs,exp:bscscan.com,A-D,6.110482523533711e-05,explorador asociado
+cg:hello-labs,exp:binplorer.com,A-D,6.110482523533711e-05,explorador asociado
+cg:hello-labs,exp:solscan.io,A-D,6.110482523533711e-05,explorador asociado
+cg:katana-inu,class:Gaming,A-B,2.334123840505985e-05,pertenece a categoria
+cg:katana-inu,exp:etherscan.io,A-D,2.334123840505985e-05,explorador asociado
+cg:katana-inu,exp:platform.arkhamintelligence.com,A-D,2.334123840505985e-05,explorador asociado
+cg:katana-inu,exp:ethplorer.io,A-D,2.334123840505985e-05,explorador asociado
+cg:katana-inu,exp:bscscan.com,A-D,2.334123840505985e-05,explorador asociado
+cg:katana-inu,exp:binplorer.com,A-D,2.334123840505985e-05,explorador asociado
+cg:katana-inu,exp:basescan.org,A-D,2.334123840505985e-05,explorador asociado
+cg:karat-galaxy,class:Gaming,A-B,2.6478516899963632e-06,pertenece a categoria
+cg:karat-galaxy,exp:bscscan.com,A-D,2.6478516899963632e-06,explorador asociado
+cg:karat-galaxy,exp:platform.arkhamintelligence.com,A-D,2.6478516899963632e-06,explorador asociado
+cg:karat-galaxy,exp:binplorer.com,A-D,2.6478516899963632e-06,explorador asociado
+cg:blockchainspace,class:Gaming,A-B,1.842769118770087e-05,pertenece a categoria
+cg:blockchainspace,exp:etherscan.io,A-D,1.842769118770087e-05,explorador asociado
+cg:blockchainspace,exp:platform.arkhamintelligence.com,A-D,1.842769118770087e-05,explorador asociado
+cg:blockchainspace,exp:ethplorer.io,A-D,1.842769118770087e-05,explorador asociado
+cg:blockchainspace,exp:bscscan.com,A-D,1.842769118770087e-05,explorador asociado
+cg:blockchainspace,exp:binplorer.com,A-D,1.842769118770087e-05,explorador asociado
+cg:blockchainspace,exp:polygonscan.com,A-D,1.842769118770087e-05,explorador asociado
+cg:rainicorn,class:Gaming,A-B,2.825007823805067e-07,pertenece a categoria
+cg:rainicorn,exp:etherscan.io,A-D,2.825007823805067e-07,explorador asociado
+cg:rainicorn,exp:platform.arkhamintelligence.com,A-D,2.825007823805067e-07,explorador asociado
+cg:rainicorn,exp:ethplorer.io,A-D,2.825007823805067e-07,explorador asociado
+cg:rainicorn,exp:bscscan.com,A-D,2.825007823805067e-07,explorador asociado
+cg:rainicorn,exp:ftmscan.com,A-D,2.825007823805067e-07,explorador asociado
+cg:rainicorn,exp:binplorer.com,A-D,2.825007823805067e-07,explorador asociado
+cg:defi-kingdoms,class:Gaming,A-B,1.7052698748975686e-06,pertenece a categoria
+cg:defi-kingdoms,exp:snowtrace.io,A-D,1.7052698748975686e-06,explorador asociado
+cg:defi-kingdoms,exp:platform.arkhamintelligence.com,A-D,1.7052698748975686e-06,explorador asociado
+cg:defi-kingdoms,exp:avascan.info,A-D,1.7052698748975686e-06,explorador asociado
+cg:defi-kingdoms,exp:klaytnscope.com,A-D,1.7052698748975686e-06,explorador asociado
+cg:defi-kingdoms,exp:explorer.harmony.one,A-D,1.7052698748975686e-06,explorador asociado
+cg:defi-kingdoms,exp:explorer.metis.io,A-D,1.7052698748975686e-06,explorador asociado
+cg:defi-kingdoms,exp:andromeda-explorer.metis.io,A-D,1.7052698748975686e-06,explorador asociado
+cg:gamegpt,class:Gaming,A-B,6.083634650402519e-05,pertenece a categoria
+cg:gamegpt,exp:etherscan.io,A-D,6.083634650402519e-05,explorador asociado
+cg:gamegpt,exp:platform.arkhamintelligence.com,A-D,6.083634650402519e-05,explorador asociado
+cg:gamegpt,exp:ethplorer.io,A-D,6.083634650402519e-05,explorador asociado
+cg:gamegpt,exp:bscscan.com,A-D,6.083634650402519e-05,explorador asociado
+cg:gamegpt,exp:binplorer.com,A-D,6.083634650402519e-05,explorador asociado
+cg:altered-state-token,class:Gaming,A-B,2.7589845842341997e-06,pertenece a categoria
+cg:altered-state-token,exp:etherscan.io,A-D,2.7589845842341997e-06,explorador asociado
+cg:altered-state-token,exp:platform.arkhamintelligence.com,A-D,2.7589845842341997e-06,explorador asociado
+cg:altered-state-token,exp:ethplorer.io,A-D,2.7589845842341997e-06,explorador asociado
+cg:dolz-io,class:Gaming,A-B,4.498141402644854e-06,pertenece a categoria
+cg:dolz-io,exp:etherscan.io,A-D,4.498141402644854e-06,explorador asociado
+cg:dolz-io,exp:platform.arkhamintelligence.com,A-D,4.498141402644854e-06,explorador asociado
+cg:dolz-io,exp:ethplorer.io,A-D,4.498141402644854e-06,explorador asociado
+cg:dolz-io,exp:polygonscan.com,A-D,4.498141402644854e-06,explorador asociado
+cg:dolz-io,exp:basescan.org,A-D,4.498141402644854e-06,explorador asociado
+cg:splinterlands,class:Gaming,A-B,2.0661351951652803e-05,pertenece a categoria
+cg:splinterlands,exp:bscscan.com,A-D,2.0661351951652803e-05,explorador asociado
+cg:splinterlands,exp:platform.arkhamintelligence.com,A-D,2.0661351951652803e-05,explorador asociado
+cg:splinterlands,exp:binplorer.com,A-D,2.0661351951652803e-05,explorador asociado
+cg:pentagon-chain,class:Gaming,A-B,2.5833655457944705e-07,pertenece a categoria
+cg:pentagon-chain,exp:explorer.pentagon.games,A-D,2.5833655457944705e-07,explorador asociado
+cg:pentagon-chain,exp:etherscan.io,A-D,2.5833655457944705e-07,explorador asociado
+cg:pentagon-chain,exp:ethplorer.io,A-D,2.5833655457944705e-07,explorador asociado
+cg:official-crypto-nostra,class:Gaming,A-B,7.11381900838659e-06,pertenece a categoria
+cg:official-crypto-nostra,exp:solscan.io,A-D,7.11381900838659e-06,explorador asociado
+cg:exosama-network,class:Gaming,A-B,2.8738235071842032e-05,pertenece a categoria
+cg:exosama-network,exp:subnets.avax.network,A-D,2.8738235071842032e-05,explorador asociado
+cg:exosama-network,exp:platform.arkhamintelligence.com,A-D,2.8738235071842032e-05,explorador asociado
+cg:exosama-network,exp:explorer.exosama.com,A-D,2.8738235071842032e-05,explorador asociado
+cg:exosama-network,exp:etherscan.io,A-D,2.8738235071842032e-05,explorador asociado
+cg:exosama-network,exp:ethplorer.io,A-D,2.8738235071842032e-05,explorador asociado
+cg:exosama-network,exp:basescan.org,A-D,2.8738235071842032e-05,explorador asociado
+cg:decentrawood,class:Gaming,A-B,5.2876027497982325e-05,pertenece a categoria
+cg:decentrawood,exp:polygonscan.com,A-D,5.2876027497982325e-05,explorador asociado
+cg:decentrawood,exp:platform.arkhamintelligence.com,A-D,5.2876027497982325e-05,explorador asociado
+cg:decentrawood,exp:solscan.io,A-D,5.2876027497982325e-05,explorador asociado
+cg:decentrawood,exp:bscscan.com,A-D,5.2876027497982325e-05,explorador asociado
+cg:decentrawood,exp:binplorer.com,A-D,5.2876027497982325e-05,explorador asociado
+cg:spacem-token,class:Gaming,A-B,3.0675541972473716e-05,pertenece a categoria
+cg:spacem-token,exp:snowtrace.io,A-D,3.0675541972473716e-05,explorador asociado
+cg:spacem-token,exp:avascan.info,A-D,3.0675541972473716e-05,explorador asociado
+cg:brn-metaverse,class:Gaming,A-B,3.4275485996352245e-05,pertenece a categoria
+cg:brn-metaverse,exp:bscscan.com,A-D,3.4275485996352245e-05,explorador asociado
+cg:brn-metaverse,exp:platform.arkhamintelligence.com,A-D,3.4275485996352245e-05,explorador asociado
+cg:brn-metaverse,exp:binplorer.com,A-D,3.4275485996352245e-05,explorador asociado
+cg:arca,class:Gaming,A-B,2.666648035476476e-05,pertenece a categoria
+cg:arca,exp:etherscan.io,A-D,2.666648035476476e-05,explorador asociado
+cg:arca,exp:platform.arkhamintelligence.com,A-D,2.666648035476476e-05,explorador asociado
+cg:arca,exp:ethplorer.io,A-D,2.666648035476476e-05,explorador asociado
+cg:bombie,class:Gaming,A-B,7.213432931316461e-05,pertenece a categoria
+cg:bombie,exp:bscscan.com,A-D,7.213432931316461e-05,explorador asociado
+cg:bombie,exp:binplorer.com,A-D,7.213432931316461e-05,explorador asociado
+cg:bombie,exp:tonscan.org,A-D,7.213432931316461e-05,explorador asociado
+cg:bombie,exp:tonviewer.com,A-D,7.213432931316461e-05,explorador asociado
+cg:frenpet,class:Gaming,A-B,8.691443409162018e-06,pertenece a categoria
+cg:frenpet,exp:basescan.org,A-D,8.691443409162018e-06,explorador asociado
+cg:frenpet,exp:platform.arkhamintelligence.com,A-D,8.691443409162018e-06,explorador asociado
+cg:foxsy-ai,class:Gaming,A-B,3.460275548643306e-05,pertenece a categoria
+cg:foxsy-ai,exp:explorer.multiversx.com,A-D,3.460275548643306e-05,explorador asociado
+cg:foxsy-ai,exp:solscan.io,A-D,3.460275548643306e-05,explorador asociado
+cg:gensokishis-metaverse,class:Gaming,A-B,8.319659289945958e-05,pertenece a categoria
+cg:gensokishis-metaverse,exp:polygonscan.com,A-D,8.319659289945958e-05,explorador asociado
+cg:gensokishis-metaverse,exp:platform.arkhamintelligence.com,A-D,8.319659289945958e-05,explorador asociado
+cg:gensokishis-metaverse,exp:etherscan.io,A-D,8.319659289945958e-05,explorador asociado
+cg:gensokishis-metaverse,exp:ethplorer.io,A-D,8.319659289945958e-05,explorador asociado
+cg:rcade-network,class:Gaming,A-B,9.113326108700578e-05,pertenece a categoria
+cg:rcade-network,exp:arbiscan.io,A-D,9.113326108700578e-05,explorador asociado
+cg:rcade-network,exp:bscscan.com,A-D,9.113326108700578e-05,explorador asociado
+cg:rcade-network,exp:binplorer.com,A-D,9.113326108700578e-05,explorador asociado
+cg:lords,class:Gaming,A-B,4.624516851432243e-06,pertenece a categoria
+cg:lords,exp:etherscan.io,A-D,4.624516851432243e-06,explorador asociado
+cg:lords,exp:platform.arkhamintelligence.com,A-D,4.624516851432243e-06,explorador asociado
+cg:lords,exp:ethplorer.io,A-D,4.624516851432243e-06,explorador asociado
+cg:lords,exp:starkscan.co,A-D,4.624516851432243e-06,explorador asociado
+cg:lords,exp:voyager.online,A-D,4.624516851432243e-06,explorador asociado
+cg:lords,exp:basescan.org,A-D,4.624516851432243e-06,explorador asociado
+cg:phantasma,class:Gaming,A-B,3.42680318532673e-05,pertenece a categoria
+cg:phantasma,exp:explorer.phantasma.info,A-D,3.42680318532673e-05,explorador asociado
+cg:phantasma,exp:platform.arkhamintelligence.com,A-D,3.42680318532673e-05,explorador asociado
+cg:phantasma,exp:etherscan.io,A-D,3.42680318532673e-05,explorador asociado
+cg:phantasma,exp:ethplorer.io,A-D,3.42680318532673e-05,explorador asociado
+cg:phantasma,exp:bscscan.com,A-D,3.42680318532673e-05,explorador asociado
+cg:phantasma,exp:binplorer.com,A-D,3.42680318532673e-05,explorador asociado
